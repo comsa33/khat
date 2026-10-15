@@ -1,0 +1,342 @@
+{"qa_id": "krhlrb_v05_0814", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0815", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0816", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1183", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1184", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1185", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1186", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1187", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1188", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1189", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "3년 이내", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1190", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1191", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1192", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1193", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제출일로부터 15일", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1194", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1195", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "2세대 이상", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1196", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1198", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1199", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1200", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1202", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1680", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음. 제공된 자료가 「제천 영천동 행복주택 예비입주자 모집공고」 1건뿐이므로, 해당 공고에 없는 「동탄 포레파크 자연& 푸르지오(A76-2BL) 분양주택 입주자 모집공고」의 공급위치 정보를 알 수 없기 때문입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1681", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음. 제공된 자료가 「제천 영천동 행복주택 예비입주자 모집공고」 1건뿐이어서 「제주특별자치도개발공사 법환 통합공공임대」 공고의 공급위치 정보를 확인할 수 없기 때문임.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1203", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1204", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1205", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1206", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1207", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1208", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1209", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1210", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1211", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1212", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1213", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1214", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1215", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1216", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "60㎡ 이하", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1217", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1218", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1219", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1220", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "3층 이하", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1221", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1222", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "5년", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1682", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음. 제공된 자료가 「2025년도 하반기 청년매입임대주택 예비입주자 모집 공고」 1건뿐이므로, 「은평뉴타운 분양아파트 잔여세대 입주자 모집공고」의 공급위치가 속한 시·군·구를 확인할 수 있는 정보가 없기 때문입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1360", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1361", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1362", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "85㎡ 이하", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1363", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1364", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1365", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1366", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1367", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "월 1만 원", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1368", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1370", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "19세 미만", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1371", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제7호", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1372", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "1년", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1373", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1374", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1375", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1376", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1377", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1378", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1379", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0982", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0983", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0984", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0985", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0986", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0987", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0988", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0989", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0990", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0991", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0979", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0980", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0981", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1124", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1695", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음. 제공된 자료가 「2025년 인천도시공사 천원주택(전세임대주택) 예비입주자 모집공고」 1건뿐이므로 「항동 공공주택지구 2,4단지 분양주택 입주자 모집공고」의 내용을 확인할 수 없기 때문입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1696", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음. 「쌍문1-1 지구 잔여세대 입주자 모집공고」의 원문 텍스트가 제공되지 않았기 때문입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1380", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "5년", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1381", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1382", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1383", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1384", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1385", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1386", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1387", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제7호", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1388", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "1년이 지나야 제외됩니다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1389", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "5년", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1390", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1391", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "60㎡ 이하", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1392", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1394", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "85제곱미터 이하", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1395", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1396", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1397", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1398", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1399", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "시가 산정 기준일 현재의 시가", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0992", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0993", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1697", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음. (제공된 자료가 '제주특별자치도개발공사 일도1,2차 통합공공임대주택' 공고 1건뿐이므로, '항동 공공주택지구' 모집공고의 공급위치에 대한 정보가 전혀 포함되어 있지 않기 때문입니다.)", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1698", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음. (제공된 자료가 '일도1,2차' 공고 1건뿐이므로 '상암4단지' 공급위치에 대한 정보가 전혀 없기 때문임.)", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1400", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1401", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1402", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1403", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1404", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1405", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1406", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1407", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1408", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1409", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1410", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제7호", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1411", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "1년", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1412", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1413", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1414", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1415", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "만 19세 미만", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1416", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "6세 이하", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1417", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1418", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1419", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1126", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1127", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1128", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1129", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1130", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1131", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1699", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음. 제공된 자료는 '법환 통합공공임대' 공고 1건뿐이므로, 질문에서 묻는 '마곡 도시개발사업지구 9단지 분양주택' 공급위치에 대한 정보가 전혀 포함되어 있지 않기 때문입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1700", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음. 제공된 자료가 '법환 통합공공임대' 공고 1건뿐이므로, 해당 자료에는 '장월지구 2단지 아파트'의 공급위치나 시·군·구 정보가 포함되어 있지 않기 때문입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0470", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0471", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0472", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0473", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0474", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0475", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0476", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0477", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0478", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0479", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "5년", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0480", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0481", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0482", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0483", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0484", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0485", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0486", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0487", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0769", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0770", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0771", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0772", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0773", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0774", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0775", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0776", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0777", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0778", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0779", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0869", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0870", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0871", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0872", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0873", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0874", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0894", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0541", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0542", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0543", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0544", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0545", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0546", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0547", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0548", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0549", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0550", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0551", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0552", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "14일", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0553", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0554", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0555", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0556", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0557", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0817", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0818", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0819", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0820", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0821", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0822", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0895", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0558", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0559", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0560", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0561", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0562", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0563", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0564", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "200,000원", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0565", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "70,000원", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0566", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "15만원", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0567", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0568", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0569", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0570", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "85㎡ 이하", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0571", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "15년", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0572", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0573", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0574", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0575", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0823", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0824", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0825", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0826", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0827", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0828", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0829", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0830", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0831", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0832", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0833", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0834", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0576", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0577", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0578", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0579", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0580", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0581", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "20,000원", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0582", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0583", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0584", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0585", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0586", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "20년", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0587", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "11년", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0588", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "6년", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0589", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0590", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0591", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0592", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0593", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제43번 국도", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0836", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0837", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0838", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0839", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0840", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0841", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0842", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0843", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0844", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0845", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0846", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "7,018천원", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0896", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0897", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0354", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음. (제공된 자료는 0000061016 공고 1건뿐이므로, 0000061042 공고의 공급위치 정보가 포함되어 있지 않아 확정할 수 없음)", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0359", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음. 공고명에 '의왕'이라는 지명이 포함되어 있어 추론은 가능하나, 제공된 자료에 원문 텍스트가 포함되어 있지 않아 공급위치가 속한 정확한 시·군·구를 공식적으로 확정할 수 없기 때문입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0360", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음. 원문 텍스트가 제공되지 않았기 때문입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0361", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음. 제공된 자료가 「대전대동2 1블록 공공분양 입주자모집공고」 1건뿐이므로 「위례 A2-7블록 신혼희망타운 행복주택 입주자모집공고」의 공급위치 정보를 확인할 수 없기 때문입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0362", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음. (제공된 입주자모집공고가 「대전대동2 1블록 공공분양 입주자모집공고」 1건뿐이므로, 「LH 공공분양 입주자모집공고 0000061016」의 공급위치가 속한 시·군·구를 확인할 수 있는 별도의 원문 텍스트나 자료가 제공되지 않았기 때문임.)", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0363", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음. 제공된 자료가 시흥하중 A1블록 공고 1건뿐이므로 위례 A2-7블록 공급위치에 대한 정보가 전혀 포함되어 있지 않기 때문입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0364", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음. (제공된 자료가 시흥하중 A1블록 1건뿐이므로, 0000061031 공고의 공급위치가 동일한지 여부를 알 수 없음)", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0768", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0835", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0371", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0372", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0373", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0374", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0375", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0376", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0377", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0378", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0379", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0407", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0408", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0409", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0410", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0411", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0412", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0413", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0414", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0415", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0416", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0417", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0418", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0419", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0420", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0421", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0422", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0423", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0424", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0425", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "20건", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0426", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0427", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0428", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "20건", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0429", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0430", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0431", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "20건", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0432", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0433", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0434", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0435", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0436", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0437", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0438", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0439", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0440", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0441", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0442", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1734", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "- 제주특별자치도개발공사 일도1,2차 통합공공임대주택 입주자 모집 공고: 제주시\n- 제주특별자치도개발공사 법환 통합공공임대(일자리연계형 지원주택) 입주자 모집 공고: 서귀포시", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1807", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1808", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1809", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1810", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "5건", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1811", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1812", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1813", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "7건", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1814", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1815", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1879", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "17건", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1880", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1881", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1882", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1883", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1884", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1885", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "20건", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1886", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1887", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1888", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "3건", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1889", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1890", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1891", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "3건", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1892", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1893", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1894", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "2건", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1895", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1896", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1897", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "3건", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1898", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1899", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1900", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "3건", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1901", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1902", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1903", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "2건", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1904", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1905", "split": "test_public", "model": "glm-5.2", "setting": "cb", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}

@@ -1,0 +1,81 @@
+{"qa_id": "krhlrb_v05_0371", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "11", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0372", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "8,268", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0373", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "872.7", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0374", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "5", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0375", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "5337", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0376", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "1079.4", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0377", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "7", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0378", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "7154", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0379", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "충청북도 1011.43세대", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0407", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "경기도 56건", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0408", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "686세대", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0409", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "경기도 2023년 분양 사업장 평균 총세대수는 1,152세대입니다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0410", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "경기도 67건", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0411", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "50288", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0412", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "경기도 2024년 분양 사업장 평균 총세대수는 1003세대입니다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0413", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "경기도 2025년 분양 사업장 건수는 62건입니다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0414", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "경기도 56088", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0415", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "경기도 2025년 분양 사업장 평균 총세대수는 1033.3세대입니다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0416", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "6", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0417", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "4002", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0418", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "670.33", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0419", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "14", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0420", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "15743", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0421", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "대전광역시 2024년 분양 사업장 평균 총세대수는 1033세대입니다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0422", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "1", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0423", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "509", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0424", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "509", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0425", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "88", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0426", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "대전광역시 동구의 2025년 3월 평균 거래금액은 약 29,000만원입니다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0427", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "55,800만원", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0428", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "64", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0429", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "대전광역시 동구 30,000만원", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0430", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "52,000만원", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0431", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "64", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0432", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "대전광역시 동구 30,993만원", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0433", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "56,400만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0434", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "경기도 2023년 분양 사업장 건수는 56건입니다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0435", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "경기도 42906세대", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0436", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0437", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0438", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0439", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0440", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "경기도 2025년 분양 사업장 건수는 59건입니다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0441", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "484 + 300 + 384 = 1168 (시흥거모 B-6BL 엘가 로제비앙 더루츠, 시흥거모2차 B-2BL 대방엘리움, 시흥거모1차 S-2BL 대방엘리움)  \n시흥하중 A1블록은 시흥시 하중동에 위치하므로 시흥시 분양 사업장으로 간주할 수 있는 것은 위 3건뿐임.  \n따라서 2025년 시흥시 분양 사업장 총세대수 합은 484 + 300 + 384 = 1168세대임.  \n\n1168", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0442", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "484.3", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1807", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "충청북도 11건", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1808", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1809", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "충청북도 760.9세대", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1810", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "1", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1811", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1812", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "814.6", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1813", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "충청북도 7건", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1814", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "243 + 581 + 1448 + 962 + 847 + 2291 + 1632 = 8654", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1815", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "충청북도 1011.43", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1879", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "13", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1880", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "12039", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1881", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "인천광역시 2023년 분양 사업장 평균 총세대수는 866세대입니다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1882", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "13", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1883", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "17858", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1884", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "인천광역시 2024년 분양 사업장 평균 총세대수는 860세대이다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1885", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "19", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1886", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "23752", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1887", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "인천광역시 2025년 분양 사업장 평균 총세대수는 931세대입니다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1888", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "3", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1889", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "525", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1890", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "175", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1891", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "3", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1892", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "2129", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1893", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "709.67", "judge_label": true, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1894", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "2", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1895", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "134", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1896", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "67", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1897", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "3", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1898", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "925", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1899", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "308.33", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1900", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "제주특별자치도 2024년 분양 사업장 건수는 3건입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1901", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "38", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1902", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "제주특별자치도 709.67세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1903", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "제주특별자치도 2025년 분양 사업장 건수는 2건입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1904", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1905", "split": "test_public", "model": "gpt-4.1-mini", "setting": "agg81 oracle rows", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}

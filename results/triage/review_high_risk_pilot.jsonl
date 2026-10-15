@@ -1,0 +1,15 @@
+{"qa_id": "krhlrb_v05_0641", "verdict": "OK", "issue": null}
+{"qa_id": "krhlrb_v05_0642", "verdict": "OK", "issue": null}
+{"qa_id": "krhlrb_v05_0643", "verdict": "OK", "issue": null}
+{"qa_id": "krhlrb_v05_0644", "verdict": "OK", "issue": null}
+{"qa_id": "krhlrb_v05_0645", "verdict": "OK", "issue": null}
+{"qa_id": "krhlrb_v05_0646", "verdict": "OK", "issue": null}
+{"qa_id": "krhlrb_v05_0647", "verdict": "OK", "issue": null}
+{"qa_id": "krhlrb_v05_0656", "verdict": "OK", "issue": null}
+{"qa_id": "krhlrb_v05_0657", "verdict": "FLAG", "issue": "weak_grounding"}
+{"qa_id": "krhlrb_v05_0658", "verdict": "FLAG", "issue": "wrong_answer"}
+{"qa_id": "krhlrb_v05_0659", "verdict": "FLAG", "issue": "weak_grounding"}
+{"qa_id": "krhlrb_v05_0660", "verdict": "FLAG", "issue": "weak_grounding"}
+{"qa_id": "krhlrb_v05_0661", "verdict": "FLAG", "issue": "weak_grounding"}
+{"qa_id": "krhlrb_v05_0662", "verdict": "FLAG", "issue": "wrong_answer"}
+{"qa_id": "krhlrb_v05_0663", "verdict": "FLAG", "issue": "wrong_answer"}

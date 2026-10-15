@@ -1,0 +1,13 @@
+# Items excluded after the test_public review and the 100-item dev sample review.
+krhlrb_v05_0994
+krhlrb_v05_0995
+krhlrb_v05_1125
+krhlrb_v05_1132
+krhlrb_v05_1369
+krhlrb_v05_0596
+krhlrb_v05_0788
+krhlrb_v05_0800
+krhlrb_v05_0875
+krhlrb_v05_0884
+krhlrb_v05_1056
+krhlrb_v05_1142

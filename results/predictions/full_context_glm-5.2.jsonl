@@ -1,0 +1,98 @@
+{"qa_id": "krhlrb_v05_1193", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "6개월", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1196", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "법률 제7696호", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1198", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "2층 이하", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1202", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "「대기환경보전법」 제58조제3항", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1680", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1681", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1204", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "총 47호입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1205", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "100만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1206", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "200만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1213", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "20년", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1219", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "200㎡ 미만", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1221", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "제8호", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1682", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0983", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "9,915,065원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0984", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "11,151,514원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0986", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "12,653,012원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0990", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "17,156,176원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0991", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "18,062,096원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1383", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "12호", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1394", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "60제곱미터 이하", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1395", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "337,000,000원 이하", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1396", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "38,030,000원 이하", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1397", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "2023.3.28 이후", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1399", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "액면가액", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0993", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "11", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1697", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1698", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1401", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "6년", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1402", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "30호", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1416", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "6세 이하", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1417", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "지하 2층~1층", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1418", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "2~4층", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1419", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "24세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1126", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "100% 이하", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1127", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "130% 이하", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1128", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "150% 이하", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1130", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "3년 이상 5년 미만", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1699", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1700", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0481", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "25만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0482", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "전용 40㎡ 초과", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0770", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "7,720,279", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0773", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "11,151,514원(130% 기준), 12,009,323원(140% 기준, 본인 및 배우자 모두 소득이 있는 경우)", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0777", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "11,740,362원(130%), 12,643,467원(140%)", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0541", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "686세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0542", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "390세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0543", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "194세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0544", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "102세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0545", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "2026.04.30.(목)", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0546", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "2026년 5월 10일(일) 10:00", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0547", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "2일간", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0548", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "10년", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0549", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "2018년 12월 11일", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0550", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "2만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0551", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "15만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0817", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "7,461,588원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0562", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "2018년 12월 11일", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0573", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "0년", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0575", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "약 2개월 전", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0823", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "8,759,777원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0828", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "14,478,311원(130% 기준), 15,592,027원(140% 기준)", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0834", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "8,348,099원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0576", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "600호", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0577", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "55㎡", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0578", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "200세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0579", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "10년", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0580", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "2만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0581", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "4만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0582", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "7만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0583", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "15만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0584", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "35만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0585", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "연 1.3%", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0586", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "29년", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0587", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "4년", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0836", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "6,027,010원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0837", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "7,041,762원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0846", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "11,442,863원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0359", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0362", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0371", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "11", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0417", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "4114", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0424", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "509", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0431", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "137건", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0432", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "26,537만원", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0434", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "61건", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0436", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "약 1,073.4세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1734", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "- 일도1,2차 통합공공임대주택: 제주시\n- 법환 통합공공임대주택: 서귀포시", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1810", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "5건", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1811", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "5897", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1812", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "1179.4세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1813", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "7", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1883", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "17786", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1886", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "21814", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1889", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "525", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1894", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "2건", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1898", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "525", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1901", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "2129", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1903", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "2건", "judge_label": true, "judge_label_secondary": true}

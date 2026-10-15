@@ -1,0 +1,38 @@
+{
+ "_note": "Gold fixes from the full three-annotator review of the evaluated test_public items. Questions are unchanged. 'accepted' lists every answer the source supports when the question does not fix the reading.",
+ "accept_any": {
+  "krhlrb_v05_0869": ["도시근로자 가구당 월평균소득액의 100%", "도시근로자 가구당 월평균소득액의 120% (본인 및 배우자가 모두 소득이 있는 경우)"],
+  "krhlrb_v05_0870": ["도시근로자 가구당 월평균소득액의 130%", "도시근로자 가구당 월평균소득액의 140% (본인 및 배우자가 모두 소득이 있는 경우)"],
+  "krhlrb_v05_0871": ["도시근로자 가구당 월평균소득액의 130%", "도시근로자 가구당 월평균소득액의 200% (본인 및 배우자가 모두 소득이 있는 경우)"],
+  "krhlrb_v05_0872": ["도시근로자 가구당 월평균소득액의 100%", "도시근로자 가구당 월평균소득액의 120% (본인 및 배우자가 모두 소득이 있는 경우)"],
+  "krhlrb_v05_0873": ["도시근로자 가구당 월평균소득액의 130%", "도시근로자 가구당 월평균소득액의 140% (본인 및 배우자가 모두 소득이 있는 경우)"],
+  "krhlrb_v05_0874": ["도시근로자 가구당 월평균소득액의 130%", "도시근로자 가구당 월평균소득액의 200% (본인 및 배우자가 모두 소득이 있는 경우)"],
+  "krhlrb_v05_0772": ["9,366,906", "10,087,437"],
+  "krhlrb_v05_0773": ["11,151,514", "12,009,323"],
+  "krhlrb_v05_0774": ["11,740,362", "12,643,467"],
+  "krhlrb_v05_0775": ["9,366,906", "10,087,437"],
+  "krhlrb_v05_0776": ["11,151,514", "12,009,323"],
+  "krhlrb_v05_0777": ["11,740,362", "12,643,467"],
+  "krhlrb_v05_0826": ["12,653,012", "13,626,320"],
+  "krhlrb_v05_0827": ["13,565,661", "14,609,174"],
+  "krhlrb_v05_0828": ["14,478,311", "15,592,027"],
+  "krhlrb_v05_0829": ["12,653,012", "13,626,320"],
+  "krhlrb_v05_0830": ["13,565,661", "14,609,174"],
+  "krhlrb_v05_0831": ["14,478,311", "15,592,027"],
+  "krhlrb_v05_0563": ["130% 이하", "맞벌이 200% 이하"],
+  "krhlrb_v05_0895": ["2026. 5. 26.(화) (10:00 ~ 17:00) (특별공급)", "2026. 5.28.(목) ~ 5.29.(금) (10:00 ~ 17:00) (일반공급)", "2026. 5. 18. ~ 5. 19. (사전청약 당첨자)"],
+  "krhlrb_v05_0896": ["2026.05.18.(월) 10:00 ~ 05.19.(화) 17:00 (사전청약 당첨자)", "2026.06.01.(월) 10:00 ~ 06.02.(화) 17:00 (신혼부부, 예비신혼부부, 한부모가족)"],
+  "krhlrb_v05_0897": ["2026.05.18.(월) 10:00 ~ 05.19.(화) 17:00 (사전청약 당첨자)", "2026.06.01.(월) 10:00 ~ 06.02.(화) 17:00 (신혼부부, 예비신혼부부, 한부모가족)"],
+  "krhlrb_v05_1419": ["24세대 (단지 전체 구성 기준)", "이번 공고의 공급분에는 전용 20㎡ 주택이 없음"]
+ },
+ "replace": {
+  "krhlrb_v05_0568": "10.28(화)~10.29(수)"
+ },
+ "exclude_from_evaluation": {
+  "krhlrb_v05_0994": "table header misparsed: '110%' is a cell value, not a row label; the question is ill-posed",
+  "krhlrb_v05_0995": "table header misparsed: '110%' is a cell value, not a row label; the question is ill-posed",
+  "krhlrb_v05_1125": "table header misparsed: '110%' is a cell value, not a row label; the question is ill-posed",
+  "krhlrb_v05_1132": "table header misparsed: '110%' is a cell value, not a row label; the question is ill-posed",
+  "krhlrb_v05_1369": "the answer depends on the supply type, which the question does not name"
+ }
+}

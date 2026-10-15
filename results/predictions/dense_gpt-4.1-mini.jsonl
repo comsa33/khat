@@ -1,0 +1,339 @@
+{"qa_id": "krhlrb_v05_1183", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "충북 제천시 영천동 999-2 일원 (제천역 인근)", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1184", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "20세대", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1185", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "4세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1186", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "2025년 7월 14일(월)부터 7월 22일(화)까지이다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1187", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "203호", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1188", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "6,024,703원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1189", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "총 5년 이내여야 한다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1190", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "만 65세 이상", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1191", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "9,031,048원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1192", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "3,803만원 이하", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1193", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제출일부터 6개월 이내 금융정보 조회에 대해서만 유효하다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1194", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "85㎡ 이하", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1195", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "2세대 이상", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1196", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "법률 제7696호", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1198", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "2층 이하", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1199", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "12가지", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1200", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "개별공시지가", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1202", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "「대기환경보전법」제58조제3항", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1680", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1681", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1203", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "대구도시개발공사 공고 제2025-140호", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1204", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1205", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1206", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1207", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1208", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "4,317,797원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1209", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "20%p", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1210", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "계약체결 후 60일 이내에 입주를 완료해야 합니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1211", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "총 9회까지 재계약이 가능합니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1212", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "매월 20일~25일경", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1213", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "20년", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1214", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "법 제16조제1항에 따른 호수", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1215", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "재계약은 4회까지 가능하며 최장 10년간 거주할 수 있습니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1216", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "85제곱미터 이하", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1217", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "1세대만 소유한 경우 무주택으로 인정한다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1218", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "법률 제7696호", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1219", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "200㎡ 미만", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1220", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "2층 이하", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1221", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제53조제8호", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1222", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "사용승인 후 20년 이상 경과된 단독주택이어야 한다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1682", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1360", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "300호", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1361", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "500호", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1362", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "국민주택 규모(전용면적 85㎡) 이하", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1363", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "300세대", "judge_label": false, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1364", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "24,000만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1365", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "4,000만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1366", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "19,200만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1367", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "월 3만원이다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1368", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "호당 지원한도액의 150% 이내로 제한됨.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1370", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1371", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제5호부터 제7호까지", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1372", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1373", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "35,400만원 이하", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1374", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "7,667,804원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1375", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "9,915,065원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1376", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "11,151,514원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1377", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "17,156,176원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1378", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "12,653,012원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1379", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "13,565,661원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0982", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "7,667,804원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0983", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0984", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0985", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0986", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0987", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0988", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0989", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0990", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0991", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0979", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "1.0%", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0980", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "1.5%", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0981", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "2.0%", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1124", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "입주자부담 월임대료는 천원주택의 경우 월 3만원이다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1695", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1696", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1380", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "4년", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1381", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "예비입주자 자격은 예비입주자 발표일로부터 12개월 간 유지된다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1382", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "45% 이상", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1383", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "12호", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1384", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "100만원 단위로 전환 가능합니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1385", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "연 6%", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1386", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "3.5%", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1387", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "국민기초생활 보장법 시행령 제2조2제2항제5호부터 제7호까지에 해당하는 자가 해당 세대구성원에서 제외된다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1388", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1389", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "20년", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1390", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "85㎡ 이하", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1391", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "20㎡ 이하", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1392", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "법률 제7696호 건축법 일부개정법률로 개정되기 전의 것을 말한다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1394", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "60제곱미터 이하", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1395", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "337,000,000원 이하", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1396", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "38,030,000원 이하", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1397", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "2023.3.28. 이후 출산한 자녀를 의미합니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1398", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "임차보증금(전세금 포함)이 있는 주택·상가 등의 기타자산 가액은 제공된 자료에 명확한 산정 기준이 제시되어 있지 않으므로 제공된 자료만으로는 확정할 수 없음.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1399", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0992", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "12", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0993", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "11", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1697", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1698", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1400", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "38호", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1401", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "6년", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1402", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "30호", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1403", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "가구원수별 기준 중위소득 대비 30%~200% 구간 내에서 시세 대비 35%~90% 범위로 차등 적용된다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1404", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "4,784,026원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1405", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "923,623원씩 증가한다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1406", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "4구간", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1407", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "100만원 단위", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1408", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "연 6%", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1409", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "약 50%", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1410", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제2조2제2항제7호", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1411", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "1개월", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1412", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "1985.8.26. ~ 2006.8.25.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1413", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "7년 이내", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1414", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제출일부터 6개월 이내 금융정보 조회 시 유효합니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1415", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "14세 미만", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1416", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "미성년자(만 18세 이하) 자녀를 둔 경우이다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1417", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "지하 2층부터 1층까지 배치되어 있습니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1418", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "2층부터 4층까지입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1419", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1126", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1127", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1128", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1129", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "서귀포시 연속 거주기간 5년 이상인 경우 3점이다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1130", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "서귀포시 연속 거주기간 3년 이상 5년 미만일 경우 2점이다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1131", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "서귀포시 연속 거주기간 1점 기준은 1년 이상 3년 미만이다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1699", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1700", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0470", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "757세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0471", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "296세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0472", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "461세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0473", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "2025년 11월 21일", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0474", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "383세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0475", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "2018년 12월 11일", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0476", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "10년", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0477", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "2만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0478", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "2025년 12월 1일(월)부터 2025년 12월 3일(수) 17:00까지이다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0479", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "10년간", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0480", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "충청북도 청주시 상당구 용암동 3166번지 청주지북 B1블록 주택전시관", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0481", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "매월 최대 25만원까지만 인정합니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0482", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "전용 40제곱미터 초과 구간에 적용된다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0483", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "4년", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0484", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "0년", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0485", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "180일", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0486", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "입주 약 2개월 전에 개별 안내될 예정입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0487", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0769", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0770", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0771", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0772", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0773", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0774", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0775", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "7,205,312원", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0776", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "12,009,323원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0777", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "9,031,048원", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0778", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "5,764,250원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0779", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "6,862,470원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0869", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "전년도 도시근로자 가구당 월평균소득의 130% 이하(본인 및 배우자가 모두 소득이 있는 경우 140%) 이하이다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0870", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "전년도 도시근로자 가구당 월평균소득의 130% 이하(본인 및 배우자가 모두 소득이 있는 경우 140%) 이하이다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0871", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "생애최초 특별공급 소득기준은 무주택세대구성원 전원의 월평균소득이 전년도 도시근로자 가구당 월평균소득의 130%(본인 및 배우자가 모두 소득이 있는 경우 140%) 이하이다.", "judge_label": true, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0872", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "입주자모집공고일 현재 무주택세대구성원 전원의 월평균소득이 전년도 도시근로자 가구당 월평균소득의 100%(본인 및 배우자가 모두 소득이 있는 경우 120%) 이하인 자를 대상으로 주택형별 공급량의 70%를 우선공급한다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0873", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "신혼부부 일반공급 소득기준은 무주택세대구성원 전원의 월평균소득이 전년도 도시근로자 가구당 월평균소득의 130%(본인 및 배우자가 모두 소득이 있는 경우 140%) 이하이다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0874", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "입주자모집공고일 현재 무주택세대구성원 전원의 월평균소득이 전년도 도시근로자 가구당 월평균소득의 130%(본인 및 배우자가 모두 소득이 있는 경우 200%) 이하이다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0894", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "2025년 12월 2일(화) 10:00부터 2025년 12월 3일(수) 17:00까지", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0541", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "686세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0542", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "390세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0543", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "194세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0544", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "102세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0545", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "2026.04.30.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0546", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "2026년 5월 10일(일)", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0547", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "2일간(2026.05.08.~05.09.)", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0548", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "10년", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0549", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "2018년 12월 11일", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0550", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "2만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0551", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "15만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0552", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "180일", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0553", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0554", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "국토교통부고시 제2025-727호", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0555", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "10퍼센트", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0556", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "2026년 8월 28일까지 신청해야 한다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0557", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "2028년 12월로 계획되어 있음.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0817", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0818", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0819", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0820", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0821", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0822", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0895", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "사전청약 당첨자: 2026.05.18.~05.19.(10:00~17:00)  \n특별공급: 2026.05.26.(10:00~17:00)  \n일반공급: 2026.05.28.~05.29.(10:00~17:00)", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0558", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "881세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0559", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "377세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0560", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "84㎡", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0561", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "504세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0562", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "2018년 12월 11일", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0563", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "130% 이하", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0564", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "7만원", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0565", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "4만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0566", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "7만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0567", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "10년간", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0568", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "2025년 10월 28일(화)부터 10월 29일(수)까지", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0569", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0570", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0571", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "4년", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0572", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "6년", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0573", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "0년", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0574", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "180일", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0575", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "입주 약 2개월 전에 개별 안내될 예정임.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0823", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0824", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0825", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0826", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0827", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0828", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0829", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0830", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0831", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "15,592,027원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0832", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "7,224,838원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0833", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "7,786,469원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0834", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "8,348,099원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0576", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "600호", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0577", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "55㎡", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0578", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "200세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0579", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "10년", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0580", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "2만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0581", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "4만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0582", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "7만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0583", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "15만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0584", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "35만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0585", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "연 1.3%", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0586", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "29년", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0587", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "4년", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0588", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "6년", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0589", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "60%", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0590", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "2026년 6월 11일(목) 11:00에 진행된다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0591", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0592", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "2025-891호", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0593", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "국도 39호선", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0836", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "6,027,010원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0837", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "7,041,762원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0838", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "7,461,588원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0839", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "9,793,892원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0840", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "11,442,863원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0841", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "12,125,081원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0842", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "9,793,892원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0843", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "11,442,863원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0844", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "12,125,081원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0845", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "9,793,892원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0846", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "11,442,863원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0896", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "2026.06.01.(월) 10:00 ~ 06.02.(화) 17:00", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0897", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "사전청약 당첨자 신청일시: 2026.05.18.(월) 10:00 ~ 2026.05.19.(화) 17:00  \n본청약 신청일시: 2026.06.01.(월) 10:00 ~ 2026.06.02.(화) 17:00", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0354", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0359", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "경기도 의왕시", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0360", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "경기도 성남시 수정구", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0361", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "경기도 성남시 수정구", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0362", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "대전광역시 동구", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0363", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0364", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "경기도 시흥시", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0768", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "35만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0835", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "35만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0371", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0372", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0373", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0374", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0375", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0376", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0377", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0378", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0379", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0407", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0408", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0409", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0410", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0411", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0412", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "경기도 2024년 평균 총세대수는 제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0413", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0414", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0415", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0416", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "대전광역시 2023년 분양 사업장 건수는 7건이다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0417", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "대전광역시 2023년 총세대수 합은 7,222세대이다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0418", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "대전광역시 2023년 평균 총세대수는 727.3세대이다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0419", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "대전광역시 2024년 분양 사업장 건수는 19건이다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0420", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "대전광역시 2024년 분양 사업장 총세대수 합은 19,438세대이다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0421", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "대전광역시 2024년 평균 총세대수는 913.7세대이다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0422", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "대전광역시 2025년 분양 사업장 건수는 1건입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0423", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "509 + 1470 + 1075 = 3054", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0424", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0425", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0426", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "대전광역시 동구 31,000만원 (평균값 대략)", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0427", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "50,000만원", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0428", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0429", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "대전광역시 동구 31,796만원", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0430", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "520,000,000원", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0431", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0432", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "대전광역시 동구 2025년 10월 평균 거래금액은 제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0433", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "56,400만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0434", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "경기도 2023년 분양 사업장 건수는 26건입니다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0435", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "경기도 2023년 분양 사업장 총세대수 합은 19,703세대이다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0436", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "경기도 2023년 분양 사업장 평균 총세대수는 제공된 자료만으로는 확정할 수 없음.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0437", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "경기도 2024년 분양 사업장 건수는 27건이다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0438", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "경기도 2024년 분양 사업장 총세대수 합은 31,202세대이다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0439", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "경기도 2024년 분양 사업장 평균 총세대수는 1232세대이다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0440", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "경기도 2025년 분양 사업장 건수는 제공된 자료에 없음.  \n따라서 제공된 자료만으로는 확정할 수 없음.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0441", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "13288", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0442", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "경기도 2025년 분양 사업장 평균 총세대수는 931.3세대이다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1734", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "일도1,2차: 제주시  \n법환: 서귀포시", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1807", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "충청북도 2023년 분양 사업장 건수는 제공된 자료에 없음.  \n따라서 제공된 자료만으로는 확정할 수 없음.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1808", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1809", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "충청북도 2023년 평균 총세대수는 제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1810", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1811", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1812", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1813", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "충청북도 2025년 분양 사업장 건수는 제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1814", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "충청북도 2025년 분양 사업장 총세대수 합은 0이다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1815", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "충청북도 2025년 분양 사업장 평균 총세대수는 제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1879", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "인천광역시 2023년 분양 사업장 건수는 12건입니다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1880", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "인천광역시 2023년 분양 사업장 총세대수 합은 9,927세대이다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1881", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "1390.5", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1882", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "인천광역시 2024년 분양 사업장 건수는 9건입니다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1883", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "인천광역시 2024년 분양 사업장 총세대수 합은 7,611세대이다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1884", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "인천광역시 2024년 분양 사업장 평균 총세대수는 1003.9세대이다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1885", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1886", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "인천광역시 2025년 분양 사업장 총세대수 합은 10147세대이다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1887", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1888", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제주특별자치도 2023년 분양 사업장 건수는 3건입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1889", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제주특별자치도 2023년 분양 사업장 총세대수 합은 525입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1890", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "425", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1891", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제주특별자치도 2024년 분양 사업장 건수는 3건이다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1892", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제주특별자치도 2024년 분양 사업장 총세대수 합은 2,129세대이다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1893", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제주특별자치도에 대한 2024년 분양 사업장 평균 총세대수는 제공된 자료에 없음.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1894", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제주특별자치도 2025년 분양 사업장 건수는 2건이다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1895", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "69", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1896", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제주특별자치도 2025년 분양 사업장 평균 총세대수는 60.8이다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1897", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제주특별자치도 2023년 분양 사업장 건수는 3건입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1898", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제주특별자치도 2023년 분양 사업장 총세대수 합은 525입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1899", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제주특별자치도 2023년 분양 사업장 평균 총세대수는 246.5세대입니다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1900", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제주특별자치도 2024년 분양 사업장 건수는 3건이다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1901", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "38,000", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1902", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제주특별자치도 2024년 분양 사업장 평균 총세대수는 727.0이다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1903", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제주특별자치도 2025년 분양 사업장 건수는 2건이다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1904", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제주특별자치도 2025년 분양 사업장 총세대수 합은 200입니다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1905", "split": "test_public", "model": "gpt-4.1-mini", "setting": "dense", "prediction": "제주특별자치도 2025년 분양 사업장 평균 총세대수는 제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}

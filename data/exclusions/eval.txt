@@ -1,0 +1,24 @@
+# Items excluded from evaluation in every setting (closed-book included).
+krhlrb_v05_0994
+krhlrb_v05_0995
+krhlrb_v05_1125
+krhlrb_v05_1132
+krhlrb_v05_1369
+krhlrb_v05_0596
+krhlrb_v05_0788
+krhlrb_v05_0800
+krhlrb_v05_0875
+krhlrb_v05_0884
+krhlrb_v05_1056
+krhlrb_v05_1142
+krhlrb_v05_0887
+krhlrb_v05_0937
+krhlrb_v05_0938
+krhlrb_v05_0973
+krhlrb_v05_0974
+krhlrb_v05_1133
+krhlrb_v05_1155
+krhlrb_v05_1158
+krhlrb_v05_1308
+krhlrb_v05_1316
+krhlrb_v05_1484

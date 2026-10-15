@@ -1,0 +1,150 @@
+{"qa_id": "krhlrb_v05_1171", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "6,024,703원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1174", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "10%P", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1177", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "2점", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0910", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "24.10㎡", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1193", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "제출일부터 **6개월 이내**의 금융정보 조회에 대해서만 유효합니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1196", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1198", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "2층 이하입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1202", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1680", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1681", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1204", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "47호", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1205", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "100만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1206", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "200만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1213", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "최장 20년까지 거주할 수 있습니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1219", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "200㎡ 미만", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1221", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "제8호", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1682", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1229", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "50%", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0915", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "1,960,613천원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0914", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "50%", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1248", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "제6호 및 제7호에 따른 학교입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0919", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "100%", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1097", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "1인 기준은 **4,179,557원 이하**입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1112", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "맞벌이 신혼부부의 6인 기준은 **월평균소득 11,475,938원 이하, 소득기준 120%**입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1119", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "8,248,467원 이하입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1271", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "35만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1275", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "351세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1283", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "1,121세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1284", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "10년", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0947", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "2,224,000원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0948", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "1,640,000원", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0950", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "30% / 20% / 50%", "judge_label": false, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0976", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "1,646,102,980원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1311", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "9,733,086원 이하", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1312", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "25,400만원 이하입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1321", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "2019년 9월 27일 이후", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1351", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "650호", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0983", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "9,915,065원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0984", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "11,151,514원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0986", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "12,653,012원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0990", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "17,156,176원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0991", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "18,062,096원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1383", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "12호입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1394", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "60제곱미터 이하입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1395", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "337,000,000원 이하", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1396", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "38,030,000원 이하입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1397", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "2023년 3월 28일 이후 출산한 자녀입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1399", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "액면가액으로 산정합니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0993", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "11호", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1697", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1698", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1401", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "6년", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1402", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "30호", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1416", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "6세 이하입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1417", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "지하 2층부터 1층까지 배치되어 있습니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1418", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "2층부터 4층까지입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1419", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1126", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "3점 기준은 **기준 중위소득 100% 이하**입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1127", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "기준 중위소득 **130% 이하**입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1128", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "기준 중위소득 **150% 이하**입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1130", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "3년 이상 5년 미만입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1699", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1700", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0481", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "매월 최대 25만원까지 인정합니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0482", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "전용 40㎡ 초과 구간입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0770", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "7,720,279원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0773", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "12,009,323원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0777", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "7,224,838원", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0491", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "2025.12.30(화)", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0494", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "2만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0502", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "180일 동안 유지됩니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0794", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "7,720,279원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0529", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "10년간 재당첨이 제한됩니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0530", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "2021년 7월까지입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0806", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "5,037,430원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0807", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "2,878,531원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0535", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "0년", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0541", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "686세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0542", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "390세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0543", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "194세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0544", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "102세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0545", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "2026.04.30.(목)", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0546", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "2026.05.10.(일) 10:00", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0547", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "2일간", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0548", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "10년입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0549", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "2018.12.11.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0550", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "2만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0551", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "15만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0817", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "7,461,588원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0562", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "2018년 12월 11일입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0573", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "0년", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0575", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "입주 약 2개월 전에 개별 안내될 예정입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0823", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "11,679,703원", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0828", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "11,137,162원", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0834", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "8,348,099원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0576", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "600호", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0577", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "55㎡", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0578", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "200세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0579", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "10년", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0580", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "2만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0581", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "4만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0582", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "7만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0583", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "15만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0584", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "35만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0585", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "연 1.3%입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0586", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "29년", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0587", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "4년으로 산정됩니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0836", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "6,027,010원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0837", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "7,041,762원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0846", "split": "test_public", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "11,442,863원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0598", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "218세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0848", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "5,764,250원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0851", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "9,366,906원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0621", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "34,500만원 이하입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0891", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "성남시에 3년 이상 거주한 경우입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0623", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "130%", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0638", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "10년간", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1421", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "아파트동 1, 2층", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1425", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "은평뉴타운1지구 내 주민운동시설로 설치되는 배드민턴장은 2개입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1461", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "5호선", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1032", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "88,766천원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1034", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "330,654천원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1480", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "433세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1481", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "529세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1038", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "4,695,438원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1041", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "5,628,344원", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1060", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "7,622,056원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1135", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "생애최초 우선공급의 가구당 월평균소득 비율 기준은 **전년도 도시근로자 가구당 월평균소득액의 100% 이하**입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1519", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "273호", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1067", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "4,556,616원", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1075", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "11,256,689원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1081", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "12,171,622원", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1083", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "6,509,452원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1552", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "20% 범위 내에서 선정합니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1561", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "당일 신청자 전원을 대상으로 무작위 전산추첨으로 진행된다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1563", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "761세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1594", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "1,352,784천원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1598", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "2005. 11. 15(화) 11:00입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1615", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "373세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1621", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "5%", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1623", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "연 5.2%", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1625", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "231.59%", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1635", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "1년", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1643", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "3개월 이내입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1644", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "254세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1646", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "건설량의 **10% 범위 내**입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1655", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "연 14%입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1663", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "253세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1670", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "366,562천원이며 계약금은 73,312천원입니다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1673", "split": "dev", "model": "gpt-5.4-mini", "setting": "fc", "prediction": "3세대", "judge_label": true, "judge_label_secondary": true}

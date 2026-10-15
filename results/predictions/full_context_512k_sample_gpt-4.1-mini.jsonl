@@ -1,0 +1,19 @@
+{"qa_id": "krhlrb_v05_0371", "split": "test_public", "model": "gpt-4.1-mini", "setting": "fc", "prediction": "757", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0417", "split": "test_public", "model": "gpt-4.1-mini", "setting": "fc", "prediction": "대전광역시 2023년 분양 사업장 총세대수 합은 19,091세대입니다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0424", "split": "test_public", "model": "gpt-4.1-mini", "setting": "fc", "prediction": "162세대입니다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0431", "split": "test_public", "model": "gpt-4.1-mini", "setting": "fc", "prediction": "대전광역시 동구의 2025년 10월 아파트 매매 거래 건수는 4건입니다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0432", "split": "test_public", "model": "gpt-4.1-mini", "setting": "fc", "prediction": "대전광역시 동구 2025년 10월 평균 거래금액은 3억 4,000만원입니다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0434", "split": "test_public", "model": "gpt-4.1-mini", "setting": "fc", "prediction": "2023년 경기도 분양 사업장 건수는 97개입니다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0436", "split": "test_public", "model": "gpt-4.1-mini", "setting": "fc", "prediction": "2023년 경기도 분양 사업장 평균 총세대수는 약 929세대입니다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1734", "split": "test_public", "model": "gpt-4.1-mini", "setting": "fc", "prediction": "- 제주특별자치도개발공사 일도1,2차 통합공공임대주택 입주자 모집 공고: 제주시  \n- 제주특별자치도개발공사 법환 통합공공임대(일자리연계형 지원주택) 입주자 모집 공고: 서귀포시", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1810", "split": "test_public", "model": "gpt-4.1-mini", "setting": "fc", "prediction": "2024년 충북 분양 사업장 건수는 2387건입니다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1811", "split": "test_public", "model": "gpt-4.1-mini", "setting": "fc", "prediction": "162호", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1812", "split": "test_public", "model": "gpt-4.1-mini", "setting": "fc", "prediction": "722세대입니다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1813", "split": "test_public", "model": "gpt-4.1-mini", "setting": "fc", "prediction": "2025년 충청북도 분양 사업장 건수는 7개입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1883", "split": "test_public", "model": "gpt-4.1-mini", "setting": "fc", "prediction": "인천광역시 2024년 분양 사업장 총세대수 합은 15,899세대입니다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1886", "split": "test_public", "model": "gpt-4.1-mini", "setting": "fc", "prediction": "500세대입니다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1889", "split": "test_public", "model": "gpt-4.1-mini", "setting": "fc", "prediction": "제공된 자료에 따르면, 제주특별자치도 2023년 분양 사업장 총세대수는 다음과 같습니다.\n\n- [도시형생활주택]리체힐 아라 1단지: 36세대  \n- [도시형생활주택]제주 이호일동 연립주택 신축공사: 64세대  \n- 효성해링턴 플레이스 제주: 425세대  \n\n총합 = 36 + 64 + 425 = 525세대\n\n따라서, 제주특별자치도 2023년 분양 사업장 총세대수 합은 525세대입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1894", "split": "test_public", "model": "gpt-4.1-mini", "setting": "fc", "prediction": "11개 사업장입니다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1898", "split": "test_public", "model": "gpt-4.1-mini", "setting": "fc", "prediction": "425세대입니다.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1901", "split": "test_public", "model": "gpt-4.1-mini", "setting": "fc", "prediction": "7154세대", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1903", "split": "test_public", "model": "gpt-4.1-mini", "setting": "fc", "prediction": "38개 사업장입니다.", "judge_label": false, "judge_label_secondary": false}

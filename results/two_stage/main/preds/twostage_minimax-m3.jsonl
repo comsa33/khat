@@ -1,0 +1,225 @@
+{"qa_id": "krhlrb_v05_0380", "prediction": "42개", "status": "ok"}
+{"qa_id": "krhlrb_v05_0381", "prediction": "65,478", "status": "ok"}
+{"qa_id": "krhlrb_v05_0382", "prediction": "해당 공고의 공급위치는 경기도 남양주시 진접읍이며, HUG 자료의 2023년 경기도 분양 사업장 61건의 총세대수를 합산한 평균 총세대수(TOT_HOCO)는 **약 1,073세대**(65,478 ÷ 61 = 1,073.41)입니다.", "status": "ok"}
+{"qa_id": "krhlrb_v05_0383", "prediction": "77건", "status": "ok"}
+{"qa_id": "krhlrb_v05_0384", "prediction": "70,605세대", "status": "ok"}
+{"qa_id": "krhlrb_v05_0385", "prediction": "「LH 공공분양 입주자모집공고 0000061031」의 공급위치는 경기도 남양주시이므로, HUG 자료에서 2024년 경기도 77개 사업장의 총세대수 합계 70,605세대를 77로 나눈 평균은 약 **917세대**입니다.", "status": "ok"}
+{"qa_id": "krhlrb_v05_0386", "prediction": "72건", "status": "ok"}
+{"qa_id": "krhlrb_v05_0387", "prediction": "67,541", "status": "ok"}
+{"qa_id": "krhlrb_v05_0388", "prediction": "공급위치: 경기도 남양주시 진접읍 → **경기도**\n\n경기도 2025년 사업장 72개소의 총세대수 합계 = 67,541세대\n평균 총세대수 = 67,541 ÷ 72 ≈ **약 938.07세대** (≈ 938세대)", "status": "ok"}
+{"qa_id": "krhlrb_v05_0389", "prediction": "61개 사업장", "status": "ok"}
+{"qa_id": "krhlrb_v05_0390", "prediction": "**65,478**", "status": "ok"}
+{"qa_id": "krhlrb_v05_0391", "prediction": "소재지: 경기도 과천시 → **경기도** 2023년 HUG 분양 사업장 평균 총세대수 ≈ **1,073.4 세대**\n\n(경기도 2023년 61개 사업장 총세대수 합계 65,478 ÷ 61 = 약 1,073.4)", "status": "ok"}
+{"qa_id": "krhlrb_v05_0392", "prediction": "77건", "status": "ok"}
+{"qa_id": "krhlrb_v05_0393", "prediction": "**70,605세대**\n\n공급위치 「경기도 과천시」에 따라, HUG 분양이력 자료의 2024년 경기도 사업장 총세대수(TOT_HOCO)를 모두 합산한 결과 70,605세대임.", "status": "ok"}
+{"qa_id": "krhlrb_v05_0394", "prediction": "공급위치: 경기도 과천시 → **경기도**\n\n2024년 경기도 분양 사업장 TOT_HOCO 평균:\n- 사업장 수: 77개\n- 총세대수 합계: 70,605세대\n- **평균 ≈ 916.9세대 (약 917세대)**", "status": "ok"}
+{"qa_id": "krhlrb_v05_0395", "prediction": "72건", "status": "ok"}
+{"qa_id": "krhlrb_v05_0396", "prediction": "67,541세대", "status": "ok"}
+{"qa_id": "krhlrb_v05_0397", "prediction": "약 938세대 (정확히는 67,541 ÷ 72 = 938.07)", "status": "ok"}
+{"qa_id": "krhlrb_v05_0398", "prediction": "61건", "status": "ok"}
+{"qa_id": "krhlrb_v05_0399", "prediction": "제공된 자료만으로는 확정할 수 없음", "status": "ok"}
+{"qa_id": "krhlrb_v05_0400", "prediction": "제공된 자료만으로는 확정할 수 없음", "status": "ok"}
+{"qa_id": "krhlrb_v05_0401", "prediction": "제공된 자료만으로는 확정할 수 없음", "status": "ok"}
+{"qa_id": "krhlrb_v05_0402", "prediction": "제공된 자료만으로는 확정할 수 없음", "status": "ok"}
+{"qa_id": "krhlrb_v05_0403", "prediction": "제공된 자료만으로는 확정할 수 없음", "status": "ok"}
+{"qa_id": "krhlrb_v05_0404", "prediction": "제공된 자료만으로는 확정할 수 없음", "status": "ok"}
+{"qa_id": "krhlrb_v05_0405", "prediction": "제공된 자료만으로는 확정할 수 없음", "status": "ok"}
+{"qa_id": "krhlrb_v05_0406", "prediction": "제공된 자료만으로는 확정할 수 없음", "status": "ok"}
+{"qa_id": "krhlrb_v05_1798", "prediction": "12건", "status": "ok"}
+{"qa_id": "krhlrb_v05_1799", "prediction": "18,346", "status": "ok"}
+{"qa_id": "krhlrb_v05_1800", "prediction": "부산광역시 2023년 총 12개 사업장, 총세대수 합계 18,346세대 → 평균 약 **1,528.83세대** (≈1,529세대)", "status": "ok"}
+{"qa_id": "krhlrb_v05_1801", "prediction": "15건", "status": "ok"}
+{"qa_id": "krhlrb_v05_1802", "prediction": "10,486세대", "status": "ok"}
+{"qa_id": "krhlrb_v05_1803", "prediction": "약 749세대", "status": "ok"}
+{"qa_id": "krhlrb_v05_1804", "prediction": "19건", "status": "ok"}
+{"qa_id": "krhlrb_v05_1805", "prediction": "14,558", "status": "ok"}
+{"qa_id": "krhlrb_v05_1806", "prediction": "**답:** 약 766세대 (부산광역시 2025년 19개 사업장 총세대수 합계 14,558 ÷ 19 ≈ 766.2)\n\n**산출 근거:**\n- 공급위치: 부산광역시(공고문에 \"부산광역시 내 20개 주택 90호\" 명시)\n- 2025년 부산광역시 HUG 분양 사업장 19건의 TOT_HOCO 합계: 14,558\n- 평균: 14,558 ÷ 19 ≈ **766.2세대**", "status": "ok"}
+{"qa_id": "krhlrb_v05_1816", "prediction": "6개", "status": "ok"}
+{"qa_id": "krhlrb_v05_1817", "prediction": "**4,114**\n\n(대전광역시 대덕구 대청로5에 위치. 2023년 대전광역시 6개 사업장의 TOT_HOCO: 338+338+818+358+245+2,017 = 4,114)", "status": "ok"}
+{"qa_id": "krhlrb_v05_1818", "prediction": "685.67세대 (총 6개 사업장, 총세대수 합계 4,154호 ÷ 6 ≈ 685.67)", "status": "ok"}
+{"qa_id": "krhlrb_v05_1819", "prediction": "15", "status": "ok"}
+{"qa_id": "krhlrb_v05_1820", "prediction": "15,826세대", "status": "ok"}
+{"qa_id": "krhlrb_v05_1821", "prediction": "대전광역시 대덕구 대청로5에 위치한 신탄진 다가온 청년주택의 공급위치는 **대전광역시**에 속하며, HUG 분양이력 자료에서 2024년 대전광역시 분양 사업장 15건의 총세대수(TOT_HOCO) 합계는 15,826세대입니다.\n\n**평균 총세대수 = 15,826 ÷ 15 ≈ 1,055세대**", "status": "ok"}
+{"qa_id": "krhlrb_v05_1822", "prediction": "제공된 자료만으로는 확정할 수 없음", "status": "ok"}
+{"qa_id": "krhlrb_v05_1823", "prediction": "509", "status": "ok"}
+{"qa_id": "krhlrb_v05_1824", "prediction": "509", "status": "ok"}
+{"qa_id": "krhlrb_v05_1825", "prediction": "6", "status": "ok"}
+{"qa_id": "krhlrb_v05_1826", "prediction": "**4,114세대**", "status": "ok"}
+{"qa_id": "krhlrb_v05_1827", "prediction": "대전광역시 동구 낭월동(대전광역시)에 위치한 「낭월 다가온 청년주택」의 2023년 대전광역시 HUG 분양 사업장은 6건이며, 총세대수의 합은 338 + 338 + 818 + 358 + 245 + 2017 = 4,114세대입니다.\n\n평균 총세대수(TOT_HOCO) = 4,114 ÷ 6 ≈ **약 685.67세대(약 686세대)**", "status": "ok"}
+{"qa_id": "krhlrb_v05_1828", "prediction": "15건", "status": "ok"}
+{"qa_id": "krhlrb_v05_1829", "prediction": "15,826세대", "status": "ok"}
+{"qa_id": "krhlrb_v05_1830", "prediction": "**약 1,055세대** (15개 사업장 합계 15,826세대 ÷ 15 = 1,055.07)", "status": "ok"}
+{"qa_id": "krhlrb_v05_1831", "prediction": "1", "status": "ok"}
+{"qa_id": "krhlrb_v05_1832", "prediction": "509", "status": "ok"}
+{"qa_id": "krhlrb_v05_1833", "prediction": "509", "status": "ok"}
+{"qa_id": "krhlrb_v05_1834", "prediction": "61건", "status": "ok"}
+{"qa_id": "krhlrb_v05_1835", "prediction": "65,478", "status": "ok"}
+{"qa_id": "krhlrb_v05_1836", "prediction": "경기도 화성시(경기도) 소재 사업장의 2023년 HUG 분양이력 자료 기준 평균 총세대수(TOT_HOCO)는 **약 1,073.41세대**입니다.\n\n(경기도 2023년 사업장 61건의 TOT_HOCO 합계 65,478 ÷ 61건 = 1,073.41)", "status": "ok"}
+{"qa_id": "krhlrb_v05_1837", "prediction": "77건", "status": "ok"}
+{"qa_id": "krhlrb_v05_1838", "prediction": "70,605세대", "status": "ok"}
+{"qa_id": "krhlrb_v05_1839", "prediction": "경기도(화성시)는 2024년 경기도 내 HUG 분양 이력 사업장 77건의 총세대수 합계가 70,605세대이며, 평균 총세대수(TOT_HOCO)는 약 **916.95세대**입니다.", "status": "ok"}
+{"qa_id": "krhlrb_v05_1840", "prediction": "72건", "status": "ok"}
+{"qa_id": "krhlrb_v05_1841", "prediction": "67,541세대", "status": "ok"}
+{"qa_id": "krhlrb_v05_1842", "prediction": "**약 938.07세대**\n\n산출 근거:\n- 공급위치: 경기도 화성시 산척동 749번지 → **경기도**\n- HUG 자료상 2025년 경기도 분양 사업장: **72건**\n- 총세대수(TOT_HOCO) 합계: **67,541세대**\n- 평균 = 67,541 ÷ 72 ≈ **938.07세대**", "status": "ok"}
+{"qa_id": "krhlrb_v05_1843", "prediction": "61건", "status": "ok"}
+{"qa_id": "krhlrb_v05_1844", "prediction": "65,478", "status": "ok"}
+{"qa_id": "krhlrb_v05_1845", "prediction": "1,073.41 (약 1,073세대)", "status": "ok"}
+{"qa_id": "krhlrb_v05_1846", "prediction": "77건", "status": "ok"}
+{"qa_id": "krhlrb_v05_1847", "prediction": "70,605", "status": "ok"}
+{"qa_id": "krhlrb_v05_1848", "prediction": "동탄 포레파크 자연& 푸르지오(A76-2BL)의 공급위치는 경기도 화성시이므로, 해당 시·도는 **경기도**입니다.\n\n경기도 2024년 HUG 분양 사업장 77건의 TOT_HOCO 합계는 70,605이며, 평균 총세대수는 **약 916.95세대 (≈ 917세대)**입니다.", "status": "ok"}
+{"qa_id": "krhlrb_v05_1849", "prediction": "72건", "status": "ok"}
+{"qa_id": "krhlrb_v05_1850", "prediction": "67,541세대", "status": "ok"}
+{"qa_id": "krhlrb_v05_1851", "prediction": "경기도 화성시는 경기도에 속하며, HUG 분양이력 자료에서 2025년 경기도 분양 사업장은 총 72건이고 총세대수의 합은 67,541세대입니다.\n\n**평균 총세대수(TOT_HOCO) = 67,541 ÷ 72 ≈ 938.07세대**", "status": "ok"}
+{"qa_id": "krhlrb_v05_1852", "prediction": "14", "status": "ok"}
+{"qa_id": "krhlrb_v05_1853", "prediction": "8,233세대", "status": "ok"}
+{"qa_id": "krhlrb_v05_1854", "prediction": "광주광역시도시공사 행복주택(광주역, 서림)의 공급위치는 광주광역시 북구(서암대로 268, 자동차로 11-9)로 **광주광역시**에 속합니다.\n\nHUG 분양이력 자료상 **광주광역시 2023년**의 분양 사업장 14건의 총세대수(TOT_HOCO)는 다음과 같습니다:\n\n| 사업장명 | 총세대수 |\n|---|---|\n| 연제첨단 광신프로그레스 | 380 |\n| 광주연구개발특구 첨단3지구 A5BL | 591 |\n| 광주선운2지구 B-2BL | 564 |\n| 중앙근린공원(2지구) | 707 |\n| 운암산공원 우미린 리버포레 | 672 |\n| 마륵공원 비공원시설 | 952 |\n| 상무 센트럴자이 | 945 |\n| 광산센트럴파크지역주택조합 | 397 |\n| 남구덕림지역주택조합 | 565 |\n| 장미구역 재건축 | 563 |\n| 광주 서구 마륵동 골드클래스 | 198 |\n| 광주 화정 아이파크 2단지 | 408 |\n| 광주 화정 아이파크 1단지 | 439 |\n| 계림4구역 재개발 | 852 |\n\n- 사업장 건수: **14건**\n- 총세대수 합계: 8,233세대\n- **평균 총세대수 = 8,233 ÷ 14 ≈ 588.07세대**", "status": "ok"}
+{"qa_id": "krhlrb_v05_1855", "prediction": "11개", "status": "ok"}
+{"qa_id": "krhlrb_v05_1856", "prediction": "12,156", "status": "ok"}
+{"qa_id": "krhlrb_v05_1857", "prediction": "**공급위치:** 광주광역시 북구(서암대로 268, 자동차로 11-9) → **광주광역시**\n\n**2024년 광주광역시 분양 사업장 (11건) 총세대수:**\n681 + 456 + 928 + 915 + 929 + 948 + 1,575 + 1,049 + 785 + 610 + 3,280 = **12,156세대**\n\n**평균 총세대수 = 12,156 ÷ 11 ≈ 1,105.1세대 (약 1,105세대)**", "status": "ok"}
+{"qa_id": "krhlrb_v05_1858", "prediction": "6건", "status": "ok"}
+{"qa_id": "krhlrb_v05_1859", "prediction": "1,784세대", "status": "ok"}
+{"qa_id": "krhlrb_v05_1860", "prediction": "**약 297.33세대 (1,784 ÷ 6)**\n\n산출 근거:\n- 모집공고(p.1)의 공급위치는 「광주 북구 서암대로 268(광주역)」, 「광주 북구 자동차로 11-9(서림마을)」로 **광주광역시**에 속함.\n- HUG 분양이력 자료상 **광주광역시 2025년** 행(6건)의 총세대수(TOT_HOCO):\n  - 광주 산수동 무등산 경남아너스빌 디원: 293\n  - 진월동지역주택조합 공동주택 신축공사: 300\n  - 송정 리버파크 지역주택조합 공동주택 신축공사: 471\n  - 봉선동 르오네뜨 2차: 56\n  - 남구수박등지역주택조합사업(두산위브 트레지움 월산): 342\n  - 광주 마륵동 연화지역주택조합 아파트 신축공사: 322\n- 합계 1,784 / 6건 = **약 297.33세대**", "status": "ok"}
+{"qa_id": "krhlrb_v05_1861", "prediction": "14", "status": "ok"}
+{"qa_id": "krhlrb_v05_1862", "prediction": "8,233세대", "status": "ok"}
+{"qa_id": "krhlrb_v05_1863", "prediction": "**약 588.07세대**\n\n(산정 근거)\n- 공급위치: 광주광역시\n- 2023년 광주광역시 HUG 분양 사업장 14건, 총세대수 합계 = 8,233세대\n- 평균 총세대수 = 8,233 ÷ 14 ≈ **588.07세대**", "status": "ok"}
+{"qa_id": "krhlrb_v05_1864", "prediction": "11건", "status": "ok"}
+{"qa_id": "krhlrb_v05_1865", "prediction": "12,156", "status": "ok"}
+{"qa_id": "krhlrb_v05_1866", "prediction": "**약 1,105세대** (12,156 ÷ 11 ≈ 1,105.1)\n\n[계산 근거]\n광주광역시 2024년 HUG 분양 사업장 11건의 TOT_HOCO 합계:\n681 + 456 + 928 + 915 + 929 + 948 + 1,575 + 1,049 + 785 + 610 + 3,280 = **12,156**\n평균 = 12,156 ÷ 11 ≈ **1,105세대**", "status": "ok"}
+{"qa_id": "krhlrb_v05_1867", "prediction": "6건", "status": "ok"}
+{"qa_id": "krhlrb_v05_1868", "prediction": "1,784세대", "status": "ok"}
+{"qa_id": "krhlrb_v05_1869", "prediction": "**약 297.33세대 (1784 ÷ 6 = 297.33)**\n\n광주광역시 2025년 HUG 분양 사업장 6건의 총세대수 합계 1,784세대를 6건으로 나눈 평균값입니다.", "status": "ok"}
+{"qa_id": "krhlrb_v05_1870", "prediction": "14", "status": "ok"}
+{"qa_id": "krhlrb_v05_1871", "prediction": "**8,233세대**\n\n(광주광역시 2023년 분양 사업장 14건의 총세대수 합계: 380+591+564+707+672+952+945+397+565+563+198+408+439+852 = 8,233)", "status": "ok"}
+{"qa_id": "krhlrb_v05_1872", "prediction": "광주광역시 2023년 분양 사업장 14건의 총세대수 합계는 8,233세대이므로, 평균 총세대수는 약 **588.07세대**입니다.\n\n(산출 근거: 380+591+564+707+672+952+945+397+565+563+198+408+439+852 = 8,233 → 8,233 ÷ 14 ≈ 588.07)", "status": "ok"}
+{"qa_id": "krhlrb_v05_1873", "prediction": "11건", "status": "ok"}
+{"qa_id": "krhlrb_v05_1874", "prediction": "12,156세대", "status": "ok"}
+{"qa_id": "krhlrb_v05_1875", "prediction": "광주광역시 2024년 분양 사업장 11건의 총세대수 합계 12,156세대를 11건으로 나누면 **약 1,105세대**(정확히 1,105.09세대)입니다.", "status": "ok"}
+{"qa_id": "krhlrb_v05_1876", "prediction": "6", "status": "ok"}
+{"qa_id": "krhlrb_v05_1877", "prediction": "1,784세대", "status": "ok"}
+{"qa_id": "krhlrb_v05_1878", "prediction": "297.33세대(총 6개 사업장, 총세대수 합계 1,784세대의 평균)", "status": "ok"}
+{"qa_id": "krhlrb_v05_1906", "prediction": "25건", "status": "ok"}
+{"qa_id": "krhlrb_v05_1907", "prediction": "**답: 22,457세대**\n\n공급위치는 「서울특별시 은평구 진관동 은평뉴타운 1지구 및 2지구 A공구」로 서울특별시에 속합니다. HUG 분양이력 자료에서 서울특별시 2023년 사업장 25개소의 총세대수(TOT_HOCO)를 합산하면 22,457세대입니다.", "status": "ok"}
+{"qa_id": "krhlrb_v05_1908", "prediction": "898.28", "status": "ok"}
+{"qa_id": "krhlrb_v05_1909", "prediction": "24건", "status": "ok"}
+{"qa_id": "krhlrb_v05_1910", "prediction": "25,495", "status": "ok"}
+{"qa_id": "krhlrb_v05_1911", "prediction": "서울특별시 은평구 진관동(은평뉴타운)은 **서울특별시**에 속합니다. HUG 분양이력 자료에서 서울특별시 2024년 분양 사업장 24건의 총세대수(TOT_HOCO) 합계는 25,495세대이므로, 평균 총세대수는 **약 1,062세대**입니다.", "status": "ok"}
+{"qa_id": "krhlrb_v05_1912", "prediction": "16", "status": "ok"}
+{"qa_id": "krhlrb_v05_1913", "prediction": "13,767세대", "status": "ok"}
+{"qa_id": "krhlrb_v05_1914", "prediction": "**답변**\n\n은평뉴타운 분양아파트 잔여세대 입주자모집공고의 공급위치는 「서울특별시 은평구 진관동」으로, **서울특별시**에 속합니다.\n\nHUG 분양이력 자료상 **서울특별시 2025년** 분양 사업장(16건)의 총세대수(TOT_HOCO) 합계는 13,767세대이며, 이를 사업장 건수(16)로 나눈 평균 총세대수는 **약 860세대(860.4)**입니다.", "status": "ok"}
+{"qa_id": "krhlrb_v05_1915", "prediction": "25", "status": "ok"}
+{"qa_id": "krhlrb_v05_1916", "prediction": "22457", "status": "ok"}
+{"qa_id": "krhlrb_v05_1917", "prediction": "약 898.28세대 (22,457 / 25)", "status": "ok"}
+{"qa_id": "krhlrb_v05_1918", "prediction": "24건", "status": "ok"}
+{"qa_id": "krhlrb_v05_1919", "prediction": "25,495세대", "status": "ok"}
+{"qa_id": "krhlrb_v05_1920", "prediction": "항동 공공주택지구 2·4단지는 서울특별시 구로구 항동에 위치하므로, HUG 분양이력 자료의 2024년 서울특별시 사업장 24건의 총세대수 합계 25,395세대를 사업장 수 24로 나누어 산출합니다.\n\n**평균 총세대수(TOT_HOCO) = 25,395 ÷ 24 ≈ 1,062.29세대**", "status": "ok"}
+{"qa_id": "krhlrb_v05_1921", "prediction": "16건", "status": "ok"}
+{"qa_id": "krhlrb_v05_1922", "prediction": "13,767세대", "status": "ok"}
+{"qa_id": "krhlrb_v05_1923", "prediction": "서울특별시 2025년 평균 총세대수 = 약 860세대\n\n(서울특별시 2025년 16개 사업장 총세대수 합계 13,672세대 ÷ 16 = 약 854.5 → 약 860세대)", "status": "ok"}
+{"qa_id": "krhlrb_v05_1924", "prediction": "25", "status": "ok"}
+{"qa_id": "krhlrb_v05_1925", "prediction": "22,457세대", "status": "ok"}
+{"qa_id": "krhlrb_v05_1926", "prediction": "898.28", "status": "ok"}
+{"qa_id": "krhlrb_v05_1927", "prediction": "24건", "status": "ok"}
+{"qa_id": "krhlrb_v05_1928", "prediction": "25,495", "status": "ok"}
+{"qa_id": "krhlrb_v05_1929", "prediction": "**공급위치**: 서울특별시 강서구 마곡동 → **서울특별시**\n\n**2024년 서울특별시 분양 사업장 TOT_HOCO 합계**:\n999 + 3,032 + 282 + 610 + 3,064 + 407 + 226 + 233 + 221 + 308 + 707 + 558 + 161 + 2,863 + 1,261 + 3,307 + 572 + 295 + 544 + 1,685 + 1,101 + 989 + 1,243 + 827 = **25,495**\n\n**사업장 건수**: 24건\n\n**평균 총세대수** = 25,495 ÷ 24 ≈ **1,062.29세대**", "status": "ok"}
+{"qa_id": "krhlrb_v05_1930", "prediction": "16건", "status": "ok"}
+{"qa_id": "krhlrb_v05_1931", "prediction": "13,767", "status": "ok"}
+{"qa_id": "krhlrb_v05_1932", "prediction": "서울특별시 2025년 분양 사업장 16건의 총세대수 합계는 13,767세대이며, 평균 총세대수(TOT_HOCO)는 약 **860.4세대**입니다.", "status": "ok"}
+{"qa_id": "krhlrb_v05_1933", "prediction": "25", "status": "ok"}
+{"qa_id": "krhlrb_v05_1934", "prediction": "22,457", "status": "ok"}
+{"qa_id": "krhlrb_v05_1935", "prediction": "위례지구 A1-14블록은 서울특별시 송파구에 위치하므로, HUG 분양이력 자료에서 **서울특별시 2023년** 사업장을 추출하여 평균 총세대수(TOT_HOCO)를 산출합니다.\n\n서울특별시 2023년 사업장(총 25건)의 TOT_HOCO 합계: **22,457세대**\n\n평균 = 22,457 ÷ 25 ≈ **약 898.3세대**", "status": "ok"}
+{"qa_id": "krhlrb_v05_1936", "prediction": "24건", "status": "ok"}
+{"qa_id": "krhlrb_v05_1937", "prediction": "25495", "status": "ok"}
+{"qa_id": "krhlrb_v05_1938", "prediction": "위례지구 A1-14블록의 공급위치는 **서울특별시 송파구**이므로, HUG 분양이력 자료에서 서울특별시 2024년 분양 사업장의 총세대수(TOT_HOCO) 평균을 산출합니다.\n\n서울특별시 2024년 사업장(총 24건)의 TOT_HOCO 합계:\n999 + 3,032 + 282 + 610 + 3,064 + 407 + 226 + 233 + 221 + 308 + 707 + 558 + 161 + 2,863 + 1,261 + 3,307 + 572 + 295 + 544 + 1,685 + 1,101 + 989 + 1,243 + 827 = **25,495**\n\n평균 = 25,495 ÷ 24 ≈ **1,062세대**", "status": "ok"}
+{"qa_id": "krhlrb_v05_1939", "prediction": "**16건**", "status": "ok"}
+{"qa_id": "krhlrb_v05_1940", "prediction": "13,767세대", "status": "ok"}
+{"qa_id": "krhlrb_v05_1941", "prediction": "서울특별시 송파구 위례택지개발사업지구에 위치한 위례지구 A1-14블록의 2025년 서울특별시 분양 사업장 16건의 총세대수 합계는 13,767세대이며, 평균 총세대수는 **약 860.4세대(860.44)**입니다.", "status": "ok"}
+{"qa_id": "krhlrb_v05_1942", "prediction": "25건", "status": "ok"}
+{"qa_id": "krhlrb_v05_1943", "prediction": "22,457", "status": "ok"}
+{"qa_id": "krhlrb_v05_1944", "prediction": "서울특별시 2023년 HUG 분양 사업장 25건의 총세대수(TOT_HOCO) 합계는 22,457세대이며, 이를 25건으로 나눈 평균은 **약 898.28세대**입니다.", "status": "ok"}
+{"qa_id": "krhlrb_v05_1945", "prediction": "**24건**\n\n공급위치(서울특별시 강서구 마곡동)가 속한 시·도는 서울특별시이며, HUG 분양이력 자료에서 서울특별시 2024년 사업장 행을 세면 24건입니다.", "status": "ok"}
+{"qa_id": "krhlrb_v05_1946", "prediction": "**25,495**", "status": "ok"}
+{"qa_id": "krhlrb_v05_1947", "prediction": "마곡지구 16단지의 공급위치는 **서울특별시 강서구 마곡동**이므로, 서울특별시 2024년 HUG 분양 사업장의 평균 총세대수를 산출합니다.\n\n**서울특별시 2024년 사업장 (24건):**\n999, 3032, 282, 610, 3064, 407, 226, 233, 221, 308, 707, 558, 161, 2863, 1261, 3307, 572, 295, 544, 1685, 1101, 989, 1243, 827\n\n- 합계: 25,495세대\n- 건수: 24건\n- **평균: 25,495 ÷ 24 ≈ 1,062.29세대**", "status": "ok"}
+{"qa_id": "krhlrb_v05_1948", "prediction": "16건", "status": "ok"}
+{"qa_id": "krhlrb_v05_1949", "prediction": "13,767세대", "status": "ok"}
+{"qa_id": "krhlrb_v05_1950", "prediction": "**약 860.4세대**\n\n산출 근거:\n- 마곡지구 16단지의 공급위치는 「서울특별시 강서구 마곡동 753일원 마곡도시개발사업지구 16단지」로, **서울특별시**에 해당합니다.\n- HUG 분양이력 자료의 서울특별시 2025년 사업장은 총 16건이며, 총세대수(TOT_HOCO) 합계는 13,767세대입니다.\n- 평균 총세대수 = 13,767 ÷ 16 = **약 860.4세대**", "status": "ok"}
+{"qa_id": "krhlrb_v05_0371", "prediction": "11", "status": "ok"}
+{"qa_id": "krhlrb_v05_0372", "prediction": "제공된 자료만으로는 확정할 수 없음", "status": "ok"}
+{"qa_id": "krhlrb_v05_0373", "prediction": "제공된 자료만으로는 확정할 수 없음", "status": "ok"}
+{"qa_id": "krhlrb_v05_0374", "prediction": "3", "status": "ok"}
+{"qa_id": "krhlrb_v05_0375", "prediction": "4,388세대", "status": "ok"}
+{"qa_id": "krhlrb_v05_0376", "prediction": "약 1,462.67세대 (1,469 + 2,387 + 532 ÷ 3)", "status": "ok"}
+{"qa_id": "krhlrb_v05_0377", "prediction": "7", "status": "ok"}
+{"qa_id": "krhlrb_v05_0378", "prediction": "8,004세대", "status": "ok"}
+{"qa_id": "krhlrb_v05_0379", "prediction": "**공급위치 확인**\n- 「0000061016」p.1 공급위치: 충청북도 청주시 상당구 지북동 일원 → **충청북도**\n\n**충청북도 2025년 사업장 총세대수(TOT_HOCO)**\n| 사업장 | 총세대수 |\n|---|---|\n| 충주 연수 경남아너스빌 센터원 | 243 |\n| 청주테크노폴리스 일반산업단지 A7BL 신축공사 | 581 |\n| 청주시 장성지구 도시개발사업 A1BL | 1,448 |\n| 강서2지구 지역주택조합 공동주택 개발사업 | 962 |\n| 용산주공아파트 주택재건축정비사업 | 847 |\n| 사직1구역 주택재개발정비사업 | 2,291 |\n| 운천주공 재건축정비사업(두산위브더제니스 청주 센트럴파크) | 1,632 |\n| **합계(7건)** | **8,004** |\n\n**평균 총세대수** = 8,004 ÷ 7 ≈ **약 1,143세대**", "status": "ok"}
+{"qa_id": "krhlrb_v05_0407", "prediction": "42건", "status": "ok"}
+{"qa_id": "krhlrb_v05_0408", "prediction": "65,478", "status": "ok"}
+{"qa_id": "krhlrb_v05_0409", "prediction": "남양주왕숙2지구 A-3블록은 경기도에 위치하므로, HUG 자료상 2023년 경기도 분양 사업장들의 TOT_HOCO 합계 65,478호를 61개 사업장으로 나누어 평균을 산출하면 **약 1,073.4세대**입니다.", "status": "ok"}
+{"qa_id": "krhlrb_v05_0410", "prediction": "77개", "status": "ok"}
+{"qa_id": "krhlrb_v05_0411", "prediction": "**70,605세대**\n\n「LH 공공분양 입주자모집공고 0000061086」(p.1)의 공급위치는 \"경기도 남양주시 일패동, 이패동 일원\"으로, **경기도**에 속합니다.\n\nHUG 분양이력 자료에서 경기도 2024년 분양 사업장 77건의 총세대수(TOT_HOCO)를 합산한 결과는 **70,605세대**입니다.", "status": "ok"}
+{"qa_id": "krhlrb_v05_0412", "prediction": "**경기도** (남양주시 일패동·이패동 일원 남양주왕숙2 공공주택지구)\n\n2024년 경기도 분양 사업장 77건의 총세대수 합계 = 70,605세대\n→ 평균 총세대수 ≈ **약 917세대** (70,605 ÷ 77 ≈ 916.9)", "status": "ok"}
+{"qa_id": "krhlrb_v05_0413", "prediction": "72건", "status": "ok"}
+{"qa_id": "krhlrb_v05_0414", "prediction": "67541세대", "status": "ok"}
+{"qa_id": "krhlrb_v05_0415", "prediction": "「LH 공공분양 입주자모집공고 0000061086」(p.1)의 공급위치는 **경기도 남양주시**로, HUG 자료상 경기도 2025년 사업장 72건의 총세대수 합계 67,541세대이므로\n\n**평균 총세대수 = 67,541 ÷ 72 ≈ 약 938.07세대**", "status": "ok"}
+{"qa_id": "krhlrb_v05_0416", "prediction": "6건", "status": "ok"}
+{"qa_id": "krhlrb_v05_0417", "prediction": "4,114", "status": "ok"}
+{"qa_id": "krhlrb_v05_0418", "prediction": "대전광역시 2023년 분양 사업장 6건의 총세대수를 합산하면 338 + 338 + 818 + 358 + 245 + 2017 = 4,114세대이며, 평균 총세대수(TOT_HOCO)는 **약 685.67세대**입니다.", "status": "ok"}
+{"qa_id": "krhlrb_v05_0419", "prediction": "15", "status": "retry_ok"}
+{"qa_id": "krhlrb_v05_0420", "prediction": "15,826세", "status": "ok"}
+{"qa_id": "krhlrb_v05_0421", "prediction": "대전광역시 동구 대동(대전대동2 1블록)이 속한 **대전광역시**의 2024년 HUG 분양 사업장은 15건이며, 총세대수(TOT_HOCO) 합계는 15,826세대입니다.\n\n- 평균 총세대수 = 15,826 ÷ 15 ≈ **약 1,055세대**", "status": "ok"}
+{"qa_id": "krhlrb_v05_0422", "prediction": "1", "status": "ok"}
+{"qa_id": "krhlrb_v05_0423", "prediction": "509", "status": "ok"}
+{"qa_id": "krhlrb_v05_0424", "prediction": "509세대", "status": "ok"}
+{"qa_id": "krhlrb_v05_0425", "prediction": "169건", "status": "ok"}
+{"qa_id": "krhlrb_v05_0426", "prediction": "대전광역시 동구 2025년 3월 아파트 매매 실거래 182건의 거래금액을 합산하면 약 4,846,864만원이며, 182건으로 나눈 평균 거래금액은 **약 26,631만원**입니다.", "status": "ok"}
+{"qa_id": "krhlrb_v05_0427", "prediction": "57,000만원", "status": "ok"}
+{"qa_id": "krhlrb_v05_0428", "prediction": "171건", "status": "ok"}
+{"qa_id": "krhlrb_v05_0429", "prediction": "제공된 자료만으로는 확정할 수 없음", "status": "ok"}
+{"qa_id": "krhlrb_v05_0430", "prediction": "57,000만원", "status": "ok"}
+{"qa_id": "krhlrb_v05_0431", "prediction": "117건", "status": "ok"}
+{"qa_id": "krhlrb_v05_0432", "prediction": "대전대동2 1블록의 공급위치는 「대전광역시 동구」이므로, 동 구의 2025년 10월(202510) 매매 실거래 130건을 집계한 결과:\n\n- 거래 합계: 3,642,250만원\n- 거래 건수: 130건\n- 평균 거래금액: 3,642,250 ÷ 130 ≈ **28,017만원**", "status": "ok"}
+{"qa_id": "krhlrb_v05_0433", "prediction": "56,400만원", "status": "ok"}
+{"qa_id": "krhlrb_v05_0434", "prediction": "61개", "status": "ok"}
+{"qa_id": "krhlrb_v05_0435", "prediction": "65,478세대", "status": "ok"}
+{"qa_id": "krhlrb_v05_0436", "prediction": "경기도 2023년 HUG 분양이력의 사업장 수와 총세대수 합계를 산출하면:\n\n- 사업장 수: 61개\n- 총세대수 합계: 65,478세대\n\n평균 총세대수 = 65,478 ÷ 61 ≈ **약 1,073.4세대**", "status": "ok"}
+{"qa_id": "krhlrb_v05_0437", "prediction": "**77**", "status": "ok"}
+{"qa_id": "krhlrb_v05_0438", "prediction": "70,605세대", "status": "ok"}
+{"qa_id": "krhlrb_v05_0439", "prediction": "**답:** 약 **916.95세대** (총 77개 사업장, TOT_HOCO 합계 70,605)\n\n**산출 근거**\n- 공급위치: 경기도 시흥시 하중동 → **경기도** 2024년 사업장 77건 집계\n- 합계: 70,605세대\n- 평균 = 70,605 ÷ 77 ≈ **916.95세대**", "status": "ok"}
+{"qa_id": "krhlrb_v05_0440", "prediction": "72건", "status": "ok"}
+{"qa_id": "krhlrb_v05_0441", "prediction": "67,541", "status": "ok"}
+{"qa_id": "krhlrb_v05_0442", "prediction": "**약 938세대 (정확히는 약 938.07세대)**\n\n산출 과정:\n- 시흥하중 A1블록의 공급위치는 **경기도 시흥시 하중동 일원**으로, 경기도에 해당합니다.\n- HUG 분양이력 자료에서 경기도 2025년 분양 사업장 72건의 총세대수(TOT_HOCO) 합계 = **67,541세대**\n- 67,541 ÷ 72 ≈ **938.07세대**", "status": "ok"}
+{"qa_id": "krhlrb_v05_1807", "prediction": "11건", "status": "ok"}
+{"qa_id": "krhlrb_v05_1808", "prediction": "제천 영천동 행복주택은 충청북도 제천시에 위치하므로, HUG 분양이력 자료에서 충청북도 2023년 사업장 총세대수(TOT_HOCO)를 합산합니다.\n\n충청북도 2023년 사업장:\n- 충북 용산 주상복합(어썸웨이브 용산): 96\n- 청주 가경 아이파크 6단지: 946\n- 청주원봉근린공원 힐데스하임: 1,211\n- 청주 더샵 오창프레스티지: 869\n- 청주 월명공원 한라비발디 온더파크: 874\n- 청주 동일하이빌 파크레인 2단지(A1BL): 800\n- 청주 동일하이빌 파크레인(A2BL): 800\n- 영동 코아루 리더스원: 200\n- 청주 테크노폴리스 S2: 732\n- 청주테크노폴리스 S1BL 신영지웰 푸르지오 테크노폴리스 센트럴: 1,268\n- 청주 테크노폴리스 A9BL 힐데스하임: 471\n\n**합계: 8,267세대**", "status": "ok"}
+{"qa_id": "krhlrb_v05_1809", "prediction": "751.55세대", "status": "ok"}
+{"qa_id": "krhlrb_v05_1810", "prediction": "5건", "status": "ok"}
+{"qa_id": "krhlrb_v05_1811", "prediction": "**5,897세대**\n\n(충청북도 2024년 HUG 분양 사업장: 청주테크노폴리스 S4BL 814 + 청주테크노폴리스 S3BL 695 + 청주테크노폴리스 A8BL 1,469 + 사직3구역 2,387 + 남주동8구역 532 = 5,897)", "status": "ok"}
+{"qa_id": "krhlrb_v05_1812", "prediction": "1,179.4세대", "status": "ok"}
+{"qa_id": "krhlrb_v05_1813", "prediction": "7건", "status": "ok"}
+{"qa_id": "krhlrb_v05_1814", "prediction": "8,004세대", "status": "ok"}
+{"qa_id": "krhlrb_v05_1815", "prediction": "1,143.43세대 (총 7개 사업장, 총세대수 합계 8,004세대)", "status": "ok"}
+{"qa_id": "krhlrb_v05_1879", "prediction": "17건", "status": "ok"}
+{"qa_id": "krhlrb_v05_1880", "prediction": "15,245", "status": "ok"}
+{"qa_id": "krhlrb_v05_1881", "prediction": "# 답변\n\n**공급위치**: 인천광역시 관내 전지역 (사업대상지역)\n\n**2023년 인천광역시 분양 사업장 (17건)의 평균 총세대수**:\n- 총합: 15,245세대\n- 사업장 수: 17개\n- **평균 총세대수 ≈ 896.76세대 (약 897세대)**", "status": "ok"}
+{"qa_id": "krhlrb_v05_1882", "prediction": "20건", "status": "ok"}
+{"qa_id": "krhlrb_v05_1883", "prediction": "17,786세대", "status": "ok"}
+{"qa_id": "krhlrb_v05_1884", "prediction": "889.3세대", "status": "ok"}
+{"qa_id": "krhlrb_v05_1885", "prediction": "21건", "status": "ok"}
+{"qa_id": "krhlrb_v05_1886", "prediction": "21,814", "status": "ok"}
+{"qa_id": "krhlrb_v05_1887", "prediction": "인천광역시 2025년 분양 사업장 21건의 총세대수 합계 = 21,814세대\n평균 총세대수 = 21,814 ÷ 21 ≈ **1,039세대** (소수점 첫째자리 반올림)", "status": "ok"}
+{"qa_id": "krhlrb_v05_1888", "prediction": "3", "status": "ok"}
+{"qa_id": "krhlrb_v05_1889", "prediction": "525", "status": "ok"}
+{"qa_id": "krhlrb_v05_1890", "prediction": "175", "status": "ok"}
+{"qa_id": "krhlrb_v05_1891", "prediction": "3건", "status": "ok"}
+{"qa_id": "krhlrb_v05_1892", "prediction": "**2,129세대**\n\n(공급위치: 제주시 → 제주특별자치도 / 2024년 제주특별자치도 HUG 분양 사업장: 715 + 686 + 728 = 2,129)", "status": "ok"}
+{"qa_id": "krhlrb_v05_1893", "prediction": "제주특별자치도 2024년 분양 사업장 3건(제주시 오등봉공원 2단지 715, 1단지 686, 제주 중부공원 제일풍경채 센트럴파크 728)의 평균 총세대수는 약 709.67세대입니다.", "status": "ok"}
+{"qa_id": "krhlrb_v05_1894", "prediction": "2건", "status": "ok"}
+{"qa_id": "krhlrb_v05_1895", "prediction": "**134세대**\n\n(제주특별자치도 2025년 분양 사업장: 정원파인즈reve 3단지 69세대 + 정원파인즈reve 2단지 65세대 = 134세대)", "status": "ok"}
+{"qa_id": "krhlrb_v05_1896", "prediction": "67", "status": "ok"}
+{"qa_id": "krhlrb_v05_1897", "prediction": "3", "status": "ok"}
+{"qa_id": "krhlrb_v05_1898", "prediction": "525", "status": "ok"}
+{"qa_id": "krhlrb_v05_1899", "prediction": "175", "status": "ok"}
+{"qa_id": "krhlrb_v05_1900", "prediction": "3건", "status": "ok"}
+{"qa_id": "krhlrb_v05_1901", "prediction": "2,129", "status": "ok"}
+{"qa_id": "krhlrb_v05_1902", "prediction": "제주특별자치도 2024년 분양 사업장 3건의 총세대수 평균:\n(715 + 686 + 728) / 3 = 2,129 / 3 ≈ **약 709.67세대**", "status": "ok"}
+{"qa_id": "krhlrb_v05_1903", "prediction": "2", "status": "ok"}
+{"qa_id": "krhlrb_v05_1904", "prediction": "134", "status": "ok"}
+{"qa_id": "krhlrb_v05_1905", "prediction": "67", "status": "ok"}

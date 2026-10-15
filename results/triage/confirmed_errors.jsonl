@@ -1,0 +1,15 @@
+{"qa_id": "krhlrb_v05_1347", "verdict": "confirmed_error", "issue": "cloze_gold_mismatch:long_context_retrieval"}
+{"qa_id": "krhlrb_v05_1428", "verdict": "confirmed_error", "issue": "cloze_gold_mismatch:long_context_retrieval"}
+{"qa_id": "krhlrb_v05_1435", "verdict": "confirmed_error", "issue": "cloze_gold_mismatch:long_context_retrieval"}
+{"qa_id": "krhlrb_v05_1477", "verdict": "confirmed_error", "issue": "cloze_gold_mismatch:long_context_retrieval"}
+{"qa_id": "krhlrb_v05_1505", "verdict": "confirmed_error", "issue": "cloze_gold_mismatch:long_context_retrieval"}
+{"qa_id": "krhlrb_v05_1575", "verdict": "confirmed_error", "issue": "cloze_gold_mismatch:long_context_retrieval"}
+{"qa_id": "krhlrb_v05_1666", "verdict": "confirmed_error", "issue": "cloze_gold_mismatch:long_context_retrieval"}
+{"qa_id": "krhlrb_v05_1673", "verdict": "confirmed_error", "issue": "cloze_gold_mismatch:long_context_retrieval"}
+{"qa_id": "krhlrb_v05_0910", "verdict": "confirmed_error", "issue": "gold_mismatch:table_numeric_reasoning"}
+{"qa_id": "krhlrb_v05_1035", "verdict": "confirmed_error", "issue": "gold_mismatch:table_numeric_reasoning"}
+{"qa_id": "krhlrb_v05_1148", "verdict": "confirmed_error", "issue": "gold_mismatch:schedule_reasoning"}
+{"qa_id": "krhlrb_v05_1157", "verdict": "confirmed_error", "issue": "gold_mismatch:schedule_reasoning"}
+{"qa_id": "krhlrb_v05_1160", "verdict": "confirmed_error", "issue": "gold_mismatch:schedule_reasoning"}
+{"qa_id": "krhlrb_v05_0901", "verdict": "confirmed_error", "issue": "gold_mismatch:correction_notice_reasoning"}
+{"qa_id": "krhlrb_v05_0902", "verdict": "confirmed_error", "issue": "gold_mismatch:correction_notice_reasoning"}

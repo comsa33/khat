@@ -1,0 +1,58 @@
+[
+ {
+  "qa_id": "krhlrb_v05_1144",
+  "split": "dev",
+  "task_type": "schedule_reasoning",
+  "answer": "입주자모집공고일 (2025.05.09.)",
+  "inscope": true,
+  "date": [
+   [
+    "2025",
+    5,
+    9
+   ]
+  ]
+ },
+ {
+  "qa_id": "krhlrb_v05_1320",
+  "split": "dev",
+  "task_type": "long_context_retrieval",
+  "answer": "2025.04.09",
+  "inscope": true,
+  "date": [
+   [
+    "2025",
+    4,
+    9
+   ]
+  ]
+ },
+ {
+  "qa_id": "krhlrb_v05_1340",
+  "split": "dev",
+  "task_type": "long_context_retrieval",
+  "answer": "2026.04.30.",
+  "inscope": true,
+  "date": [
+   [
+    "2026",
+    4,
+    30
+   ]
+  ]
+ },
+ {
+  "qa_id": "krhlrb_v05_1207",
+  "split": "test_public",
+  "task_type": "long_context_retrieval",
+  "answer": "2025.11.28.(금) ~ 12.05.(금)",
+  "inscope": true,
+  "date": [
+   [
+    "2025",
+    11,
+    28
+   ]
+  ]
+ }
+]

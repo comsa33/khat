@@ -1,0 +1,7 @@
+{"source_id":"excluded-source-policy","source_class":"policy_anchor","decision":"included_as_policy_only","reason":"Used by qa_seed to point to exclusion policy entries. Not a raw source."}
+{"source_id":"private-bank-product-descriptions","source_class":"financial_product_description","decision":"excluded_pending_permission","reason":"Public web access does not imply redistribution permission. Include only after license review or explicit permission."}
+{"source_id":"private-insurance-clauses","source_class":"insurance_policy_clause","decision":"excluded_pending_permission","reason":"Insurance clauses and riders may be copyrighted by private insurers. Do not release raw clauses without explicit permission."}
+{"source_id":"private-construction-company-announcement-pdfs","source_class":"private_housing_announcement","decision":"excluded_pending_permission","reason":"Announcement facts may be public, but full private-company PDF/HWP redistribution is not assumed safe."}
+{"source_id":"floor-plans-rendered-images-and-brochures","source_class":"visual_marketing_material","decision":"excluded","reason":"Images, floor plans, renders, and brochures often contain third-party creative works and stronger copyright risk."}
+{"source_id":"personal-application-or-complaint-documents","source_class":"personal_or_sensitive_administrative_document","decision":"excluded","reason":"Potential privacy and sensitive-data risk; not needed for this benchmark framing."}
+

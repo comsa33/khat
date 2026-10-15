@@ -1,0 +1,7 @@
+{"qa_id": "krhlrb_v05_0455", "split": "dev", "bundle_id": "mix_multiprovider_512k", "context_tier": "512k", "answer_type": "number"}
+{"qa_id": "krhlrb_v05_0668", "split": "dev", "bundle_id": "mix_multiprovider_512k", "context_tier": "512k", "answer_type": "string"}
+{"qa_id": "krhlrb_v05_0745", "split": "dev", "bundle_id": "mix_multiprovider_512k", "context_tier": "512k", "answer_type": "string"}
+{"qa_id": "krhlrb_v05_1801", "split": "dev", "bundle_id": "mix_multiprovider_512k", "context_tier": "512k", "answer_type": "number"}
+{"qa_id": "krhlrb_v05_1963", "split": "dev", "bundle_id": "mix_multiprovider_512k", "context_tier": "512k", "answer_type": "string"}
+{"qa_id": "krhlrb_v05_1966", "split": "dev", "bundle_id": "mix_multiprovider_512k", "context_tier": "512k", "answer_type": "string"}
+{"qa_id": "krhlrb_v05_2011", "split": "dev", "bundle_id": "mix_multiprovider_512k", "context_tier": "512k", "answer_type": "string"}

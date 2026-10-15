@@ -1,0 +1,248 @@
+{
+"gpt-4.1-mini": {
+"claude-haiku-5-5": {
+"krhlrb_v05_1798": false,
+"krhlrb_v05_1800": false,
+"krhlrb_v05_1801": true,
+"krhlrb_v05_1802": false,
+"krhlrb_v05_1803": false,
+"krhlrb_v05_1804": true,
+"krhlrb_v05_1805": true,
+"krhlrb_v05_1806": false
+},
+"claude-sonnet-5-5": {
+"krhlrb_v05_1798": false,
+"krhlrb_v05_1800": true,
+"krhlrb_v05_1801": true,
+"krhlrb_v05_1802": false,
+"krhlrb_v05_1803": false,
+"krhlrb_v05_1804": false,
+"krhlrb_v05_1805": true,
+"krhlrb_v05_1806": true
+},
+"glm-5.2": {
+"krhlrb_v05_1798": true,
+"krhlrb_v05_1800": true,
+"krhlrb_v05_1801": true,
+"krhlrb_v05_1802": false,
+"krhlrb_v05_1803": false,
+"krhlrb_v05_1804": true,
+"krhlrb_v05_1805": true,
+"krhlrb_v05_1806": true
+},
+"gpt-4.1-mini": {
+"krhlrb_v05_1798": false,
+"krhlrb_v05_1800": false,
+"krhlrb_v05_1801": false,
+"krhlrb_v05_1802": false,
+"krhlrb_v05_1803": false,
+"krhlrb_v05_1804": false,
+"krhlrb_v05_1805": false,
+"krhlrb_v05_1806": false
+},
+"gpt-5.4-mini": {
+"krhlrb_v05_1798": false,
+"krhlrb_v05_1800": false,
+"krhlrb_v05_1801": false,
+"krhlrb_v05_1802": false,
+"krhlrb_v05_1803": false,
+"krhlrb_v05_1804": true,
+"krhlrb_v05_1805": false,
+"krhlrb_v05_1806": false
+},
+"gpt-5.4-nano": {
+"krhlrb_v05_1798": false,
+"krhlrb_v05_1800": false,
+"krhlrb_v05_1801": false,
+"krhlrb_v05_1802": false,
+"krhlrb_v05_1803": false,
+"krhlrb_v05_1804": false,
+"krhlrb_v05_1805": false,
+"krhlrb_v05_1806": false
+},
+"gpt-5.5": {
+"krhlrb_v05_1798": true,
+"krhlrb_v05_1800": true,
+"krhlrb_v05_1801": true,
+"krhlrb_v05_1802": false,
+"krhlrb_v05_1803": false,
+"krhlrb_v05_1804": true,
+"krhlrb_v05_1805": true,
+"krhlrb_v05_1806": true
+},
+"minimax-m3": {
+"krhlrb_v05_1798": true,
+"krhlrb_v05_1800": true,
+"krhlrb_v05_1801": true,
+"krhlrb_v05_1802": false,
+"krhlrb_v05_1803": false,
+"krhlrb_v05_1804": true,
+"krhlrb_v05_1805": true,
+"krhlrb_v05_1806": true
+}
+},
+"kimi": {
+"claude-haiku-5-5": {
+"krhlrb_v05_1798": false,
+"krhlrb_v05_1800": false,
+"krhlrb_v05_1801": true,
+"krhlrb_v05_1802": false,
+"krhlrb_v05_1803": false,
+"krhlrb_v05_1804": true,
+"krhlrb_v05_1805": true,
+"krhlrb_v05_1806": false
+},
+"claude-sonnet-5-5": {
+"krhlrb_v05_1798": false,
+"krhlrb_v05_1800": false,
+"krhlrb_v05_1801": true,
+"krhlrb_v05_1802": false,
+"krhlrb_v05_1803": false,
+"krhlrb_v05_1804": false,
+"krhlrb_v05_1805": true,
+"krhlrb_v05_1806": true
+},
+"glm-5.2": {
+"krhlrb_v05_1798": true,
+"krhlrb_v05_1800": true,
+"krhlrb_v05_1801": true,
+"krhlrb_v05_1802": false,
+"krhlrb_v05_1803": false,
+"krhlrb_v05_1804": true,
+"krhlrb_v05_1805": true,
+"krhlrb_v05_1806": true
+},
+"gpt-4.1-mini": {
+"krhlrb_v05_1798": false,
+"krhlrb_v05_1800": false,
+"krhlrb_v05_1801": false,
+"krhlrb_v05_1802": false,
+"krhlrb_v05_1803": false,
+"krhlrb_v05_1804": false,
+"krhlrb_v05_1805": false,
+"krhlrb_v05_1806": false
+},
+"gpt-5.4-mini": {
+"krhlrb_v05_1798": false,
+"krhlrb_v05_1800": false,
+"krhlrb_v05_1801": false,
+"krhlrb_v05_1802": false,
+"krhlrb_v05_1803": false,
+"krhlrb_v05_1804": true,
+"krhlrb_v05_1805": false,
+"krhlrb_v05_1806": false
+},
+"gpt-5.4-nano": {
+"krhlrb_v05_1798": false,
+"krhlrb_v05_1800": false,
+"krhlrb_v05_1801": false,
+"krhlrb_v05_1802": false,
+"krhlrb_v05_1803": false,
+"krhlrb_v05_1804": false,
+"krhlrb_v05_1805": false,
+"krhlrb_v05_1806": false
+},
+"gpt-5.5": {
+"krhlrb_v05_1798": true,
+"krhlrb_v05_1800": true,
+"krhlrb_v05_1801": true,
+"krhlrb_v05_1802": false,
+"krhlrb_v05_1803": false,
+"krhlrb_v05_1804": true,
+"krhlrb_v05_1805": true,
+"krhlrb_v05_1806": true
+},
+"minimax-m3": {
+"krhlrb_v05_1798": true,
+"krhlrb_v05_1800": true,
+"krhlrb_v05_1801": true,
+"krhlrb_v05_1802": false,
+"krhlrb_v05_1803": false,
+"krhlrb_v05_1804": true,
+"krhlrb_v05_1805": true,
+"krhlrb_v05_1806": true
+}
+},
+"sonnet": {
+"claude-haiku-5-5": {
+"krhlrb_v05_1798": false,
+"krhlrb_v05_1800": false,
+"krhlrb_v05_1801": true,
+"krhlrb_v05_1802": false,
+"krhlrb_v05_1803": false,
+"krhlrb_v05_1804": true,
+"krhlrb_v05_1805": true,
+"krhlrb_v05_1806": false
+},
+"claude-sonnet-5-5": {
+"krhlrb_v05_1798": false,
+"krhlrb_v05_1800": true,
+"krhlrb_v05_1801": true,
+"krhlrb_v05_1802": false,
+"krhlrb_v05_1803": false,
+"krhlrb_v05_1804": false,
+"krhlrb_v05_1805": true,
+"krhlrb_v05_1806": true
+},
+"glm-5.2": {
+"krhlrb_v05_1798": true,
+"krhlrb_v05_1800": true,
+"krhlrb_v05_1801": true,
+"krhlrb_v05_1802": false,
+"krhlrb_v05_1803": false,
+"krhlrb_v05_1804": true,
+"krhlrb_v05_1805": true,
+"krhlrb_v05_1806": true
+},
+"gpt-4.1-mini": {
+"krhlrb_v05_1798": false,
+"krhlrb_v05_1800": false,
+"krhlrb_v05_1801": false,
+"krhlrb_v05_1802": false,
+"krhlrb_v05_1803": false,
+"krhlrb_v05_1804": false,
+"krhlrb_v05_1805": false,
+"krhlrb_v05_1806": false
+},
+"gpt-5.4-mini": {
+"krhlrb_v05_1798": false,
+"krhlrb_v05_1800": false,
+"krhlrb_v05_1801": false,
+"krhlrb_v05_1802": false,
+"krhlrb_v05_1803": false,
+"krhlrb_v05_1804": true,
+"krhlrb_v05_1805": false,
+"krhlrb_v05_1806": false
+},
+"gpt-5.4-nano": {
+"krhlrb_v05_1798": false,
+"krhlrb_v05_1800": false,
+"krhlrb_v05_1801": false,
+"krhlrb_v05_1802": false,
+"krhlrb_v05_1803": false,
+"krhlrb_v05_1804": false,
+"krhlrb_v05_1805": false,
+"krhlrb_v05_1806": false
+},
+"gpt-5.5": {
+"krhlrb_v05_1798": true,
+"krhlrb_v05_1800": true,
+"krhlrb_v05_1801": true,
+"krhlrb_v05_1802": false,
+"krhlrb_v05_1803": false,
+"krhlrb_v05_1804": true,
+"krhlrb_v05_1805": true,
+"krhlrb_v05_1806": true
+},
+"minimax-m3": {
+"krhlrb_v05_1798": true,
+"krhlrb_v05_1800": true,
+"krhlrb_v05_1801": true,
+"krhlrb_v05_1802": false,
+"krhlrb_v05_1803": false,
+"krhlrb_v05_1804": true,
+"krhlrb_v05_1805": true,
+"krhlrb_v05_1806": true
+}
+}
+}

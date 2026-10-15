@@ -1,0 +1,2 @@
+# Copy to configs/paths.toml (git-ignored) to keep rebuilt files outside the repository.
+local = "~/khat-local"

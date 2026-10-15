@@ -1,0 +1,19 @@
+{"qa_id": "krhlrb_v05_0371", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "11", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0417", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "4114", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0424", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "509", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0431", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "137건", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0432", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "26,537만원", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0434", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "61건", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0436", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "약 1,073.4세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1734", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "- 일도1,2차 통합공공임대주택: 제주시\n- 법환 통합공공임대주택: 서귀포시", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1810", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "5건", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1811", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "5897", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1812", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "1179.4세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1813", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "7", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1883", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "17786", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1886", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "21814", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1889", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "525", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1894", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "2건", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1898", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "525", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1901", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "2129", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1903", "split": "test_public", "model": "glm-5.2", "setting": "fc", "prediction": "2건", "judge_label": true, "judge_label_secondary": true}

@@ -1,0 +1,90 @@
+{
+ "set": "planB",
+ "items": {
+  "bv1": [
+   "krhlrb_v05_1798",
+   "krhlrb_v05_1800",
+   "krhlrb_v05_1801",
+   "krhlrb_v05_1802",
+   "krhlrb_v05_1803",
+   "krhlrb_v05_1804",
+   "krhlrb_v05_1805",
+   "krhlrb_v05_1806"
+  ],
+  "bv2": [
+   "krhlrb_v05_1798",
+   "krhlrb_v05_1800",
+   "krhlrb_v05_1801",
+   "krhlrb_v05_1802",
+   "krhlrb_v05_1803",
+   "krhlrb_v05_1804",
+   "krhlrb_v05_1805",
+   "krhlrb_v05_1806"
+  ],
+  "bv3": [
+   "krhlrb_v05_1798",
+   "krhlrb_v05_1800",
+   "krhlrb_v05_1801",
+   "krhlrb_v05_1802",
+   "krhlrb_v05_1803",
+   "krhlrb_v05_1804",
+   "krhlrb_v05_1805",
+   "krhlrb_v05_1806"
+  ]
+ },
+ "caps": {
+  "gpt-5.5": 16000,
+  "gpt-5.4-mini": 16000,
+  "gpt-5.4-nano": 16000,
+  "gpt-4.1-mini": 4000,
+  "claude-sonnet-5-5": 16384,
+  "claude-haiku-5-5": 16384,
+  "glm-5.2": 16384,
+  "minimax-m3": 32768
+ },
+ "openai_ids": {
+  "gpt-5.5": "gpt-5.5-2026-04-23",
+  "gpt-5.4-mini": "gpt-5.4-mini-2026-03-17",
+  "gpt-5.4-nano": "gpt-5.4-nano-2026-03-17",
+  "gpt-4.1-mini": "gpt-4.1-mini-2025-04-14"
+ },
+ "anthropic_thinking": {
+  "claude-sonnet-5-5": {
+   "type": "between_tools"
+  },
+  "claude-haiku-5-5": {
+   "type": "disabled"
+  }
+ },
+ "ollama_tags": {
+  "glm-5.2": "glm-5.2:cloud",
+  "minimax-m3": "minimax-m3:cloud"
+ },
+ "num_ctx": 131072,
+ "files": {
+  "openai_bv1_gpt-5.5.jsonl": 8,
+  "openai_bv1_gpt-5.4-mini.jsonl": 8,
+  "openai_bv1_gpt-5.4-nano.jsonl": 8,
+  "openai_bv1_gpt-4.1-mini.jsonl": 8,
+  "anthropic_bv1_claude-sonnet-5-5.jsonl": 8,
+  "anthropic_bv1_claude-haiku-5-5.jsonl": 8,
+  "ollama_bv1_glm-5.2.jsonl": 8,
+  "ollama_bv1_minimax-m3.jsonl": 8,
+  "openai_bv2_gpt-5.5.jsonl": 8,
+  "openai_bv2_gpt-5.4-mini.jsonl": 8,
+  "openai_bv2_gpt-5.4-nano.jsonl": 8,
+  "openai_bv2_gpt-4.1-mini.jsonl": 8,
+  "anthropic_bv2_claude-sonnet-5-5.jsonl": 8,
+  "anthropic_bv2_claude-haiku-5-5.jsonl": 8,
+  "ollama_bv2_glm-5.2.jsonl": 8,
+  "ollama_bv2_minimax-m3.jsonl": 8,
+  "openai_bv3_gpt-5.5.jsonl": 8,
+  "openai_bv3_gpt-5.4-mini.jsonl": 8,
+  "openai_bv3_gpt-5.4-nano.jsonl": 8,
+  "openai_bv3_gpt-4.1-mini.jsonl": 8,
+  "anthropic_bv3_claude-sonnet-5-5.jsonl": 8,
+  "anthropic_bv3_claude-haiku-5-5.jsonl": 8,
+  "ollama_bv3_glm-5.2.jsonl": 8,
+  "ollama_bv3_minimax-m3.jsonl": 8
+ }
+}

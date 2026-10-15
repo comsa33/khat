@@ -1,0 +1,98 @@
+{"qa_id": "krhlrb_v05_1193", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "6개월", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1196", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "제7696호", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1198", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "2층 이하", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1202", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "「대기환경보전법」 제58조 제3항", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1680", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1681", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1204", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "47호", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1205", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "100만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1206", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "200만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1213", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "20년", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1219", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "200㎡", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1221", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "제8호", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1682", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0983", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "9,915,065원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0984", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "11,151,514원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0986", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "12,653,012원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0990", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "17,156,176원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0991", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "18,062,096원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1383", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "12호", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1394", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "60제곱미터 이하", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1395", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "337,000,000원 이하", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1396", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "38,030,000원 이하", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1397", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "2023.3.28.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1399", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "액면가액", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0993", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "11", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1697", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1698", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1401", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "6년", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1402", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "30호", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1416", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "6세 이하", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1417", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "지상 1층", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1418", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "2층~4층", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1419", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "본 모집 공고(38호 공급)의 공급 유형은 **30㎡(30호) 및 44㎡(8호)**으로, **20㎡는 이번 공고의 공급 대상에 포함되지 않습니다.**\n\n단지 전체 구성에는 전용면적 20㎡(24세대)이 포함되어 있으나, 이는 일자리연계형 지원주택(38세대) 또는 통합공공임대주택(32세대) 중 별도 구분으로 안내되며, 금회 공고의 공급호수(38호)에는 포함되어 있지 않습니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1126", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "소득 수준(기준 중위소득 기준)의 3점 기준은 **100% 이하**입니다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1127", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "130% 이하", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1128", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "150% 이하", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1130", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "서귀포시 연속 거주기간의 2점 기준은 **3년 이상 5년 미만**이다.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1699", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1700", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0481", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "25만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0482", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "전용 40㎡ 초과", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0770", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "7,720,279원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0773", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "생애최초 일반공급 4인 값: **11,151,514원** (130% 기준) / **12,009,323원** (140% 기준, 본인 및 배우자가 모두 소득이 있는 경우)", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0777", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "신혼부부 일반공급 항목의 5인 값은 다음과 같습니다:\n- 도시근로자 가구당 월평균소득액의 130%: **11,740,362원**\n- 도시근로자 가구당 월평균소득액의 140% (본인 및 배우자가 모두 소득이 있는 경우): **12,643,467원**", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0541", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "686세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0542", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "390세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0543", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "194세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0544", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "102세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0545", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "2026.04.30.(목)", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0546", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "2026년 5월 10일 (일) 10:00", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0547", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "2일간 (2026.05.08.(금) ~ 05.09.(토), 10:00~17:00)", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0548", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "10년", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0549", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "2018. 12. 11.", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0550", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "2만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0551", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "7만 5천원(75,000원)", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0817", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "7,461,588원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0562", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "2018년 12월 11일", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0573", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "0년", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0575", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "입주 약 2개월 전", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0823", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "8,759,777원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0828", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "14,478,311원 / 15,592,027원(본인 및 배우자가 모두 소득이 있는 경우)", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0834", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "8,348,099원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0576", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "600세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0577", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "55㎡", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0578", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "200세대", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0579", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "10년", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0580", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "2만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0581", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "4만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0582", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "7만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0583", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "15만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0584", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "35만원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0585", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "연 1.3% 고정금리", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0586", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "29년", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0587", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "4년", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0836", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "6,027,010원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0837", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "7,041,762원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0846", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "11,442,863원", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0359", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "의왕시", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0362", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "충청북도 청주시 상당구", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0371", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "10", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0417", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "4,114", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0424", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "509", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0431", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "137", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0432", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "대전광역시 동구의 2025년 10월 평균 거래금액은 **약 28,122만원**입니다.\n\n(2025년 10월 동구 아파트 거래 137건의 거래금액 합계 3,852,700만원 ÷ 137건 = 28,121.9만원)", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_0434", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "138", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_0436", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "**986호** (약 986.1호)\n\n산출 근거: 시흥하중 A1블록의 공급위치는 \"경기도 시흥시 하중동 일원\"이므로 경기도 2023년 HUG 분양이력 138개 사업장의 TOT_HOCO 합계 136,083호를 138로 나누어 산출.", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1734", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "1. 일도1,2차: **제주시**\n2. 법환: **서귀포시**", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1810", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "0건", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1811", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "11,017호", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1812", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "약 1,179.4세대(5개 사업장 총 5,897세대 ÷ 5)", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1813", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "**6건**\n\n「제천 영천동 행복주택 예비입주자 모집공고」(p.1)의 공급위치는 \"충북 제천시 영천동 999-2 일원\"으로 충청북도입니다. HUG 분양이력 자료에서 2025년 충청도 분양 사업장(분양보증) 건수는 다음과 같이 **6건**입니다.\n\n1. 충주 연수 경남아너스빌 센터원 (243세대)\n2. 청주테크노폴리스 일반산업단지 A7BL 신축공사 (581세대)\n3. 강서2지구 지역주택조합 공동주택 개발사업 (962세대)\n4. 용산주공아파트 주택재건축정비사업 (847세대)\n5. 사직1구역 주택재개발정비사업 (2,291세대)\n6. 운천주공 재건축정비사업(두산위브더제니스 청주 센트럴파크) (1,632세대)", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1883", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "**17,673세대**", "judge_label": false, "judge_label_secondary": false}
+{"qa_id": "krhlrb_v05_1886", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "**21,814세대**\n\n(「2025년 인천도시공사 천원주택(전세임대주택) 예비입주자 모집공고」의 사업대상지역은 「인천광역시 관내 전지역」으로, HUG 2025년 인천광역시 분양 사업장 21개소의 총세대수(TOT_HOCO) 합계)\n\n- 용현학익 1블록 공동2BL(시티오씨엘 8단지) 1,349\n- 영종 A50BL 300\n- 검단 AB13BL 905\n- 송도 RC3BL 502\n- 용현학익 2-2BL(인하대역 수자인 로이센트) 1,199\n- 영종 A20BL(신일 비아프 크레스트 2단지) 516\n- 영종 A19BL(신일 비아프 크레스트 1단지) 444\n- 영종 RC4BL 1,096\n- 검단 AA24BL(중흥에스클래스) 1,018\n- 신흥동3가 주상복합 709\n- 검단 AA32BL 670\n- 강화2지역주택조합 1,325\n- 검단 AB8BL 1,534\n- 용현학익 1블록 공동4BL(시티오씨엘 7단지) 1,453\n- 동우아파트 가로주택정비 235\n- 송도영남아파트 재건축 665\n- 산곡 재개발(해링턴 스퀘어 산곡역) 2,572\n- 도화4구역 재개발 672\n- 숭의3구역 재개발 745\n- 상인천초교 주변 재개발 2,602\n- 부개4구역 재개발(두산위브앤수자인부평더퍼스트) 1,303", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1889", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "525", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1894", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "2건", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1898", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "525", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1901", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "2,129", "judge_label": true, "judge_label_secondary": true}
+{"qa_id": "krhlrb_v05_1903", "split": "test_public", "model": "minimax-m3", "setting": "fc", "prediction": "제공된 자료만으로는 확정할 수 없음", "judge_label": false, "judge_label_secondary": false}

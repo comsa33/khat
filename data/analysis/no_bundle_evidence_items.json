@@ -1,0 +1,4241 @@
+[
+{
+"q": "krhlrb_v05_0443",
+"fam": "cross_source_aggregation",
+"ngold": 1,
+"nmiss": 1,
+"answer": "61건",
+"terms": [
+"의왕시",
+"경기도"
+],
+"nums": [
+"61"
+],
+"other_pages_of_missing_ann": {
+"lh-uiwang-wolam-a1-a3-newlywed-remaining-20250522": 0
+},
+"terms_on_other_pages_same_ann": {
+"의왕시": false,
+"경기도": false
+},
+"terms_anywhere": {
+"의왕시": false,
+"경기도": true
+},
+"term_literal_in_q": {
+"의왕시": false,
+"경기도": false
+},
+"term_stem_in_q": {
+"의왕시": true,
+"경기도": false
+},
+"pred": {
+"source": "hug-sale-history",
+"filter": {
+"_query_area_name": "경기도",
+"_query_year": "2023"
+},
+"op": "count"
+},
+"n_rows_gold": 20,
+"n_rows_in_bundle_by_filter": 61
+},
+{
+"q": "krhlrb_v05_0444",
+"fam": "cross_source_aggregation",
+"ngold": 1,
+"nmiss": 1,
+"answer": "65,478세대",
+"terms": [
+"의왕시",
+"경기도"
+],
+"nums": [
+"65478"
+],
+"other_pages_of_missing_ann": {
+"lh-uiwang-wolam-a1-a3-newlywed-remaining-20250522": 0
+},
+"terms_on_other_pages_same_ann": {
+"의왕시": false,
+"경기도": false
+},
+"terms_anywhere": {
+"의왕시": false,
+"경기도": true
+},
+"term_literal_in_q": {
+"의왕시": false,
+"경기도": false
+},
+"term_stem_in_q": {
+"의왕시": true,
+"경기도": false
+},
+"pred": {
+"source": "hug-sale-history",
+"filter": {
+"_query_area_name": "경기도",
+"_query_year": "2023"
+},
+"op": "sum",
+"field": "TOT_HOCO"
+},
+"n_rows_gold": 20,
+"n_rows_in_bundle_by_filter": 61
+},
+{
+"q": "krhlrb_v05_0445",
+"fam": "cross_source_aggregation",
+"ngold": 1,
+"nmiss": 1,
+"answer": "1,073세대",
+"terms": [
+"의왕시",
+"경기도"
+],
+"nums": [
+"1073"
+],
+"other_pages_of_missing_ann": {
+"lh-uiwang-wolam-a1-a3-newlywed-remaining-20250522": 0
+},
+"terms_on_other_pages_same_ann": {
+"의왕시": false,
+"경기도": false
+},
+"terms_anywhere": {
+"의왕시": false,
+"경기도": true
+},
+"term_literal_in_q": {
+"의왕시": false,
+"경기도": false
+},
+"term_stem_in_q": {
+"의왕시": true,
+"경기도": false
+},
+"pred": {
+"source": "hug-sale-history",
+"filter": {
+"_query_area_name": "경기도",
+"_query_year": "2023"
+},
+"op": "avg",
+"field": "TOT_HOCO"
+},
+"n_rows_gold": 20,
+"n_rows_in_bundle_by_filter": 61
+},
+{
+"q": "krhlrb_v05_0446",
+"fam": "cross_source_aggregation",
+"ngold": 1,
+"nmiss": 1,
+"answer": "77건",
+"terms": [
+"의왕시",
+"경기도"
+],
+"nums": [
+"77"
+],
+"other_pages_of_missing_ann": {
+"lh-uiwang-wolam-a1-a3-newlywed-remaining-20250522": 0
+},
+"terms_on_other_pages_same_ann": {
+"의왕시": false,
+"경기도": false
+},
+"terms_anywhere": {
+"의왕시": false,
+"경기도": true
+},
+"term_literal_in_q": {
+"의왕시": false,
+"경기도": false
+},
+"term_stem_in_q": {
+"의왕시": true,
+"경기도": false
+},
+"pred": {
+"source": "hug-sale-history",
+"filter": {
+"_query_area_name": "경기도",
+"_query_year": "2024"
+},
+"op": "count"
+},
+"n_rows_gold": 20,
+"n_rows_in_bundle_by_filter": 77
+},
+{
+"q": "krhlrb_v05_0447",
+"fam": "cross_source_aggregation",
+"ngold": 1,
+"nmiss": 1,
+"answer": "70,605세대",
+"terms": [
+"의왕시",
+"경기도"
+],
+"nums": [
+"70605"
+],
+"other_pages_of_missing_ann": {
+"lh-uiwang-wolam-a1-a3-newlywed-remaining-20250522": 0
+},
+"terms_on_other_pages_same_ann": {
+"의왕시": false,
+"경기도": false
+},
+"terms_anywhere": {
+"의왕시": false,
+"경기도": true
+},
+"term_literal_in_q": {
+"의왕시": false,
+"경기도": false
+},
+"term_stem_in_q": {
+"의왕시": true,
+"경기도": false
+},
+"pred": {
+"source": "hug-sale-history",
+"filter": {
+"_query_area_name": "경기도",
+"_query_year": "2024"
+},
+"op": "sum",
+"field": "TOT_HOCO"
+},
+"n_rows_gold": 20,
+"n_rows_in_bundle_by_filter": 77
+},
+{
+"q": "krhlrb_v05_0448",
+"fam": "cross_source_aggregation",
+"ngold": 1,
+"nmiss": 1,
+"answer": "917세대",
+"terms": [
+"의왕시",
+"경기도"
+],
+"nums": [
+"917"
+],
+"other_pages_of_missing_ann": {
+"lh-uiwang-wolam-a1-a3-newlywed-remaining-20250522": 0
+},
+"terms_on_other_pages_same_ann": {
+"의왕시": false,
+"경기도": false
+},
+"terms_anywhere": {
+"의왕시": false,
+"경기도": true
+},
+"term_literal_in_q": {
+"의왕시": false,
+"경기도": false
+},
+"term_stem_in_q": {
+"의왕시": true,
+"경기도": false
+},
+"pred": {
+"source": "hug-sale-history",
+"filter": {
+"_query_area_name": "경기도",
+"_query_year": "2024"
+},
+"op": "avg",
+"field": "TOT_HOCO"
+},
+"n_rows_gold": 20,
+"n_rows_in_bundle_by_filter": 77
+},
+{
+"q": "krhlrb_v05_0449",
+"fam": "cross_source_aggregation",
+"ngold": 1,
+"nmiss": 1,
+"answer": "72건",
+"terms": [
+"의왕시",
+"경기도"
+],
+"nums": [
+"72"
+],
+"other_pages_of_missing_ann": {
+"lh-uiwang-wolam-a1-a3-newlywed-remaining-20250522": 0
+},
+"terms_on_other_pages_same_ann": {
+"의왕시": false,
+"경기도": false
+},
+"terms_anywhere": {
+"의왕시": false,
+"경기도": true
+},
+"term_literal_in_q": {
+"의왕시": false,
+"경기도": false
+},
+"term_stem_in_q": {
+"의왕시": true,
+"경기도": false
+},
+"pred": {
+"source": "hug-sale-history",
+"filter": {
+"_query_area_name": "경기도",
+"_query_year": "2025"
+},
+"op": "count"
+},
+"n_rows_gold": 20,
+"n_rows_in_bundle_by_filter": 72
+},
+{
+"q": "krhlrb_v05_0450",
+"fam": "cross_source_aggregation",
+"ngold": 1,
+"nmiss": 1,
+"answer": "67,541세대",
+"terms": [
+"의왕시",
+"경기도"
+],
+"nums": [
+"67541"
+],
+"other_pages_of_missing_ann": {
+"lh-uiwang-wolam-a1-a3-newlywed-remaining-20250522": 0
+},
+"terms_on_other_pages_same_ann": {
+"의왕시": false,
+"경기도": false
+},
+"terms_anywhere": {
+"의왕시": false,
+"경기도": true
+},
+"term_literal_in_q": {
+"의왕시": false,
+"경기도": false
+},
+"term_stem_in_q": {
+"의왕시": true,
+"경기도": false
+},
+"pred": {
+"source": "hug-sale-history",
+"filter": {
+"_query_area_name": "경기도",
+"_query_year": "2025"
+},
+"op": "sum",
+"field": "TOT_HOCO"
+},
+"n_rows_gold": 20,
+"n_rows_in_bundle_by_filter": 72
+},
+{
+"q": "krhlrb_v05_0451",
+"fam": "cross_source_aggregation",
+"ngold": 1,
+"nmiss": 1,
+"answer": "938세대",
+"terms": [
+"의왕시",
+"경기도"
+],
+"nums": [
+"938"
+],
+"other_pages_of_missing_ann": {
+"lh-uiwang-wolam-a1-a3-newlywed-remaining-20250522": 0
+},
+"terms_on_other_pages_same_ann": {
+"의왕시": false,
+"경기도": false
+},
+"terms_anywhere": {
+"의왕시": false,
+"경기도": true
+},
+"term_literal_in_q": {
+"의왕시": false,
+"경기도": false
+},
+"term_stem_in_q": {
+"의왕시": true,
+"경기도": false
+},
+"pred": {
+"source": "hug-sale-history",
+"filter": {
+"_query_area_name": "경기도",
+"_query_year": "2025"
+},
+"op": "avg",
+"field": "TOT_HOCO"
+},
+"n_rows_gold": 20,
+"n_rows_in_bundle_by_filter": 72
+},
+{
+"q": "krhlrb_v05_0452",
+"fam": "cross_source_aggregation",
+"ngold": 1,
+"nmiss": 1,
+"answer": "61건",
+"terms": [
+"성남시",
+"경기도"
+],
+"nums": [
+"61"
+],
+"other_pages_of_missing_ann": {
+"lh-wirye-a2-7-happy-house-20241126": 0
+},
+"terms_on_other_pages_same_ann": {
+"성남시": false,
+"경기도": false
+},
+"terms_anywhere": {
+"성남시": false,
+"경기도": true
+},
+"term_literal_in_q": {
+"성남시": false,
+"경기도": false
+},
+"term_stem_in_q": {
+"성남시": false,
+"경기도": false
+},
+"pred": {
+"source": "hug-sale-history",
+"filter": {
+"_query_area_name": "경기도",
+"_query_year": "2023"
+},
+"op": "count"
+},
+"n_rows_gold": 20,
+"n_rows_in_bundle_by_filter": 61
+},
+{
+"q": "krhlrb_v05_0453",
+"fam": "cross_source_aggregation",
+"ngold": 1,
+"nmiss": 1,
+"answer": "65,478세대",
+"terms": [
+"성남시",
+"경기도"
+],
+"nums": [
+"65478"
+],
+"other_pages_of_missing_ann": {
+"lh-wirye-a2-7-happy-house-20241126": 0
+},
+"terms_on_other_pages_same_ann": {
+"성남시": false,
+"경기도": false
+},
+"terms_anywhere": {
+"성남시": false,
+"경기도": true
+},
+"term_literal_in_q": {
+"성남시": false,
+"경기도": false
+},
+"term_stem_in_q": {
+"성남시": false,
+"경기도": false
+},
+"pred": {
+"source": "hug-sale-history",
+"filter": {
+"_query_area_name": "경기도",
+"_query_year": "2023"
+},
+"op": "sum",
+"field": "TOT_HOCO"
+},
+"n_rows_gold": 20,
+"n_rows_in_bundle_by_filter": 61
+},
+{
+"q": "krhlrb_v05_0454",
+"fam": "cross_source_aggregation",
+"ngold": 1,
+"nmiss": 1,
+"answer": "1,073세대",
+"terms": [
+"성남시",
+"경기도"
+],
+"nums": [
+"1073"
+],
+"other_pages_of_missing_ann": {
+"lh-wirye-a2-7-happy-house-20241126": 0
+},
+"terms_on_other_pages_same_ann": {
+"성남시": false,
+"경기도": false
+},
+"terms_anywhere": {
+"성남시": false,
+"경기도": true
+},
+"term_literal_in_q": {
+"성남시": false,
+"경기도": false
+},
+"term_stem_in_q": {
+"성남시": false,
+"경기도": false
+},
+"pred": {
+"source": "hug-sale-history",
+"filter": {
+"_query_area_name": "경기도",
+"_query_year": "2023"
+},
+"op": "avg",
+"field": "TOT_HOCO"
+},
+"n_rows_gold": 20,
+"n_rows_in_bundle_by_filter": 61
+},
+{
+"q": "krhlrb_v05_0455",
+"fam": "cross_source_aggregation",
+"ngold": 1,
+"nmiss": 1,
+"answer": "77건",
+"terms": [
+"성남시",
+"경기도"
+],
+"nums": [
+"77"
+],
+"other_pages_of_missing_ann": {
+"lh-wirye-a2-7-happy-house-20241126": 0
+},
+"terms_on_other_pages_same_ann": {
+"성남시": false,
+"경기도": false
+},
+"terms_anywhere": {
+"성남시": false,
+"경기도": true
+},
+"term_literal_in_q": {
+"성남시": false,
+"경기도": false
+},
+"term_stem_in_q": {
+"성남시": false,
+"경기도": false
+},
+"pred": {
+"source": "hug-sale-history",
+"filter": {
+"_query_area_name": "경기도",
+"_query_year": "2024"
+},
+"op": "count"
+},
+"n_rows_gold": 20,
+"n_rows_in_bundle_by_filter": 77
+},
+{
+"q": "krhlrb_v05_0456",
+"fam": "cross_source_aggregation",
+"ngold": 1,
+"nmiss": 1,
+"answer": "70,605세대",
+"terms": [
+"성남시",
+"경기도"
+],
+"nums": [
+"70605"
+],
+"other_pages_of_missing_ann": {
+"lh-wirye-a2-7-happy-house-20241126": 0
+},
+"terms_on_other_pages_same_ann": {
+"성남시": false,
+"경기도": false
+},
+"terms_anywhere": {
+"성남시": false,
+"경기도": true
+},
+"term_literal_in_q": {
+"성남시": false,
+"경기도": false
+},
+"term_stem_in_q": {
+"성남시": false,
+"경기도": false
+},
+"pred": {
+"source": "hug-sale-history",
+"filter": {
+"_query_area_name": "경기도",
+"_query_year": "2024"
+},
+"op": "sum",
+"field": "TOT_HOCO"
+},
+"n_rows_gold": 20,
+"n_rows_in_bundle_by_filter": 77
+},
+{
+"q": "krhlrb_v05_0457",
+"fam": "cross_source_aggregation",
+"ngold": 1,
+"nmiss": 1,
+"answer": "917세대",
+"terms": [
+"성남시",
+"경기도"
+],
+"nums": [
+"917"
+],
+"other_pages_of_missing_ann": {
+"lh-wirye-a2-7-happy-house-20241126": 0
+},
+"terms_on_other_pages_same_ann": {
+"성남시": false,
+"경기도": false
+},
+"terms_anywhere": {
+"성남시": false,
+"경기도": true
+},
+"term_literal_in_q": {
+"성남시": false,
+"경기도": false
+},
+"term_stem_in_q": {
+"성남시": false,
+"경기도": false
+},
+"pred": {
+"source": "hug-sale-history",
+"filter": {
+"_query_area_name": "경기도",
+"_query_year": "2024"
+},
+"op": "avg",
+"field": "TOT_HOCO"
+},
+"n_rows_gold": 20,
+"n_rows_in_bundle_by_filter": 77
+},
+{
+"q": "krhlrb_v05_0458",
+"fam": "cross_source_aggregation",
+"ngold": 1,
+"nmiss": 1,
+"answer": "72건",
+"terms": [
+"성남시",
+"경기도"
+],
+"nums": [
+"72"
+],
+"other_pages_of_missing_ann": {
+"lh-wirye-a2-7-happy-house-20241126": 0
+},
+"terms_on_other_pages_same_ann": {
+"성남시": false,
+"경기도": false
+},
+"terms_anywhere": {
+"성남시": false,
+"경기도": true
+},
+"term_literal_in_q": {
+"성남시": false,
+"경기도": false
+},
+"term_stem_in_q": {
+"성남시": false,
+"경기도": false
+},
+"pred": {
+"source": "hug-sale-history",
+"filter": {
+"_query_area_name": "경기도",
+"_query_year": "2025"
+},
+"op": "count"
+},
+"n_rows_gold": 20,
+"n_rows_in_bundle_by_filter": 72
+},
+{
+"q": "krhlrb_v05_0459",
+"fam": "cross_source_aggregation",
+"ngold": 1,
+"nmiss": 1,
+"answer": "67,541세대",
+"terms": [
+"성남시",
+"경기도"
+],
+"nums": [
+"67541"
+],
+"other_pages_of_missing_ann": {
+"lh-wirye-a2-7-happy-house-20241126": 0
+},
+"terms_on_other_pages_same_ann": {
+"성남시": false,
+"경기도": false
+},
+"terms_anywhere": {
+"성남시": false,
+"경기도": true
+},
+"term_literal_in_q": {
+"성남시": false,
+"경기도": false
+},
+"term_stem_in_q": {
+"성남시": false,
+"경기도": false
+},
+"pred": {
+"source": "hug-sale-history",
+"filter": {
+"_query_area_name": "경기도",
+"_query_year": "2025"
+},
+"op": "sum",
+"field": "TOT_HOCO"
+},
+"n_rows_gold": 20,
+"n_rows_in_bundle_by_filter": 72
+},
+{
+"q": "krhlrb_v05_0460",
+"fam": "cross_source_aggregation",
+"ngold": 1,
+"nmiss": 1,
+"answer": "938세대",
+"terms": [
+"성남시",
+"경기도"
+],
+"nums": [
+"938"
+],
+"other_pages_of_missing_ann": {
+"lh-wirye-a2-7-happy-house-20241126": 0
+},
+"terms_on_other_pages_same_ann": {
+"성남시": false,
+"경기도": false
+},
+"terms_anywhere": {
+"성남시": false,
+"경기도": true
+},
+"term_literal_in_q": {
+"성남시": false,
+"경기도": false
+},
+"term_stem_in_q": {
+"성남시": false,
+"경기도": false
+},
+"pred": {
+"source": "hug-sale-history",
+"filter": {
+"_query_area_name": "경기도",
+"_query_year": "2025"
+},
+"op": "avg",
+"field": "TOT_HOCO"
+},
+"n_rows_gold": 20,
+"n_rows_in_bundle_by_filter": 72
+},
+{
+"q": "krhlrb_v05_0461",
+"fam": "cross_source_aggregation",
+"ngold": 1,
+"nmiss": 1,
+"answer": "61건",
+"terms": [
+"성남시",
+"경기도"
+],
+"nums": [
+"61"
+],
+"other_pages_of_missing_ann": {
+"lh-wirye-a2-7-newlywed-remaining-20241113": 0
+},
+"terms_on_other_pages_same_ann": {
+"성남시": false,
+"경기도": false
+},
+"terms_anywhere": {
+"성남시": false,
+"경기도": true
+},
+"term_literal_in_q": {
+"성남시": false,
+"경기도": false
+},
+"term_stem_in_q": {
+"성남시": false,
+"경기도": false
+},
+"pred": {
+"source": "hug-sale-history",
+"filter": {
+"_query_area_name": "경기도",
+"_query_year": "2023"
+},
+"op": "count"
+},
+"n_rows_gold": 20,
+"n_rows_in_bundle_by_filter": 61
+},
+{
+"q": "krhlrb_v05_0462",
+"fam": "cross_source_aggregation",
+"ngold": 1,
+"nmiss": 1,
+"answer": "65,478세대",
+"terms": [
+"성남시",
+"경기도"
+],
+"nums": [
+"65478"
+],
+"other_pages_of_missing_ann": {
+"lh-wirye-a2-7-newlywed-remaining-20241113": 0
+},
+"terms_on_other_pages_same_ann": {
+"성남시": false,
+"경기도": false
+},
+"terms_anywhere": {
+"성남시": false,
+"경기도": true
+},
+"term_literal_in_q": {
+"성남시": false,
+"경기도": false
+},
+"term_stem_in_q": {
+"성남시": false,
+"경기도": false
+},
+"pred": {
+"source": "hug-sale-history",
+"filter": {
+"_query_area_name": "경기도",
+"_query_year": "2023"
+},
+"op": "sum",
+"field": "TOT_HOCO"
+},
+"n_rows_gold": 20,
+"n_rows_in_bundle_by_filter": 61
+},
+{
+"q": "krhlrb_v05_0463",
+"fam": "cross_source_aggregation",
+"ngold": 1,
+"nmiss": 1,
+"answer": "1,073세대",
+"terms": [
+"성남시",
+"경기도"
+],
+"nums": [
+"1073"
+],
+"other_pages_of_missing_ann": {
+"lh-wirye-a2-7-newlywed-remaining-20241113": 0
+},
+"terms_on_other_pages_same_ann": {
+"성남시": false,
+"경기도": false
+},
+"terms_anywhere": {
+"성남시": false,
+"경기도": true
+},
+"term_literal_in_q": {
+"성남시": false,
+"경기도": false
+},
+"term_stem_in_q": {
+"성남시": false,
+"경기도": false
+},
+"pred": {
+"source": "hug-sale-history",
+"filter": {
+"_query_area_name": "경기도",
+"_query_year": "2023"
+},
+"op": "avg",
+"field": "TOT_HOCO"
+},
+"n_rows_gold": 20,
+"n_rows_in_bundle_by_filter": 61
+},
+{
+"q": "krhlrb_v05_0464",
+"fam": "cross_source_aggregation",
+"ngold": 1,
+"nmiss": 1,
+"answer": "77건",
+"terms": [
+"성남시",
+"경기도"
+],
+"nums": [
+"77"
+],
+"other_pages_of_missing_ann": {
+"lh-wirye-a2-7-newlywed-remaining-20241113": 0
+},
+"terms_on_other_pages_same_ann": {
+"성남시": false,
+"경기도": false
+},
+"terms_anywhere": {
+"성남시": false,
+"경기도": true
+},
+"term_literal_in_q": {
+"성남시": false,
+"경기도": false
+},
+"term_stem_in_q": {
+"성남시": false,
+"경기도": false
+},
+"pred": {
+"source": "hug-sale-history",
+"filter": {
+"_query_area_name": "경기도",
+"_query_year": "2024"
+},
+"op": "count"
+},
+"n_rows_gold": 20,
+"n_rows_in_bundle_by_filter": 77
+},
+{
+"q": "krhlrb_v05_0465",
+"fam": "cross_source_aggregation",
+"ngold": 1,
+"nmiss": 1,
+"answer": "70,605세대",
+"terms": [
+"성남시",
+"경기도"
+],
+"nums": [
+"70605"
+],
+"other_pages_of_missing_ann": {
+"lh-wirye-a2-7-newlywed-remaining-20241113": 0
+},
+"terms_on_other_pages_same_ann": {
+"성남시": false,
+"경기도": false
+},
+"terms_anywhere": {
+"성남시": false,
+"경기도": true
+},
+"term_literal_in_q": {
+"성남시": false,
+"경기도": false
+},
+"term_stem_in_q": {
+"성남시": false,
+"경기도": false
+},
+"pred": {
+"source": "hug-sale-history",
+"filter": {
+"_query_area_name": "경기도",
+"_query_year": "2024"
+},
+"op": "sum",
+"field": "TOT_HOCO"
+},
+"n_rows_gold": 20,
+"n_rows_in_bundle_by_filter": 77
+},
+{
+"q": "krhlrb_v05_0466",
+"fam": "cross_source_aggregation",
+"ngold": 1,
+"nmiss": 1,
+"answer": "917세대",
+"terms": [
+"성남시",
+"경기도"
+],
+"nums": [
+"917"
+],
+"other_pages_of_missing_ann": {
+"lh-wirye-a2-7-newlywed-remaining-20241113": 0
+},
+"terms_on_other_pages_same_ann": {
+"성남시": false,
+"경기도": false
+},
+"terms_anywhere": {
+"성남시": false,
+"경기도": true
+},
+"term_literal_in_q": {
+"성남시": false,
+"경기도": false
+},
+"term_stem_in_q": {
+"성남시": false,
+"경기도": false
+},
+"pred": {
+"source": "hug-sale-history",
+"filter": {
+"_query_area_name": "경기도",
+"_query_year": "2024"
+},
+"op": "avg",
+"field": "TOT_HOCO"
+},
+"n_rows_gold": 20,
+"n_rows_in_bundle_by_filter": 77
+},
+{
+"q": "krhlrb_v05_0467",
+"fam": "cross_source_aggregation",
+"ngold": 1,
+"nmiss": 1,
+"answer": "72건",
+"terms": [
+"성남시",
+"경기도"
+],
+"nums": [
+"72"
+],
+"other_pages_of_missing_ann": {
+"lh-wirye-a2-7-newlywed-remaining-20241113": 0
+},
+"terms_on_other_pages_same_ann": {
+"성남시": false,
+"경기도": false
+},
+"terms_anywhere": {
+"성남시": false,
+"경기도": true
+},
+"term_literal_in_q": {
+"성남시": false,
+"경기도": false
+},
+"term_stem_in_q": {
+"성남시": false,
+"경기도": false
+},
+"pred": {
+"source": "hug-sale-history",
+"filter": {
+"_query_area_name": "경기도",
+"_query_year": "2025"
+},
+"op": "count"
+},
+"n_rows_gold": 20,
+"n_rows_in_bundle_by_filter": 72
+},
+{
+"q": "krhlrb_v05_0468",
+"fam": "cross_source_aggregation",
+"ngold": 1,
+"nmiss": 1,
+"answer": "67,541세대",
+"terms": [
+"성남시",
+"경기도"
+],
+"nums": [
+"67541"
+],
+"other_pages_of_missing_ann": {
+"lh-wirye-a2-7-newlywed-remaining-20241113": 0
+},
+"terms_on_other_pages_same_ann": {
+"성남시": false,
+"경기도": false
+},
+"terms_anywhere": {
+"성남시": false,
+"경기도": true
+},
+"term_literal_in_q": {
+"성남시": false,
+"경기도": false
+},
+"term_stem_in_q": {
+"성남시": false,
+"경기도": false
+},
+"pred": {
+"source": "hug-sale-history",
+"filter": {
+"_query_area_name": "경기도",
+"_query_year": "2025"
+},
+"op": "sum",
+"field": "TOT_HOCO"
+},
+"n_rows_gold": 20,
+"n_rows_in_bundle_by_filter": 72
+},
+{
+"q": "krhlrb_v05_0469",
+"fam": "cross_source_aggregation",
+"ngold": 1,
+"nmiss": 1,
+"answer": "938세대",
+"terms": [
+"성남시",
+"경기도"
+],
+"nums": [
+"938"
+],
+"other_pages_of_missing_ann": {
+"lh-wirye-a2-7-newlywed-remaining-20241113": 0
+},
+"terms_on_other_pages_same_ann": {
+"성남시": false,
+"경기도": false
+},
+"terms_anywhere": {
+"성남시": false,
+"경기도": true
+},
+"term_literal_in_q": {
+"성남시": false,
+"경기도": false
+},
+"term_stem_in_q": {
+"성남시": false,
+"경기도": false
+},
+"pred": {
+"source": "hug-sale-history",
+"filter": {
+"_query_area_name": "경기도",
+"_query_year": "2025"
+},
+"op": "avg",
+"field": "TOT_HOCO"
+},
+"n_rows_gold": 20,
+"n_rows_in_bundle_by_filter": 72
+},
+{
+"q": "krhlrb_v05_0645",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 2,
+"answer": "동일하다. (경기도 / 경기도)",
+"terms": [
+"경기도",
+"경기도"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"lh-uiwang-wolam-a1-a3-newlywed-remaining-20250522": 0,
+"lh-wirye-a2-7-happy-house-20241126": 0
+},
+"terms_on_other_pages_same_ann": {
+"경기도": false
+},
+"terms_anywhere": {
+"경기도": true
+},
+"term_literal_in_q": {
+"경기도": false
+},
+"term_stem_in_q": {
+"경기도": false
+}
+},
+{
+"q": "krhlrb_v05_0646",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 2,
+"answer": "의왕시 / 성남시",
+"terms": [
+"의왕시",
+"성남시"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"lh-uiwang-wolam-a1-a3-newlywed-remaining-20250522": 0,
+"lh-wirye-a2-7-happy-house-20241126": 0
+},
+"terms_on_other_pages_same_ann": {
+"의왕시": false,
+"성남시": false
+},
+"terms_anywhere": {
+"의왕시": false,
+"성남시": false
+},
+"term_literal_in_q": {
+"의왕시": false,
+"성남시": false
+},
+"term_stem_in_q": {
+"의왕시": true,
+"성남시": false
+}
+},
+{
+"q": "krhlrb_v05_0647",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 2,
+"answer": "동일하다. (경기도 / 경기도)",
+"terms": [
+"경기도",
+"경기도"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"lh-wirye-a2-7-newlywed-remaining-20241113": 0,
+"lh-wirye-a2-7-happy-house-20241126": 0
+},
+"terms_on_other_pages_same_ann": {
+"경기도": false
+},
+"terms_anywhere": {
+"경기도": true
+},
+"term_literal_in_q": {
+"경기도": false
+},
+"term_stem_in_q": {
+"경기도": false
+}
+},
+{
+"q": "krhlrb_v05_0763",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 2,
+"answer": "의왕월암 공고는 경기도 의왕시 월암동 일원, 위례 A2-7 공고는 경기도 성남시 수정구 창곡동 일원으로 시·",
+"terms": [
+"경기도 의왕시 월암동 일원",
+"경기도 성남시 수정구 창곡동 일원"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"lh-uiwang-wolam-a1-a3-newlywed-remaining-20250522": 0,
+"lh-wirye-a2-7-happy-house-20241126": 0
+},
+"terms_on_other_pages_same_ann": {
+"경기도 의왕시 월암동 일원": false,
+"경기도 성남시 수정구 창곡동 일원": false
+},
+"terms_anywhere": {
+"경기도 의왕시 월암동 일원": false,
+"경기도 성남시 수정구 창곡동 일원": false
+},
+"term_literal_in_q": {
+"경기도 의왕시 월암동 일원": false,
+"경기도 성남시 수정구 창곡동 일원": false
+},
+"term_stem_in_q": {
+"경기도 의왕시 월암동 일원": false,
+"경기도 성남시 수정구 창곡동 일원": false
+}
+},
+{
+"q": "krhlrb_v05_0764",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 2,
+"answer": "의왕월암 공고는 신혼희망타운(공공분양) 주택이고, 위례 A2-7 공고는 분양전환되지 않는 신혼희망타운 행복주",
+"terms": [
+"신혼희망타운(공공분양)",
+"행복주택",
+"분양전환되지 않습니다"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"lh-uiwang-wolam-a1-a3-newlywed-remaining-20250522": 0,
+"lh-wirye-a2-7-happy-house-20241126": 0
+},
+"terms_on_other_pages_same_ann": {
+"신혼희망타운(공공분양)": false,
+"행복주택": false,
+"분양전환되지 않습니다": false
+},
+"terms_anywhere": {
+"신혼희망타운(공공분양)": true,
+"행복주택": true,
+"분양전환되지 않습니다": true
+},
+"term_literal_in_q": {
+"신혼희망타운(공공분양)": false,
+"행복주택": false,
+"분양전환되지 않습니다": false
+},
+"term_stem_in_q": {
+"신혼희망타운(공공분양)": false,
+"행복주택": false,
+"분양전환되지 않습니다": false
+}
+},
+{
+"q": "krhlrb_v05_0765",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 2,
+"answer": "의왕월암은 A-1블록 111세대와 A-3블록 77세대로 합계 188세대를 공공분양하고, 위례 A2-7은 행복",
+"terms": [
+"신혼희망타운(공공분양) 111세대",
+"신혼희망타운(공공분양) 77세대",
+"행복주택 219세대"
+],
+"nums": [
+"111",
+"77",
+"219"
+],
+"other_pages_of_missing_ann": {
+"lh-uiwang-wolam-a1-a3-newlywed-remaining-20250522": 0,
+"lh-wirye-a2-7-happy-house-20241126": 0
+},
+"terms_on_other_pages_same_ann": {
+"신혼희망타운(공공분양) 111세대": false,
+"신혼희망타운(공공분양) 77세대": false,
+"행복주택 219세대": false
+},
+"terms_anywhere": {
+"신혼희망타운(공공분양) 111세대": false,
+"신혼희망타운(공공분양) 77세대": false,
+"행복주택 219세대": false
+},
+"term_literal_in_q": {
+"신혼희망타운(공공분양) 111세대": false,
+"신혼희망타운(공공분양) 77세대": false,
+"행복주택 219세대": false
+},
+"term_stem_in_q": {
+"신혼희망타운(공공분양) 111세대": false,
+"신혼희망타운(공공분양) 77세대": false,
+"행복주택 219세대": false
+}
+},
+{
+"q": "krhlrb_v05_0766",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 2,
+"answer": "의왕월암은 전용 55㎡ 단일 면적을 055.0000O·055.0000S 주택형으로 공급하고, 위례 A2-7은",
+"terms": [
+"전용면적 55㎡",
+"055.0000O",
+"55BS-1"
+],
+"nums": [
+"55"
+],
+"other_pages_of_missing_ann": {
+"lh-uiwang-wolam-a1-a3-newlywed-remaining-20250522": 0,
+"lh-wirye-a2-7-happy-house-20241126": 0
+},
+"terms_on_other_pages_same_ann": {
+"전용면적 55㎡": false,
+"055.0000O": false,
+"55BS-1": false
+},
+"terms_anywhere": {
+"전용면적 55㎡": true,
+"055.0000O": false,
+"55BS-1": false
+},
+"term_literal_in_q": {
+"전용면적 55㎡": false,
+"055.0000O": false,
+"55BS-1": false
+},
+"term_stem_in_q": {
+"전용면적 55㎡": false,
+"055.0000O": false,
+"55BS-1": false
+}
+},
+{
+"q": "krhlrb_v05_0767",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 2,
+"answer": "위례 A2-7 행복주택은 '26.12 입주예정으로, A-1블록 '27.11·A-3블록 '28.04 입주예정인",
+"terms": [
+"’27.11",
+"’28.04",
+"입주예정일은 2026년 12월"
+],
+"nums": [
+"27.11",
+"28.04",
+"2026"
+],
+"other_pages_of_missing_ann": {
+"lh-uiwang-wolam-a1-a3-newlywed-remaining-20250522": 0,
+"lh-wirye-a2-7-happy-house-20241126": 0
+},
+"terms_on_other_pages_same_ann": {
+"’27.11": false,
+"’28.04": false,
+"입주예정일은 2026년 12월": false
+},
+"terms_anywhere": {
+"’27.11": false,
+"’28.04": true,
+"입주예정일은 2026년 12월": false
+},
+"term_literal_in_q": {
+"’27.11": false,
+"’28.04": false,
+"입주예정일은 2026년 12월": false
+},
+"term_stem_in_q": {
+"’27.11": false,
+"’28.04": false,
+"입주예정일은 2026년 12월": false
+}
+},
+{
+"q": "krhlrb_v05_1739",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "은평구 / 마포구",
+"terms": [
+"은평구",
+"마포구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3050-상암5-6단지-모집공고문-a3": 0
+},
+"terms_on_other_pages_same_ann": {
+"은평구": false,
+"마포구": false
+},
+"terms_anywhere": {
+"은평구": true,
+"마포구": false
+},
+"term_literal_in_q": {
+"은평구": false,
+"마포구": false
+},
+"term_stem_in_q": {
+"은평구": true,
+"마포구": false
+}
+},
+{
+"q": "krhlrb_v05_1740",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "은평구 / 도봉구",
+"terms": [
+"은평구",
+"도봉구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3217-입주자모집공고-2005년2월": 0
+},
+"terms_on_other_pages_same_ann": {
+"은평구": false,
+"도봉구": false
+},
+"terms_anywhere": {
+"은평구": true,
+"도봉구": false
+},
+"term_literal_in_q": {
+"은평구": false,
+"도봉구": false
+},
+"term_stem_in_q": {
+"은평구": true,
+"도봉구": false
+}
+},
+{
+"q": "krhlrb_v05_1741",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "은평구 / 마포구",
+"terms": [
+"은평구",
+"마포구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3311-상암4단지모집공고문-한글97작성a3": 0
+},
+"terms_on_other_pages_same_ann": {
+"은평구": false,
+"마포구": false
+},
+"terms_anywhere": {
+"은평구": true,
+"마포구": false
+},
+"term_literal_in_q": {
+"은평구": false,
+"마포구": false
+},
+"term_stem_in_q": {
+"은평구": true,
+"마포구": false
+}
+},
+{
+"q": "krhlrb_v05_1742",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "은평구 / 성북구",
+"terms": [
+"은평구",
+"성북구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3446-장월일반분양모집공고-한글97": 0
+},
+"terms_on_other_pages_same_ann": {
+"은평구": false,
+"성북구": false
+},
+"terms_anywhere": {
+"은평구": true,
+"성북구": false
+},
+"term_literal_in_q": {
+"은평구": false,
+"성북구": false
+},
+"term_stem_in_q": {
+"은평구": true,
+"성북구": false
+}
+},
+{
+"q": "krhlrb_v05_1743",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "은평구 / 관악구",
+"terms": [
+"은평구",
+"관악구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3477-모집공고문": 0
+},
+"terms_on_other_pages_same_ann": {
+"은평구": false,
+"관악구": false
+},
+"terms_anywhere": {
+"은평구": true,
+"관악구": false
+},
+"term_literal_in_q": {
+"은평구": false,
+"관악구": false
+},
+"term_stem_in_q": {
+"은평구": true,
+"관악구": false
+}
+},
+{
+"q": "krhlrb_v05_1744",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "은평구 / 관악구",
+"terms": [
+"은평구",
+"관악구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3512-입주자모집공고문": 0
+},
+"terms_on_other_pages_same_ann": {
+"은평구": false,
+"관악구": false
+},
+"terms_anywhere": {
+"은평구": true,
+"관악구": false
+},
+"term_literal_in_q": {
+"은평구": false,
+"관악구": false
+},
+"term_stem_in_q": {
+"은평구": true,
+"관악구": false
+}
+},
+{
+"q": "krhlrb_v05_1745",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "은평구 / 성북구",
+"terms": [
+"은평구",
+"성북구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3572-장월무순위모집공고-2차": 0
+},
+"terms_on_other_pages_same_ann": {
+"은평구": false,
+"성북구": false
+},
+"terms_anywhere": {
+"은평구": true,
+"성북구": false
+},
+"term_literal_in_q": {
+"은평구": false,
+"성북구": false
+},
+"term_stem_in_q": {
+"은평구": true,
+"성북구": false
+}
+},
+{
+"q": "krhlrb_v05_1746",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "은평구 / 성북구",
+"terms": [
+"은평구",
+"성북구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3729-장월2단지-참누리아파트-잔여세대-모집공고문-2006-6-28": 0
+},
+"terms_on_other_pages_same_ann": {
+"은평구": false,
+"성북구": false
+},
+"terms_anywhere": {
+"은평구": true,
+"성북구": false
+},
+"term_literal_in_q": {
+"은평구": false,
+"성북구": false
+},
+"term_stem_in_q": {
+"은평구": true,
+"성북구": false
+}
+},
+{
+"q": "krhlrb_v05_1750",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "구로구 / 마포구",
+"terms": [
+"구로구",
+"마포구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3050-상암5-6단지-모집공고문-a3": 0
+},
+"terms_on_other_pages_same_ann": {
+"구로구": false,
+"마포구": false
+},
+"terms_anywhere": {
+"구로구": true,
+"마포구": false
+},
+"term_literal_in_q": {
+"구로구": false,
+"마포구": false
+},
+"term_stem_in_q": {
+"구로구": false,
+"마포구": false
+}
+},
+{
+"q": "krhlrb_v05_1751",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "구로구 / 도봉구",
+"terms": [
+"구로구",
+"도봉구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3217-입주자모집공고-2005년2월": 0
+},
+"terms_on_other_pages_same_ann": {
+"구로구": false,
+"도봉구": false
+},
+"terms_anywhere": {
+"구로구": true,
+"도봉구": false
+},
+"term_literal_in_q": {
+"구로구": false,
+"도봉구": false
+},
+"term_stem_in_q": {
+"구로구": false,
+"도봉구": false
+}
+},
+{
+"q": "krhlrb_v05_1752",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "구로구 / 마포구",
+"terms": [
+"구로구",
+"마포구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3311-상암4단지모집공고문-한글97작성a3": 0
+},
+"terms_on_other_pages_same_ann": {
+"구로구": false,
+"마포구": false
+},
+"terms_anywhere": {
+"구로구": true,
+"마포구": false
+},
+"term_literal_in_q": {
+"구로구": false,
+"마포구": false
+},
+"term_stem_in_q": {
+"구로구": false,
+"마포구": false
+}
+},
+{
+"q": "krhlrb_v05_1753",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "구로구 / 성북구",
+"terms": [
+"구로구",
+"성북구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3446-장월일반분양모집공고-한글97": 0
+},
+"terms_on_other_pages_same_ann": {
+"구로구": false,
+"성북구": false
+},
+"terms_anywhere": {
+"구로구": true,
+"성북구": false
+},
+"term_literal_in_q": {
+"구로구": false,
+"성북구": false
+},
+"term_stem_in_q": {
+"구로구": false,
+"성북구": false
+}
+},
+{
+"q": "krhlrb_v05_1754",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "구로구 / 관악구",
+"terms": [
+"구로구",
+"관악구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3477-모집공고문": 0
+},
+"terms_on_other_pages_same_ann": {
+"구로구": false,
+"관악구": false
+},
+"terms_anywhere": {
+"구로구": true,
+"관악구": false
+},
+"term_literal_in_q": {
+"구로구": false,
+"관악구": false
+},
+"term_stem_in_q": {
+"구로구": false,
+"관악구": false
+}
+},
+{
+"q": "krhlrb_v05_1755",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "구로구 / 관악구",
+"terms": [
+"구로구",
+"관악구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3512-입주자모집공고문": 0
+},
+"terms_on_other_pages_same_ann": {
+"구로구": false,
+"관악구": false
+},
+"terms_anywhere": {
+"구로구": true,
+"관악구": false
+},
+"term_literal_in_q": {
+"구로구": false,
+"관악구": false
+},
+"term_stem_in_q": {
+"구로구": false,
+"관악구": false
+}
+},
+{
+"q": "krhlrb_v05_1756",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "구로구 / 성북구",
+"terms": [
+"구로구",
+"성북구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3572-장월무순위모집공고-2차": 0
+},
+"terms_on_other_pages_same_ann": {
+"구로구": false,
+"성북구": false
+},
+"terms_anywhere": {
+"구로구": true,
+"성북구": false
+},
+"term_literal_in_q": {
+"구로구": false,
+"성북구": false
+},
+"term_stem_in_q": {
+"구로구": false,
+"성북구": false
+}
+},
+{
+"q": "krhlrb_v05_1757",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "구로구 / 성북구",
+"terms": [
+"구로구",
+"성북구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3729-장월2단지-참누리아파트-잔여세대-모집공고문-2006-6-28": 0
+},
+"terms_on_other_pages_same_ann": {
+"구로구": false,
+"성북구": false
+},
+"terms_anywhere": {
+"구로구": true,
+"성북구": false
+},
+"term_literal_in_q": {
+"구로구": false,
+"성북구": false
+},
+"term_stem_in_q": {
+"구로구": false,
+"성북구": false
+}
+},
+{
+"q": "krhlrb_v05_1758",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "구로구 / 은평구",
+"terms": [
+"구로구",
+"은평구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-4449-은평뉴타운-분양아파트-입주자-모집공고-최종": 0
+},
+"terms_on_other_pages_same_ann": {
+"구로구": false,
+"은평구": false
+},
+"terms_anywhere": {
+"구로구": true,
+"은평구": true
+},
+"term_literal_in_q": {
+"구로구": false,
+"은평구": false
+},
+"term_stem_in_q": {
+"구로구": false,
+"은평구": true
+}
+},
+{
+"q": "krhlrb_v05_1760",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "강서구 / 마포구",
+"terms": [
+"강서구",
+"마포구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3050-상암5-6단지-모집공고문-a3": 0
+},
+"terms_on_other_pages_same_ann": {
+"강서구": false,
+"마포구": false
+},
+"terms_anywhere": {
+"강서구": true,
+"마포구": false
+},
+"term_literal_in_q": {
+"강서구": false,
+"마포구": false
+},
+"term_stem_in_q": {
+"강서구": false,
+"마포구": false
+}
+},
+{
+"q": "krhlrb_v05_1761",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "강서구 / 도봉구",
+"terms": [
+"강서구",
+"도봉구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3217-입주자모집공고-2005년2월": 0
+},
+"terms_on_other_pages_same_ann": {
+"강서구": false,
+"도봉구": false
+},
+"terms_anywhere": {
+"강서구": true,
+"도봉구": false
+},
+"term_literal_in_q": {
+"강서구": false,
+"도봉구": false
+},
+"term_stem_in_q": {
+"강서구": false,
+"도봉구": false
+}
+},
+{
+"q": "krhlrb_v05_1762",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "강서구 / 마포구",
+"terms": [
+"강서구",
+"마포구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3311-상암4단지모집공고문-한글97작성a3": 0
+},
+"terms_on_other_pages_same_ann": {
+"강서구": false,
+"마포구": false
+},
+"terms_anywhere": {
+"강서구": true,
+"마포구": false
+},
+"term_literal_in_q": {
+"강서구": false,
+"마포구": false
+},
+"term_stem_in_q": {
+"강서구": false,
+"마포구": false
+}
+},
+{
+"q": "krhlrb_v05_1763",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "강서구 / 성북구",
+"terms": [
+"강서구",
+"성북구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3446-장월일반분양모집공고-한글97": 0
+},
+"terms_on_other_pages_same_ann": {
+"강서구": false,
+"성북구": false
+},
+"terms_anywhere": {
+"강서구": true,
+"성북구": false
+},
+"term_literal_in_q": {
+"강서구": false,
+"성북구": false
+},
+"term_stem_in_q": {
+"강서구": false,
+"성북구": false
+}
+},
+{
+"q": "krhlrb_v05_1764",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "강서구 / 관악구",
+"terms": [
+"강서구",
+"관악구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3477-모집공고문": 0
+},
+"terms_on_other_pages_same_ann": {
+"강서구": false,
+"관악구": false
+},
+"terms_anywhere": {
+"강서구": true,
+"관악구": false
+},
+"term_literal_in_q": {
+"강서구": false,
+"관악구": false
+},
+"term_stem_in_q": {
+"강서구": false,
+"관악구": false
+}
+},
+{
+"q": "krhlrb_v05_1765",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "강서구 / 관악구",
+"terms": [
+"강서구",
+"관악구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3512-입주자모집공고문": 0
+},
+"terms_on_other_pages_same_ann": {
+"강서구": false,
+"관악구": false
+},
+"terms_anywhere": {
+"강서구": true,
+"관악구": false
+},
+"term_literal_in_q": {
+"강서구": false,
+"관악구": false
+},
+"term_stem_in_q": {
+"강서구": false,
+"관악구": false
+}
+},
+{
+"q": "krhlrb_v05_1766",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "강서구 / 성북구",
+"terms": [
+"강서구",
+"성북구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3572-장월무순위모집공고-2차": 0
+},
+"terms_on_other_pages_same_ann": {
+"강서구": false,
+"성북구": false
+},
+"terms_anywhere": {
+"강서구": true,
+"성북구": false
+},
+"term_literal_in_q": {
+"강서구": false,
+"성북구": false
+},
+"term_stem_in_q": {
+"강서구": false,
+"성북구": false
+}
+},
+{
+"q": "krhlrb_v05_1767",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "강서구 / 성북구",
+"terms": [
+"강서구",
+"성북구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3729-장월2단지-참누리아파트-잔여세대-모집공고문-2006-6-28": 0
+},
+"terms_on_other_pages_same_ann": {
+"강서구": false,
+"성북구": false
+},
+"terms_anywhere": {
+"강서구": true,
+"성북구": false
+},
+"term_literal_in_q": {
+"강서구": false,
+"성북구": false
+},
+"term_stem_in_q": {
+"강서구": false,
+"성북구": false
+}
+},
+{
+"q": "krhlrb_v05_1768",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "강서구 / 은평구",
+"terms": [
+"강서구",
+"은평구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-4449-은평뉴타운-분양아파트-입주자-모집공고-최종": 0
+},
+"terms_on_other_pages_same_ann": {
+"강서구": false,
+"은평구": false
+},
+"terms_anywhere": {
+"강서구": true,
+"은평구": true
+},
+"term_literal_in_q": {
+"강서구": false,
+"은평구": false
+},
+"term_stem_in_q": {
+"강서구": false,
+"은평구": true
+}
+},
+{
+"q": "krhlrb_v05_1770",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "송파구 / 마포구",
+"terms": [
+"송파구",
+"마포구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3050-상암5-6단지-모집공고문-a3": 0
+},
+"terms_on_other_pages_same_ann": {
+"송파구": false,
+"마포구": false
+},
+"terms_anywhere": {
+"송파구": true,
+"마포구": false
+},
+"term_literal_in_q": {
+"송파구": false,
+"마포구": false
+},
+"term_stem_in_q": {
+"송파구": false,
+"마포구": false
+}
+},
+{
+"q": "krhlrb_v05_1771",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "송파구 / 도봉구",
+"terms": [
+"송파구",
+"도봉구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3217-입주자모집공고-2005년2월": 0
+},
+"terms_on_other_pages_same_ann": {
+"송파구": false,
+"도봉구": false
+},
+"terms_anywhere": {
+"송파구": true,
+"도봉구": false
+},
+"term_literal_in_q": {
+"송파구": false,
+"도봉구": false
+},
+"term_stem_in_q": {
+"송파구": false,
+"도봉구": false
+}
+},
+{
+"q": "krhlrb_v05_1772",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "송파구 / 마포구",
+"terms": [
+"송파구",
+"마포구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3311-상암4단지모집공고문-한글97작성a3": 0
+},
+"terms_on_other_pages_same_ann": {
+"송파구": false,
+"마포구": false
+},
+"terms_anywhere": {
+"송파구": true,
+"마포구": false
+},
+"term_literal_in_q": {
+"송파구": false,
+"마포구": false
+},
+"term_stem_in_q": {
+"송파구": false,
+"마포구": false
+}
+},
+{
+"q": "krhlrb_v05_1773",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "송파구 / 성북구",
+"terms": [
+"송파구",
+"성북구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3446-장월일반분양모집공고-한글97": 0
+},
+"terms_on_other_pages_same_ann": {
+"송파구": false,
+"성북구": false
+},
+"terms_anywhere": {
+"송파구": true,
+"성북구": false
+},
+"term_literal_in_q": {
+"송파구": false,
+"성북구": false
+},
+"term_stem_in_q": {
+"송파구": false,
+"성북구": false
+}
+},
+{
+"q": "krhlrb_v05_1774",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "송파구 / 관악구",
+"terms": [
+"송파구",
+"관악구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3477-모집공고문": 0
+},
+"terms_on_other_pages_same_ann": {
+"송파구": false,
+"관악구": false
+},
+"terms_anywhere": {
+"송파구": true,
+"관악구": false
+},
+"term_literal_in_q": {
+"송파구": false,
+"관악구": false
+},
+"term_stem_in_q": {
+"송파구": false,
+"관악구": false
+}
+},
+{
+"q": "krhlrb_v05_1775",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "송파구 / 관악구",
+"terms": [
+"송파구",
+"관악구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3512-입주자모집공고문": 0
+},
+"terms_on_other_pages_same_ann": {
+"송파구": false,
+"관악구": false
+},
+"terms_anywhere": {
+"송파구": true,
+"관악구": false
+},
+"term_literal_in_q": {
+"송파구": false,
+"관악구": false
+},
+"term_stem_in_q": {
+"송파구": false,
+"관악구": false
+}
+},
+{
+"q": "krhlrb_v05_1776",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "송파구 / 성북구",
+"terms": [
+"송파구",
+"성북구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3572-장월무순위모집공고-2차": 0
+},
+"terms_on_other_pages_same_ann": {
+"송파구": false,
+"성북구": false
+},
+"terms_anywhere": {
+"송파구": true,
+"성북구": false
+},
+"term_literal_in_q": {
+"송파구": false,
+"성북구": false
+},
+"term_stem_in_q": {
+"송파구": false,
+"성북구": false
+}
+},
+{
+"q": "krhlrb_v05_1777",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "송파구 / 성북구",
+"terms": [
+"송파구",
+"성북구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3729-장월2단지-참누리아파트-잔여세대-모집공고문-2006-6-28": 0
+},
+"terms_on_other_pages_same_ann": {
+"송파구": false,
+"성북구": false
+},
+"terms_anywhere": {
+"송파구": true,
+"성북구": false
+},
+"term_literal_in_q": {
+"송파구": false,
+"성북구": false
+},
+"term_stem_in_q": {
+"송파구": false,
+"성북구": false
+}
+},
+{
+"q": "krhlrb_v05_1778",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "송파구 / 은평구",
+"terms": [
+"송파구",
+"은평구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-4449-은평뉴타운-분양아파트-입주자-모집공고-최종": 0
+},
+"terms_on_other_pages_same_ann": {
+"송파구": false,
+"은평구": false
+},
+"terms_anywhere": {
+"송파구": true,
+"은평구": true
+},
+"term_literal_in_q": {
+"송파구": false,
+"은평구": false
+},
+"term_stem_in_q": {
+"송파구": false,
+"은평구": true
+}
+},
+{
+"q": "krhlrb_v05_1779",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "강서구 / 마포구",
+"terms": [
+"강서구",
+"마포구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3050-상암5-6단지-모집공고문-a3": 0
+},
+"terms_on_other_pages_same_ann": {
+"강서구": false,
+"마포구": false
+},
+"terms_anywhere": {
+"강서구": true,
+"마포구": false
+},
+"term_literal_in_q": {
+"강서구": false,
+"마포구": false
+},
+"term_stem_in_q": {
+"강서구": false,
+"마포구": false
+}
+},
+{
+"q": "krhlrb_v05_1780",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "강서구 / 도봉구",
+"terms": [
+"강서구",
+"도봉구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3217-입주자모집공고-2005년2월": 0
+},
+"terms_on_other_pages_same_ann": {
+"강서구": false,
+"도봉구": false
+},
+"terms_anywhere": {
+"강서구": true,
+"도봉구": false
+},
+"term_literal_in_q": {
+"강서구": false,
+"도봉구": false
+},
+"term_stem_in_q": {
+"강서구": false,
+"도봉구": false
+}
+},
+{
+"q": "krhlrb_v05_1781",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "강서구 / 마포구",
+"terms": [
+"강서구",
+"마포구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3311-상암4단지모집공고문-한글97작성a3": 0
+},
+"terms_on_other_pages_same_ann": {
+"강서구": false,
+"마포구": false
+},
+"terms_anywhere": {
+"강서구": true,
+"마포구": false
+},
+"term_literal_in_q": {
+"강서구": false,
+"마포구": false
+},
+"term_stem_in_q": {
+"강서구": false,
+"마포구": false
+}
+},
+{
+"q": "krhlrb_v05_1782",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "강서구 / 성북구",
+"terms": [
+"강서구",
+"성북구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3446-장월일반분양모집공고-한글97": 0
+},
+"terms_on_other_pages_same_ann": {
+"강서구": false,
+"성북구": false
+},
+"terms_anywhere": {
+"강서구": true,
+"성북구": false
+},
+"term_literal_in_q": {
+"강서구": false,
+"성북구": false
+},
+"term_stem_in_q": {
+"강서구": false,
+"성북구": false
+}
+},
+{
+"q": "krhlrb_v05_1783",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "강서구 / 관악구",
+"terms": [
+"강서구",
+"관악구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3477-모집공고문": 0
+},
+"terms_on_other_pages_same_ann": {
+"강서구": false,
+"관악구": false
+},
+"terms_anywhere": {
+"강서구": true,
+"관악구": false
+},
+"term_literal_in_q": {
+"강서구": false,
+"관악구": false
+},
+"term_stem_in_q": {
+"강서구": false,
+"관악구": false
+}
+},
+{
+"q": "krhlrb_v05_1784",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "강서구 / 관악구",
+"terms": [
+"강서구",
+"관악구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3512-입주자모집공고문": 0
+},
+"terms_on_other_pages_same_ann": {
+"강서구": false,
+"관악구": false
+},
+"terms_anywhere": {
+"강서구": true,
+"관악구": false
+},
+"term_literal_in_q": {
+"강서구": false,
+"관악구": false
+},
+"term_stem_in_q": {
+"강서구": false,
+"관악구": false
+}
+},
+{
+"q": "krhlrb_v05_1785",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "강서구 / 성북구",
+"terms": [
+"강서구",
+"성북구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3572-장월무순위모집공고-2차": 0
+},
+"terms_on_other_pages_same_ann": {
+"강서구": false,
+"성북구": false
+},
+"terms_anywhere": {
+"강서구": true,
+"성북구": false
+},
+"term_literal_in_q": {
+"강서구": false,
+"성북구": false
+},
+"term_stem_in_q": {
+"강서구": false,
+"성북구": false
+}
+},
+{
+"q": "krhlrb_v05_1786",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "강서구 / 성북구",
+"terms": [
+"강서구",
+"성북구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3729-장월2단지-참누리아파트-잔여세대-모집공고문-2006-6-28": 0
+},
+"terms_on_other_pages_same_ann": {
+"강서구": false,
+"성북구": false
+},
+"terms_anywhere": {
+"강서구": true,
+"성북구": false
+},
+"term_literal_in_q": {
+"강서구": false,
+"성북구": false
+},
+"term_stem_in_q": {
+"강서구": false,
+"성북구": false
+}
+},
+{
+"q": "krhlrb_v05_1787",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "강서구 / 은평구",
+"terms": [
+"강서구",
+"은평구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-4449-은평뉴타운-분양아파트-입주자-모집공고-최종": 0
+},
+"terms_on_other_pages_same_ann": {
+"강서구": false,
+"은평구": false
+},
+"terms_anywhere": {
+"강서구": true,
+"은평구": true
+},
+"term_literal_in_q": {
+"강서구": false,
+"은평구": false
+},
+"term_stem_in_q": {
+"강서구": false,
+"은평구": true
+}
+},
+{
+"q": "krhlrb_v05_1788",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 2,
+"answer": "마포구 / 도봉구",
+"terms": [
+"마포구",
+"도봉구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3217-입주자모집공고-2005년2월": 0,
+"sh-sh-3050-상암5-6단지-모집공고문-a3": 0
+},
+"terms_on_other_pages_same_ann": {
+"마포구": false,
+"도봉구": false
+},
+"terms_anywhere": {
+"마포구": false,
+"도봉구": false
+},
+"term_literal_in_q": {
+"마포구": false,
+"도봉구": false
+},
+"term_stem_in_q": {
+"마포구": false,
+"도봉구": false
+}
+},
+{
+"q": "krhlrb_v05_1789",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 2,
+"answer": "마포구 / 성북구",
+"terms": [
+"마포구",
+"성북구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3446-장월일반분양모집공고-한글97": 0,
+"sh-sh-3050-상암5-6단지-모집공고문-a3": 0
+},
+"terms_on_other_pages_same_ann": {
+"마포구": false,
+"성북구": false
+},
+"terms_anywhere": {
+"마포구": false,
+"성북구": false
+},
+"term_literal_in_q": {
+"마포구": false,
+"성북구": false
+},
+"term_stem_in_q": {
+"마포구": false,
+"성북구": false
+}
+},
+{
+"q": "krhlrb_v05_1790",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 2,
+"answer": "마포구 / 관악구",
+"terms": [
+"마포구",
+"관악구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3477-모집공고문": 0,
+"sh-sh-3050-상암5-6단지-모집공고문-a3": 0
+},
+"terms_on_other_pages_same_ann": {
+"마포구": false,
+"관악구": false
+},
+"terms_anywhere": {
+"마포구": false,
+"관악구": false
+},
+"term_literal_in_q": {
+"마포구": false,
+"관악구": false
+},
+"term_stem_in_q": {
+"마포구": false,
+"관악구": false
+}
+},
+{
+"q": "krhlrb_v05_1791",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 2,
+"answer": "마포구 / 관악구",
+"terms": [
+"마포구",
+"관악구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3050-상암5-6단지-모집공고문-a3": 0,
+"sh-sh-3512-입주자모집공고문": 0
+},
+"terms_on_other_pages_same_ann": {
+"마포구": false,
+"관악구": false
+},
+"terms_anywhere": {
+"마포구": false,
+"관악구": false
+},
+"term_literal_in_q": {
+"마포구": false,
+"관악구": false
+},
+"term_stem_in_q": {
+"마포구": false,
+"관악구": false
+}
+},
+{
+"q": "krhlrb_v05_1792",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 2,
+"answer": "마포구 / 성북구",
+"terms": [
+"마포구",
+"성북구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3572-장월무순위모집공고-2차": 0,
+"sh-sh-3050-상암5-6단지-모집공고문-a3": 0
+},
+"terms_on_other_pages_same_ann": {
+"마포구": false,
+"성북구": false
+},
+"terms_anywhere": {
+"마포구": false,
+"성북구": false
+},
+"term_literal_in_q": {
+"마포구": false,
+"성북구": false
+},
+"term_stem_in_q": {
+"마포구": false,
+"성북구": false
+}
+},
+{
+"q": "krhlrb_v05_1793",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 2,
+"answer": "마포구 / 성북구",
+"terms": [
+"마포구",
+"성북구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3729-장월2단지-참누리아파트-잔여세대-모집공고문-2006-6-28": 0,
+"sh-sh-3050-상암5-6단지-모집공고문-a3": 0
+},
+"terms_on_other_pages_same_ann": {
+"마포구": false,
+"성북구": false
+},
+"terms_anywhere": {
+"마포구": false,
+"성북구": false
+},
+"term_literal_in_q": {
+"마포구": false,
+"성북구": false
+},
+"term_stem_in_q": {
+"마포구": false,
+"성북구": false
+}
+},
+{
+"q": "krhlrb_v05_1794",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 2,
+"answer": "마포구 / 은평구",
+"terms": [
+"마포구",
+"은평구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3050-상암5-6단지-모집공고문-a3": 0,
+"sh-sh-4449-은평뉴타운-분양아파트-입주자-모집공고-최종": 0
+},
+"terms_on_other_pages_same_ann": {
+"마포구": false,
+"은평구": false
+},
+"terms_anywhere": {
+"마포구": false,
+"은평구": true
+},
+"term_literal_in_q": {
+"마포구": false,
+"은평구": false
+},
+"term_stem_in_q": {
+"마포구": false,
+"은평구": true
+}
+},
+{
+"q": "krhlrb_v05_1795",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 2,
+"answer": "도봉구 / 마포구",
+"terms": [
+"도봉구",
+"마포구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3217-입주자모집공고-2005년2월": 0,
+"sh-sh-3311-상암4단지모집공고문-한글97작성a3": 0
+},
+"terms_on_other_pages_same_ann": {
+"도봉구": false,
+"마포구": false
+},
+"terms_anywhere": {
+"도봉구": false,
+"마포구": false
+},
+"term_literal_in_q": {
+"도봉구": false,
+"마포구": false
+},
+"term_stem_in_q": {
+"도봉구": false,
+"마포구": false
+}
+},
+{
+"q": "krhlrb_v05_1796",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 2,
+"answer": "도봉구 / 성북구",
+"terms": [
+"도봉구",
+"성북구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3446-장월일반분양모집공고-한글97": 0,
+"sh-sh-3217-입주자모집공고-2005년2월": 0
+},
+"terms_on_other_pages_same_ann": {
+"도봉구": false,
+"성북구": false
+},
+"terms_anywhere": {
+"도봉구": false,
+"성북구": false
+},
+"term_literal_in_q": {
+"도봉구": false,
+"성북구": false
+},
+"term_stem_in_q": {
+"도봉구": false,
+"성북구": false
+}
+},
+{
+"q": "krhlrb_v05_1797",
+"fam": "multi_document_comparison",
+"ngold": 2,
+"nmiss": 2,
+"answer": "도봉구 / 관악구",
+"terms": [
+"도봉구",
+"관악구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3477-모집공고문": 0,
+"sh-sh-3217-입주자모집공고-2005년2월": 0
+},
+"terms_on_other_pages_same_ann": {
+"도봉구": false,
+"관악구": false
+},
+"terms_anywhere": {
+"도봉구": false,
+"관악구": false
+},
+"term_literal_in_q": {
+"도봉구": false,
+"관악구": false
+},
+"term_stem_in_q": {
+"도봉구": false,
+"관악구": false
+}
+},
+{
+"q": "krhlrb_v05_1951",
+"fam": "cross_source_aggregation",
+"ngold": 1,
+"nmiss": 1,
+"answer": "25건",
+"terms": [
+"마포구"
+],
+"nums": [
+"25"
+],
+"other_pages_of_missing_ann": {
+"sh-sh-3050-상암5-6단지-모집공고문-a3": 0
+},
+"terms_on_other_pages_same_ann": {
+"마포구": false
+},
+"terms_anywhere": {
+"마포구": false
+},
+"term_literal_in_q": {
+"마포구": false
+},
+"term_stem_in_q": {
+"마포구": false
+},
+"pred": {
+"source": "hug-sale-history",
+"filter": {
+"_query_area_name": "서울특별시",
+"_query_year": "2023"
+},
+"op": "count"
+},
+"n_rows_gold": 20,
+"n_rows_in_bundle_by_filter": 25
+},
+{
+"q": "krhlrb_v05_1952",
+"fam": "cross_source_aggregation",
+"ngold": 1,
+"nmiss": 1,
+"answer": "22,457세대",
+"terms": [
+"마포구"
+],
+"nums": [
+"22457"
+],
+"other_pages_of_missing_ann": {
+"sh-sh-3050-상암5-6단지-모집공고문-a3": 0
+},
+"terms_on_other_pages_same_ann": {
+"마포구": false
+},
+"terms_anywhere": {
+"마포구": false
+},
+"term_literal_in_q": {
+"마포구": false
+},
+"term_stem_in_q": {
+"마포구": false
+},
+"pred": {
+"source": "hug-sale-history",
+"filter": {
+"_query_area_name": "서울특별시",
+"_query_year": "2023"
+},
+"op": "sum",
+"field": "TOT_HOCO"
+},
+"n_rows_gold": 20,
+"n_rows_in_bundle_by_filter": 25
+},
+{
+"q": "krhlrb_v05_1953",
+"fam": "cross_source_aggregation",
+"ngold": 1,
+"nmiss": 1,
+"answer": "898세대",
+"terms": [
+"마포구"
+],
+"nums": [
+"898"
+],
+"other_pages_of_missing_ann": {
+"sh-sh-3050-상암5-6단지-모집공고문-a3": 0
+},
+"terms_on_other_pages_same_ann": {
+"마포구": false
+},
+"terms_anywhere": {
+"마포구": false
+},
+"term_literal_in_q": {
+"마포구": false
+},
+"term_stem_in_q": {
+"마포구": false
+},
+"pred": {
+"source": "hug-sale-history",
+"filter": {
+"_query_area_name": "서울특별시",
+"_query_year": "2023"
+},
+"op": "avg",
+"field": "TOT_HOCO"
+},
+"n_rows_gold": 20,
+"n_rows_in_bundle_by_filter": 25
+},
+{
+"q": "krhlrb_v05_1954",
+"fam": "cross_source_aggregation",
+"ngold": 1,
+"nmiss": 1,
+"answer": "24건",
+"terms": [
+"마포구"
+],
+"nums": [
+"24"
+],
+"other_pages_of_missing_ann": {
+"sh-sh-3050-상암5-6단지-모집공고문-a3": 0
+},
+"terms_on_other_pages_same_ann": {
+"마포구": false
+},
+"terms_anywhere": {
+"마포구": false
+},
+"term_literal_in_q": {
+"마포구": false
+},
+"term_stem_in_q": {
+"마포구": false
+},
+"pred": {
+"source": "hug-sale-history",
+"filter": {
+"_query_area_name": "서울특별시",
+"_query_year": "2024"
+},
+"op": "count"
+},
+"n_rows_gold": 20,
+"n_rows_in_bundle_by_filter": 24
+},
+{
+"q": "krhlrb_v05_1955",
+"fam": "cross_source_aggregation",
+"ngold": 1,
+"nmiss": 1,
+"answer": "25,495세대",
+"terms": [
+"마포구"
+],
+"nums": [
+"25495"
+],
+"other_pages_of_missing_ann": {
+"sh-sh-3050-상암5-6단지-모집공고문-a3": 0
+},
+"terms_on_other_pages_same_ann": {
+"마포구": false
+},
+"terms_anywhere": {
+"마포구": false
+},
+"term_literal_in_q": {
+"마포구": false
+},
+"term_stem_in_q": {
+"마포구": false
+},
+"pred": {
+"source": "hug-sale-history",
+"filter": {
+"_query_area_name": "서울특별시",
+"_query_year": "2024"
+},
+"op": "sum",
+"field": "TOT_HOCO"
+},
+"n_rows_gold": 20,
+"n_rows_in_bundle_by_filter": 24
+},
+{
+"q": "krhlrb_v05_1956",
+"fam": "cross_source_aggregation",
+"ngold": 1,
+"nmiss": 1,
+"answer": "1,062세대",
+"terms": [
+"마포구"
+],
+"nums": [
+"1062"
+],
+"other_pages_of_missing_ann": {
+"sh-sh-3050-상암5-6단지-모집공고문-a3": 0
+},
+"terms_on_other_pages_same_ann": {
+"마포구": false
+},
+"terms_anywhere": {
+"마포구": false
+},
+"term_literal_in_q": {
+"마포구": false
+},
+"term_stem_in_q": {
+"마포구": false
+},
+"pred": {
+"source": "hug-sale-history",
+"filter": {
+"_query_area_name": "서울특별시",
+"_query_year": "2024"
+},
+"op": "avg",
+"field": "TOT_HOCO"
+},
+"n_rows_gold": 20,
+"n_rows_in_bundle_by_filter": 24
+},
+{
+"q": "krhlrb_v05_1957",
+"fam": "cross_source_aggregation",
+"ngold": 1,
+"nmiss": 1,
+"answer": "16건",
+"terms": [
+"마포구"
+],
+"nums": [
+"16"
+],
+"other_pages_of_missing_ann": {
+"sh-sh-3050-상암5-6단지-모집공고문-a3": 0
+},
+"terms_on_other_pages_same_ann": {
+"마포구": false
+},
+"terms_anywhere": {
+"마포구": false
+},
+"term_literal_in_q": {
+"마포구": false
+},
+"term_stem_in_q": {
+"마포구": false
+},
+"pred": {
+"source": "hug-sale-history",
+"filter": {
+"_query_area_name": "서울특별시",
+"_query_year": "2025"
+},
+"op": "count"
+},
+"n_rows_gold": 16,
+"n_rows_in_bundle_by_filter": 16
+},
+{
+"q": "krhlrb_v05_1958",
+"fam": "cross_source_aggregation",
+"ngold": 1,
+"nmiss": 1,
+"answer": "13,767세대",
+"terms": [
+"마포구"
+],
+"nums": [
+"13767"
+],
+"other_pages_of_missing_ann": {
+"sh-sh-3050-상암5-6단지-모집공고문-a3": 0
+},
+"terms_on_other_pages_same_ann": {
+"마포구": false
+},
+"terms_anywhere": {
+"마포구": false
+},
+"term_literal_in_q": {
+"마포구": false
+},
+"term_stem_in_q": {
+"마포구": false
+},
+"pred": {
+"source": "hug-sale-history",
+"filter": {
+"_query_area_name": "서울특별시",
+"_query_year": "2025"
+},
+"op": "sum",
+"field": "TOT_HOCO"
+},
+"n_rows_gold": 16,
+"n_rows_in_bundle_by_filter": 16
+},
+{
+"q": "krhlrb_v05_1959",
+"fam": "cross_source_aggregation",
+"ngold": 1,
+"nmiss": 1,
+"answer": "860세대",
+"terms": [
+"마포구"
+],
+"nums": [
+"860"
+],
+"other_pages_of_missing_ann": {
+"sh-sh-3050-상암5-6단지-모집공고문-a3": 0
+},
+"terms_on_other_pages_same_ann": {
+"마포구": false
+},
+"terms_anywhere": {
+"마포구": false
+},
+"term_literal_in_q": {
+"마포구": false
+},
+"term_stem_in_q": {
+"마포구": false
+},
+"pred": {
+"source": "hug-sale-history",
+"filter": {
+"_query_area_name": "서울특별시",
+"_query_year": "2025"
+},
+"op": "avg",
+"field": "TOT_HOCO"
+},
+"n_rows_gold": 16,
+"n_rows_in_bundle_by_filter": 16
+},
+{
+"q": "krhlrb_v05_1982",
+"fam": "provider_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "한국토지주택공사=경기도 / 서울주택도시공사=서울특별시",
+"terms": [
+"경기도",
+"서울특별시"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"lh-uiwang-wolam-a1-a3-newlywed-remaining-20250522": 0
+},
+"terms_on_other_pages_same_ann": {
+"경기도": false,
+"서울특별시": false
+},
+"terms_anywhere": {
+"경기도": true,
+"서울특별시": true
+},
+"term_literal_in_q": {
+"경기도": false,
+"서울특별시": false
+},
+"term_stem_in_q": {
+"경기도": false,
+"서울특별시": true
+}
+},
+{
+"q": "krhlrb_v05_1983",
+"fam": "provider_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "한국토지주택공사=경기도 / 서울주택도시공사=서울특별시",
+"terms": [
+"경기도",
+"서울특별시"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"lh-wirye-a2-7-happy-house-20241126": 0
+},
+"terms_on_other_pages_same_ann": {
+"경기도": false,
+"서울특별시": false
+},
+"terms_anywhere": {
+"경기도": true,
+"서울특별시": true
+},
+"term_literal_in_q": {
+"경기도": false,
+"서울특별시": false
+},
+"term_stem_in_q": {
+"경기도": false,
+"서울특별시": true
+}
+},
+{
+"q": "krhlrb_v05_1984",
+"fam": "provider_comparison",
+"ngold": 2,
+"nmiss": 2,
+"answer": "한국토지주택공사=경기도 / 서울주택도시공사=서울특별시",
+"terms": [
+"경기도",
+"서울특별시"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"lh-wirye-a2-7-newlywed-remaining-20241113": 0,
+"sh-sh-3050-상암5-6단지-모집공고문-a3": 0
+},
+"terms_on_other_pages_same_ann": {
+"경기도": false,
+"서울특별시": false
+},
+"terms_anywhere": {
+"경기도": true,
+"서울특별시": true
+},
+"term_literal_in_q": {
+"경기도": false,
+"서울특별시": false
+},
+"term_stem_in_q": {
+"경기도": false,
+"서울특별시": true
+}
+},
+{
+"q": "krhlrb_v05_1989",
+"fam": "region_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "북구 / 의왕시",
+"terms": [
+"북구",
+"의왕시"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"lh-uiwang-wolam-a1-a3-newlywed-remaining-20250522": 0
+},
+"terms_on_other_pages_same_ann": {
+"북구": false,
+"의왕시": false
+},
+"terms_anywhere": {
+"북구": true,
+"의왕시": false
+},
+"term_literal_in_q": {
+"북구": false,
+"의왕시": false
+},
+"term_stem_in_q": {
+"북구": false,
+"의왕시": true
+}
+},
+{
+"q": "krhlrb_v05_1990",
+"fam": "region_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "광산구 / 성남시",
+"terms": [
+"광산구",
+"성남시"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"lh-wirye-a2-7-happy-house-20241126": 0
+},
+"terms_on_other_pages_same_ann": {
+"광산구": false,
+"성남시": false
+},
+"terms_anywhere": {
+"광산구": true,
+"성남시": false
+},
+"term_literal_in_q": {
+"광산구": false,
+"성남시": false
+},
+"term_stem_in_q": {
+"광산구": false,
+"성남시": false
+}
+},
+{
+"q": "krhlrb_v05_1991",
+"fam": "region_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "남양주시 / 성남시",
+"terms": [
+"남양주시",
+"성남시"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"lh-wirye-a2-7-newlywed-remaining-20241113": 0
+},
+"terms_on_other_pages_same_ann": {
+"남양주시": false,
+"성남시": false
+},
+"terms_anywhere": {
+"남양주시": true,
+"성남시": false
+},
+"term_literal_in_q": {
+"남양주시": false,
+"성남시": false
+},
+"term_stem_in_q": {
+"남양주시": false,
+"성남시": false
+}
+},
+{
+"q": "krhlrb_v05_1994",
+"fam": "region_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "의왕시 / 강서구",
+"terms": [
+"의왕시",
+"강서구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"lh-uiwang-wolam-a1-a3-newlywed-remaining-20250522": 0
+},
+"terms_on_other_pages_same_ann": {
+"의왕시": false,
+"강서구": false
+},
+"terms_anywhere": {
+"의왕시": false,
+"강서구": true
+},
+"term_literal_in_q": {
+"의왕시": false,
+"강서구": false
+},
+"term_stem_in_q": {
+"의왕시": true,
+"강서구": false
+}
+},
+{
+"q": "krhlrb_v05_1995",
+"fam": "region_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "성남시 / 송파구",
+"terms": [
+"성남시",
+"송파구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"lh-wirye-a2-7-happy-house-20241126": 0
+},
+"terms_on_other_pages_same_ann": {
+"성남시": false,
+"송파구": false
+},
+"terms_anywhere": {
+"성남시": false,
+"송파구": true
+},
+"term_literal_in_q": {
+"성남시": false,
+"송파구": false
+},
+"term_stem_in_q": {
+"성남시": false,
+"송파구": false
+}
+},
+{
+"q": "krhlrb_v05_1996",
+"fam": "region_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "성남시 / 강서구",
+"terms": [
+"성남시",
+"강서구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"lh-wirye-a2-7-newlywed-remaining-20241113": 0
+},
+"terms_on_other_pages_same_ann": {
+"성남시": false,
+"강서구": false
+},
+"terms_anywhere": {
+"성남시": false,
+"강서구": true
+},
+"term_literal_in_q": {
+"성남시": false,
+"강서구": false
+},
+"term_stem_in_q": {
+"성남시": false,
+"강서구": false
+}
+},
+{
+"q": "krhlrb_v05_1997",
+"fam": "region_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "은평구 / 마포구",
+"terms": [
+"은평구",
+"마포구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3050-상암5-6단지-모집공고문-a3": 0
+},
+"terms_on_other_pages_same_ann": {
+"은평구": false,
+"마포구": false
+},
+"terms_anywhere": {
+"은평구": true,
+"마포구": false
+},
+"term_literal_in_q": {
+"은평구": false,
+"마포구": false
+},
+"term_stem_in_q": {
+"은평구": true,
+"마포구": false
+}
+},
+{
+"q": "krhlrb_v05_1998",
+"fam": "region_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "구로구 / 도봉구",
+"terms": [
+"구로구",
+"도봉구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3217-입주자모집공고-2005년2월": 0
+},
+"terms_on_other_pages_same_ann": {
+"구로구": false,
+"도봉구": false
+},
+"terms_anywhere": {
+"구로구": true,
+"도봉구": false
+},
+"term_literal_in_q": {
+"구로구": false,
+"도봉구": false
+},
+"term_stem_in_q": {
+"구로구": false,
+"도봉구": false
+}
+},
+{
+"q": "krhlrb_v05_1999",
+"fam": "region_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "강서구 / 마포구",
+"terms": [
+"강서구",
+"마포구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3311-상암4단지모집공고문-한글97작성a3": 0
+},
+"terms_on_other_pages_same_ann": {
+"강서구": false,
+"마포구": false
+},
+"terms_anywhere": {
+"강서구": true,
+"마포구": false
+},
+"term_literal_in_q": {
+"강서구": false,
+"마포구": false
+},
+"term_stem_in_q": {
+"강서구": false,
+"마포구": false
+}
+},
+{
+"q": "krhlrb_v05_2000",
+"fam": "region_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "송파구 / 성북구",
+"terms": [
+"송파구",
+"성북구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3446-장월일반분양모집공고-한글97": 0
+},
+"terms_on_other_pages_same_ann": {
+"송파구": false,
+"성북구": false
+},
+"terms_anywhere": {
+"송파구": true,
+"성북구": false
+},
+"term_literal_in_q": {
+"송파구": false,
+"성북구": false
+},
+"term_stem_in_q": {
+"송파구": false,
+"성북구": false
+}
+},
+{
+"q": "krhlrb_v05_2001",
+"fam": "region_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "강서구 / 관악구",
+"terms": [
+"강서구",
+"관악구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3477-모집공고문": 0
+},
+"terms_on_other_pages_same_ann": {
+"강서구": false,
+"관악구": false
+},
+"terms_anywhere": {
+"강서구": true,
+"관악구": false
+},
+"term_literal_in_q": {
+"강서구": false,
+"관악구": false
+},
+"term_stem_in_q": {
+"강서구": false,
+"관악구": false
+}
+},
+{
+"q": "krhlrb_v05_2002",
+"fam": "region_comparison",
+"ngold": 2,
+"nmiss": 2,
+"answer": "마포구 / 관악구",
+"terms": [
+"마포구",
+"관악구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3050-상암5-6단지-모집공고문-a3": 0,
+"sh-sh-3512-입주자모집공고문": 0
+},
+"terms_on_other_pages_same_ann": {
+"마포구": false,
+"관악구": false
+},
+"terms_anywhere": {
+"마포구": false,
+"관악구": false
+},
+"term_literal_in_q": {
+"마포구": false,
+"관악구": false
+},
+"term_stem_in_q": {
+"마포구": false,
+"관악구": false
+}
+},
+{
+"q": "krhlrb_v05_2003",
+"fam": "region_comparison",
+"ngold": 2,
+"nmiss": 2,
+"answer": "도봉구 / 성북구",
+"terms": [
+"도봉구",
+"성북구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3572-장월무순위모집공고-2차": 0,
+"sh-sh-3217-입주자모집공고-2005년2월": 0
+},
+"terms_on_other_pages_same_ann": {
+"도봉구": false,
+"성북구": false
+},
+"terms_anywhere": {
+"도봉구": false,
+"성북구": false
+},
+"term_literal_in_q": {
+"도봉구": false,
+"성북구": false
+},
+"term_stem_in_q": {
+"도봉구": false,
+"성북구": false
+}
+},
+{
+"q": "krhlrb_v05_2004",
+"fam": "region_comparison",
+"ngold": 2,
+"nmiss": 2,
+"answer": "마포구 / 성북구",
+"terms": [
+"마포구",
+"성북구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3729-장월2단지-참누리아파트-잔여세대-모집공고문-2006-6-28": 0,
+"sh-sh-3311-상암4단지모집공고문-한글97작성a3": 0
+},
+"terms_on_other_pages_same_ann": {
+"마포구": false,
+"성북구": false
+},
+"terms_anywhere": {
+"마포구": false,
+"성북구": false
+},
+"term_literal_in_q": {
+"마포구": false,
+"성북구": false
+},
+"term_stem_in_q": {
+"마포구": false,
+"성북구": false
+}
+},
+{
+"q": "krhlrb_v05_2005",
+"fam": "region_comparison",
+"ngold": 2,
+"nmiss": 2,
+"answer": "성북구 / 은평구",
+"terms": [
+"성북구",
+"은평구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3446-장월일반분양모집공고-한글97": 0,
+"sh-sh-4449-은평뉴타운-분양아파트-입주자-모집공고-최종": 0
+},
+"terms_on_other_pages_same_ann": {
+"성북구": false,
+"은평구": false
+},
+"terms_anywhere": {
+"성북구": false,
+"은평구": true
+},
+"term_literal_in_q": {
+"성북구": false,
+"은평구": false
+},
+"term_stem_in_q": {
+"성북구": false,
+"은평구": true
+}
+},
+{
+"q": "krhlrb_v05_2006",
+"fam": "region_comparison",
+"ngold": 2,
+"nmiss": 2,
+"answer": "관악구 / 은평구",
+"terms": [
+"관악구",
+"은평구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3477-모집공고문": 0,
+"sh-sh-4449-최초은평공고문": 0
+},
+"terms_on_other_pages_same_ann": {
+"관악구": false,
+"은평구": false
+},
+"terms_anywhere": {
+"관악구": false,
+"은평구": true
+},
+"term_literal_in_q": {
+"관악구": false,
+"은평구": false
+},
+"term_stem_in_q": {
+"관악구": false,
+"은평구": true
+}
+},
+{
+"q": "krhlrb_v05_2007",
+"fam": "region_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "관악구 / 부산광역시",
+"terms": [
+"관악구",
+"부산광역시"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3512-입주자모집공고문": 0
+},
+"terms_on_other_pages_same_ann": {
+"관악구": false,
+"부산광역시": false
+},
+"terms_anywhere": {
+"관악구": false,
+"부산광역시": true
+},
+"term_literal_in_q": {
+"관악구": false,
+"부산광역시": false
+},
+"term_stem_in_q": {
+"관악구": false,
+"부산광역시": false
+}
+},
+{
+"q": "krhlrb_v05_2008",
+"fam": "region_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "성북구 / 동구",
+"terms": [
+"성북구",
+"동구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3572-장월무순위모집공고-2차": 0
+},
+"terms_on_other_pages_same_ann": {
+"성북구": false,
+"동구": false
+},
+"terms_anywhere": {
+"성북구": false,
+"동구": true
+},
+"term_literal_in_q": {
+"성북구": false,
+"동구": false
+},
+"term_stem_in_q": {
+"성북구": false,
+"동구": false
+}
+},
+{
+"q": "krhlrb_v05_2009",
+"fam": "region_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "성북구 / 화성시",
+"terms": [
+"성북구",
+"화성시"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-3729-장월2단지-참누리아파트-잔여세대-모집공고문-2006-6-28": 0
+},
+"terms_on_other_pages_same_ann": {
+"성북구": false,
+"화성시": false
+},
+"terms_anywhere": {
+"성북구": false,
+"화성시": true
+},
+"term_literal_in_q": {
+"성북구": false,
+"화성시": false
+},
+"term_stem_in_q": {
+"성북구": false,
+"화성시": false
+}
+},
+{
+"q": "krhlrb_v05_2010",
+"fam": "region_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "은평구 / 화성시",
+"terms": [
+"은평구",
+"화성시"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-4449-은평뉴타운-분양아파트-입주자-모집공고-최종": 0
+},
+"terms_on_other_pages_same_ann": {
+"은평구": false,
+"화성시": false
+},
+"terms_anywhere": {
+"은평구": true,
+"화성시": true
+},
+"term_literal_in_q": {
+"은평구": false,
+"화성시": false
+},
+"term_stem_in_q": {
+"은평구": true,
+"화성시": false
+}
+},
+{
+"q": "krhlrb_v05_2011",
+"fam": "region_comparison",
+"ngold": 2,
+"nmiss": 1,
+"answer": "은평구 / 북구",
+"terms": [
+"은평구",
+"북구"
+],
+"nums": [],
+"other_pages_of_missing_ann": {
+"sh-sh-4449-최초은평공고문": 0
+},
+"terms_on_other_pages_same_ann": {
+"은평구": false,
+"북구": false
+},
+"terms_anywhere": {
+"은평구": true,
+"북구": true
+},
+"term_literal_in_q": {
+"은평구": false,
+"북구": false
+},
+"term_stem_in_q": {
+"은평구": true,
+"북구": false
+}
+}
+]

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use KHAT, please cite it as below."
+title: "KHAT: A Korean Benchmark for Long-Context and Retrieval-Augmented Question Answering over Housing Announcements and Public Tables"
+version: "1.0.0"
+type: dataset
+license: CC-BY-4.0
+repository-code: "https://github.com/comsa33/khat"
+authors:
+  - family-names: Lee
+    given-names: Ruo
+    orcid: "https://orcid.org/0009-0005-4701-1967"
+  - family-names: Oh
+    given-names: Taeyeon
+    orcid: "https://orcid.org/0000-0002-1867-5554"
+keywords:
+  - benchmark
+  - Korean
+  - long-context
+  - retrieval-augmented generation
+  - question answering

@@ -1,0 +1,573 @@
+{
+ "status": {
+  "anthropic_bm25test_claude-haiku-5-5.jsonl": {
+   "cond": "bm25test",
+   "model": "claude-haiku-5-5",
+   "part": null,
+   "n": 81,
+   "status": {
+    "ok": 81
+   },
+   "retry_files": 0,
+   "max_in": 11663,
+   "max_out": 274,
+   "mean_in": 5459,
+   "mean_out": 84,
+   "thinking_present": 0,
+   "ollama_digests": [],
+   "digest_changed": false
+  },
+  "anthropic_bm25test_claude-sonnet-5-5.jsonl": {
+   "cond": "bm25test",
+   "model": "claude-sonnet-5-5",
+   "part": null,
+   "n": 81,
+   "status": {
+    "ok": 81
+   },
+   "retry_files": 0,
+   "max_in": 11663,
+   "max_out": 167,
+   "mean_in": 5459,
+   "mean_out": 81,
+   "thinking_present": 0,
+   "ollama_digests": [],
+   "digest_changed": false
+  },
+  "anthropic_devtop5_claude-haiku-5-5.jsonl": {
+   "cond": "devtop5",
+   "model": "claude-haiku-5-5",
+   "part": null,
+   "n": 144,
+   "status": {
+    "ok": 144
+   },
+   "retry_files": 0,
+   "max_in": 10406,
+   "max_out": 240,
+   "mean_in": 5231,
+   "mean_out": 80,
+   "thinking_present": 0,
+   "ollama_digests": [],
+   "digest_changed": false
+  },
+  "anthropic_devtop5_claude-sonnet-5-5.jsonl": {
+   "cond": "devtop5",
+   "model": "claude-sonnet-5-5",
+   "part": null,
+   "n": 144,
+   "status": {
+    "ok": 144
+   },
+   "retry_files": 0,
+   "max_in": 10406,
+   "max_out": 161,
+   "mean_in": 5231,
+   "mean_out": 77,
+   "thinking_present": 0,
+   "ollama_digests": [],
+   "digest_changed": false
+  },
+  "anthropic_twostage_claude-haiku-5-5__dev.jsonl": {
+   "cond": "twostage",
+   "model": "claude-haiku-5-5",
+   "part": "dev",
+   "n": 144,
+   "status": {
+    "ok": 144
+   },
+   "retry_files": 0,
+   "max_in": 38854,
+   "max_out": 2037,
+   "mean_in": 31099,
+   "mean_out": 351,
+   "thinking_present": 0,
+   "ollama_digests": [],
+   "digest_changed": false
+  },
+  "anthropic_twostage_claude-haiku-5-5__test.jsonl": {
+   "cond": "twostage",
+   "model": "claude-haiku-5-5",
+   "part": "test",
+   "n": 81,
+   "status": {
+    "ok": 81
+   },
+   "retry_files": 0,
+   "max_in": 40284,
+   "max_out": 1628,
+   "mean_in": 31169,
+   "mean_out": 201,
+   "thinking_present": 0,
+   "ollama_digests": [],
+   "digest_changed": false
+  },
+  "anthropic_twostage_claude-sonnet-5-5__dev.jsonl": {
+   "cond": "twostage",
+   "model": "claude-sonnet-5-5",
+   "part": "dev",
+   "n": 144,
+   "status": {
+    "ok": 144
+   },
+   "retry_files": 0,
+   "max_in": 38854,
+   "max_out": 1760,
+   "mean_in": 31099,
+   "mean_out": 497,
+   "thinking_present": 7,
+   "ollama_digests": [],
+   "digest_changed": false
+  },
+  "anthropic_twostage_claude-sonnet-5-5__test.jsonl": {
+   "cond": "twostage",
+   "model": "claude-sonnet-5-5",
+   "part": "test",
+   "n": 81,
+   "status": {
+    "ok": 81
+   },
+   "retry_files": 0,
+   "max_in": 40284,
+   "max_out": 1762,
+   "mean_in": 31169,
+   "mean_out": 376,
+   "thinking_present": 0,
+   "ollama_digests": [],
+   "digest_changed": false
+  },
+  "ollama_bm25test_glm-5.2.jsonl": {
+   "cond": "bm25test",
+   "model": "glm-5.2",
+   "part": null,
+   "n": 81,
+   "status": {
+    "ok": 81
+   },
+   "retry_files": 0,
+   "max_in": 9339,
+   "max_out": 881,
+   "mean_in": 4429,
+   "mean_out": 356,
+   "thinking_present": 81,
+   "ollama_digests": [
+    "2026-06-16T08:00:00-07:00|glm-5.2"
+   ],
+   "digest_changed": false
+  },
+  "ollama_bm25test_minimax-m3.jsonl": {
+   "cond": "bm25test",
+   "model": "minimax-m3",
+   "part": null,
+   "n": 81,
+   "status": {
+    "ok": 79,
+    "retry_ok": 2
+   },
+   "retry_files": 1,
+   "max_in": 7133,
+   "max_out": 873,
+   "mean_in": 3498,
+   "mean_out": 327,
+   "thinking_present": 81,
+   "ollama_digests": [
+    "2026-06-01T00:00:00Z|minimax-m3"
+   ],
+   "digest_changed": false
+  },
+  "ollama_devtop5_glm-5.2.jsonl": {
+   "cond": "devtop5",
+   "model": "glm-5.2",
+   "part": null,
+   "n": 144,
+   "status": {
+    "ok": 144
+   },
+   "retry_files": 0,
+   "max_in": 8417,
+   "max_out": 878,
+   "mean_in": 4255,
+   "mean_out": 359,
+   "thinking_present": 144,
+   "ollama_digests": [
+    "2026-06-16T08:00:00-07:00|glm-5.2"
+   ],
+   "digest_changed": false
+  },
+  "ollama_devtop5_minimax-m3.jsonl": {
+   "cond": "devtop5",
+   "model": "minimax-m3",
+   "part": null,
+   "n": 144,
+   "status": {
+    "ok": 143,
+    "retry_ok": 1
+   },
+   "retry_files": 1,
+   "max_in": 6411,
+   "max_out": 2531,
+   "mean_in": 3412,
+   "mean_out": 357,
+   "thinking_present": 144,
+   "ollama_digests": [
+    "2026-06-01T00:00:00Z|minimax-m3"
+   ],
+   "digest_changed": false
+  },
+  "ollama_twostage_glm-5.2__dev.jsonl": {
+   "cond": "twostage",
+   "model": "glm-5.2",
+   "part": "dev",
+   "n": 144,
+   "status": {
+    "ok": 141,
+    "retry_ok": 3
+   },
+   "retry_files": 1,
+   "max_in": 33117,
+   "max_out": 16384,
+   "mean_in": 26995,
+   "mean_out": 2528,
+   "thinking_present": 144,
+   "ollama_digests": [
+    "2026-06-16T08:00:00-07:00|glm-5.2"
+   ],
+   "digest_changed": false
+  },
+  "ollama_twostage_glm-5.2__test.jsonl": {
+   "cond": "twostage",
+   "model": "glm-5.2",
+   "part": "test",
+   "n": 81,
+   "status": {
+    "ok": 78,
+    "retry_ok": 2,
+    "still_empty": 1
+   },
+   "retry_files": 1,
+   "max_in": 34308,
+   "max_out": 16384,
+   "mean_in": 26804,
+   "mean_out": 2619,
+   "thinking_present": 81,
+   "ollama_digests": [
+    "2026-06-16T08:00:00-07:00|glm-5.2"
+   ],
+   "digest_changed": false
+  },
+  "ollama_twostage_minimax-m3__dev.jsonl": {
+   "cond": "twostage",
+   "model": "minimax-m3",
+   "part": "dev",
+   "n": 144,
+   "status": {
+    "ok": 144
+   },
+   "retry_files": 0,
+   "max_in": 25102,
+   "max_out": 17824,
+   "mean_in": 20597,
+   "mean_out": 2926,
+   "thinking_present": 144,
+   "ollama_digests": [
+    "2026-06-01T00:00:00Z|minimax-m3"
+   ],
+   "digest_changed": false
+  },
+  "ollama_twostage_minimax-m3__test.jsonl": {
+   "cond": "twostage",
+   "model": "minimax-m3",
+   "part": "test",
+   "n": 81,
+   "status": {
+    "ok": 80,
+    "retry_ok": 1
+   },
+   "retry_files": 1,
+   "max_in": 25998,
+   "max_out": 26210,
+   "mean_in": 20378,
+   "mean_out": 3898,
+   "thinking_present": 81,
+   "ollama_digests": [
+    "2026-06-01T00:00:00Z|minimax-m3"
+   ],
+   "digest_changed": false
+  },
+  "openai_bm25test_gpt-4.1-mini.jsonl": {
+   "cond": "bm25test",
+   "model": "gpt-4.1-mini",
+   "part": null,
+   "n": 81,
+   "status": {
+    "ok": 81
+   },
+   "retry_files": 0,
+   "max_in": 7701,
+   "max_out": 41,
+   "mean_in": 3684,
+   "mean_out": 21,
+   "thinking_present": 0,
+   "ollama_digests": [],
+   "digest_changed": false
+  },
+  "openai_bm25test_gpt-5.4-mini.jsonl": {
+   "cond": "bm25test",
+   "model": "gpt-5.4-mini",
+   "part": null,
+   "n": 81,
+   "status": {
+    "ok": 81
+   },
+   "retry_files": 0,
+   "max_in": 7700,
+   "max_out": 33,
+   "mean_in": 3683,
+   "mean_out": 19,
+   "thinking_present": 0,
+   "ollama_digests": [],
+   "digest_changed": false
+  },
+  "openai_bm25test_gpt-5.4-nano.jsonl": {
+   "cond": "bm25test",
+   "model": "gpt-5.4-nano",
+   "part": null,
+   "n": 81,
+   "status": {
+    "ok": 81
+   },
+   "retry_files": 0,
+   "max_in": 7700,
+   "max_out": 54,
+   "mean_in": 3683,
+   "mean_out": 16,
+   "thinking_present": 0,
+   "ollama_digests": [],
+   "digest_changed": false
+  },
+  "openai_bm25test_gpt-5.5.jsonl": {
+   "cond": "bm25test",
+   "model": "gpt-5.5",
+   "part": null,
+   "n": 81,
+   "status": {
+    "ok": 81
+   },
+   "retry_files": 0,
+   "max_in": 7700,
+   "max_out": 1308,
+   "mean_in": 3683,
+   "mean_out": 186,
+   "thinking_present": 81,
+   "ollama_digests": [],
+   "digest_changed": false
+  },
+  "openai_devtop5_gpt-4.1-mini.jsonl": {
+   "cond": "devtop5",
+   "model": "gpt-4.1-mini",
+   "part": null,
+   "n": 144,
+   "status": {
+    "ok": 144
+   },
+   "retry_files": 0,
+   "max_in": 6928,
+   "max_out": 50,
+   "mean_in": 3577,
+   "mean_out": 22,
+   "thinking_present": 0,
+   "ollama_digests": [],
+   "digest_changed": false
+  },
+  "openai_devtop5_gpt-5.4-mini.jsonl": {
+   "cond": "devtop5",
+   "model": "gpt-5.4-mini",
+   "part": null,
+   "n": 144,
+   "status": {
+    "ok": 144
+   },
+   "retry_files": 0,
+   "max_in": 6927,
+   "max_out": 40,
+   "mean_in": 3576,
+   "mean_out": 19,
+   "thinking_present": 0,
+   "ollama_digests": [],
+   "digest_changed": false
+  },
+  "openai_devtop5_gpt-5.4-nano.jsonl": {
+   "cond": "devtop5",
+   "model": "gpt-5.4-nano",
+   "part": null,
+   "n": 144,
+   "status": {
+    "ok": 144
+   },
+   "retry_files": 0,
+   "max_in": 6927,
+   "max_out": 40,
+   "mean_in": 3576,
+   "mean_out": 16,
+   "thinking_present": 0,
+   "ollama_digests": [],
+   "digest_changed": false
+  },
+  "openai_devtop5_gpt-5.5.jsonl": {
+   "cond": "devtop5",
+   "model": "gpt-5.5",
+   "part": null,
+   "n": 144,
+   "status": {
+    "ok": 144
+   },
+   "retry_files": 0,
+   "max_in": 6927,
+   "max_out": 2436,
+   "mean_in": 3576,
+   "mean_out": 264,
+   "thinking_present": 144,
+   "ollama_digests": [],
+   "digest_changed": false
+  },
+  "openai_twostage_gpt-4.1-mini__dev.jsonl": {
+   "cond": "twostage",
+   "model": "gpt-4.1-mini",
+   "part": "dev",
+   "n": 144,
+   "status": {
+    "ok": 144
+   },
+   "retry_files": 0,
+   "max_in": 28064,
+   "max_out": 98,
+   "mean_in": 22820,
+   "mean_out": 24,
+   "thinking_present": 0,
+   "ollama_digests": [],
+   "digest_changed": false
+  },
+  "openai_twostage_gpt-4.1-mini__test.jsonl": {
+   "cond": "twostage",
+   "model": "gpt-4.1-mini",
+   "part": "test",
+   "n": 81,
+   "status": {
+    "ok": 81
+   },
+   "retry_files": 0,
+   "max_in": 28812,
+   "max_out": 42,
+   "mean_in": 22557,
+   "mean_out": 22,
+   "thinking_present": 0,
+   "ollama_digests": [],
+   "digest_changed": false
+  },
+  "openai_twostage_gpt-5.4-mini__dev.jsonl": {
+   "cond": "twostage",
+   "model": "gpt-5.4-mini",
+   "part": "dev",
+   "n": 144,
+   "status": {
+    "ok": 144
+   },
+   "retry_files": 0,
+   "max_in": 28063,
+   "max_out": 44,
+   "mean_in": 22819,
+   "mean_out": 25,
+   "thinking_present": 0,
+   "ollama_digests": [],
+   "digest_changed": false
+  },
+  "openai_twostage_gpt-5.4-mini__test.jsonl": {
+   "cond": "twostage",
+   "model": "gpt-5.4-mini",
+   "part": "test",
+   "n": 81,
+   "status": {
+    "ok": 81
+   },
+   "retry_files": 0,
+   "max_in": 28811,
+   "max_out": 43,
+   "mean_in": 22556,
+   "mean_out": 22,
+   "thinking_present": 0,
+   "ollama_digests": [],
+   "digest_changed": false
+  },
+  "openai_twostage_gpt-5.4-nano__dev.jsonl": {
+   "cond": "twostage",
+   "model": "gpt-5.4-nano",
+   "part": "dev",
+   "n": 144,
+   "status": {
+    "ok": 144
+   },
+   "retry_files": 0,
+   "max_in": 28063,
+   "max_out": 94,
+   "mean_in": 22819,
+   "mean_out": 18,
+   "thinking_present": 0,
+   "ollama_digests": [],
+   "digest_changed": false
+  },
+  "openai_twostage_gpt-5.4-nano__test.jsonl": {
+   "cond": "twostage",
+   "model": "gpt-5.4-nano",
+   "part": "test",
+   "n": 81,
+   "status": {
+    "ok": 81
+   },
+   "retry_files": 0,
+   "max_in": 28811,
+   "max_out": 90,
+   "mean_in": 22556,
+   "mean_out": 16,
+   "thinking_present": 0,
+   "ollama_digests": [],
+   "digest_changed": false
+  },
+  "openai_twostage_gpt-5.5__dev.jsonl": {
+   "cond": "twostage",
+   "model": "gpt-5.5",
+   "part": "dev",
+   "n": 144,
+   "status": {
+    "ok": 144
+   },
+   "retry_files": 0,
+   "max_in": 28063,
+   "max_out": 3118,
+   "mean_in": 22819,
+   "mean_out": 707,
+   "thinking_present": 144,
+   "ollama_digests": [],
+   "digest_changed": false
+  },
+  "openai_twostage_gpt-5.5__test.jsonl": {
+   "cond": "twostage",
+   "model": "gpt-5.5",
+   "part": "test",
+   "n": 81,
+   "status": {
+    "ok": 81
+   },
+   "retry_files": 0,
+   "max_in": 28811,
+   "max_out": 4159,
+   "mean_in": 22556,
+   "mean_out": 816,
+   "thinking_present": 81,
+   "ollama_digests": [],
+   "digest_changed": false
+  }
+ },
+ "pending": [],
+ "model_field_failures": [],
+ "skipped": []
+}

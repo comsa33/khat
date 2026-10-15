@@ -1,0 +1,427 @@
+{
+ "status": {
+  "anthropic_bv1_claude-haiku-5-5.jsonl": {
+   "cond": "bv1",
+   "model": "claude-haiku-5-5",
+   "part": null,
+   "n": 8,
+   "status": {
+    "ok": 8
+   },
+   "retry_files": 0,
+   "max_in": 33122,
+   "max_out": 493,
+   "mean_in": 32966,
+   "mean_out": 166,
+   "thinking_present": 0,
+   "ollama_digests": [],
+   "digest_changed": false
+  },
+  "anthropic_bv1_claude-sonnet-5-5.jsonl": {
+   "cond": "bv1",
+   "model": "claude-sonnet-5-5",
+   "part": null,
+   "n": 8,
+   "status": {
+    "ok": 8
+   },
+   "retry_files": 0,
+   "max_in": 33122,
+   "max_out": 293,
+   "mean_in": 32966,
+   "mean_out": 163,
+   "thinking_present": 0,
+   "ollama_digests": [],
+   "digest_changed": false
+  },
+  "anthropic_bv2_claude-haiku-5-5.jsonl": {
+   "cond": "bv2",
+   "model": "claude-haiku-5-5",
+   "part": null,
+   "n": 8,
+   "status": {
+    "ok": 8
+   },
+   "retry_files": 0,
+   "max_in": 33122,
+   "max_out": 621,
+   "mean_in": 32905,
+   "mean_out": 238,
+   "thinking_present": 0,
+   "ollama_digests": [],
+   "digest_changed": false
+  },
+  "anthropic_bv2_claude-sonnet-5-5.jsonl": {
+   "cond": "bv2",
+   "model": "claude-sonnet-5-5",
+   "part": null,
+   "n": 8,
+   "status": {
+    "ok": 8
+   },
+   "retry_files": 0,
+   "max_in": 33122,
+   "max_out": 452,
+   "mean_in": 32905,
+   "mean_out": 282,
+   "thinking_present": 0,
+   "ollama_digests": [],
+   "digest_changed": false
+  },
+  "anthropic_bv3_claude-haiku-5-5.jsonl": {
+   "cond": "bv3",
+   "model": "claude-haiku-5-5",
+   "part": null,
+   "n": 8,
+   "status": {
+    "ok": 8
+   },
+   "retry_files": 0,
+   "max_in": 33078,
+   "max_out": 709,
+   "mean_in": 32940,
+   "mean_out": 423,
+   "thinking_present": 0,
+   "ollama_digests": [],
+   "digest_changed": false
+  },
+  "anthropic_bv3_claude-sonnet-5-5.jsonl": {
+   "cond": "bv3",
+   "model": "claude-sonnet-5-5",
+   "part": null,
+   "n": 8,
+   "status": {
+    "ok": 8
+   },
+   "retry_files": 0,
+   "max_in": 33078,
+   "max_out": 385,
+   "mean_in": 32940,
+   "mean_out": 239,
+   "thinking_present": 0,
+   "ollama_digests": [],
+   "digest_changed": false
+  },
+  "ollama_bv1_glm-5.2.jsonl": {
+   "cond": "bv1",
+   "model": "glm-5.2",
+   "part": null,
+   "n": 8,
+   "status": {
+    "ok": 8
+   },
+   "retry_files": 0,
+   "max_in": 28895,
+   "max_out": 1900,
+   "mean_in": 28658,
+   "mean_out": 1374,
+   "thinking_present": 8,
+   "ollama_digests": [
+    "2026-06-16T08:00:00-07:00|glm-5.2"
+   ],
+   "digest_changed": false
+  },
+  "ollama_bv1_minimax-m3.jsonl": {
+   "cond": "bv1",
+   "model": "minimax-m3",
+   "part": null,
+   "n": 8,
+   "status": {
+    "ok": 8
+   },
+   "retry_files": 0,
+   "max_in": 21986,
+   "max_out": 3360,
+   "mean_in": 21843,
+   "mean_out": 1686,
+   "thinking_present": 8,
+   "ollama_digests": [
+    "2026-06-01T00:00:00Z|minimax-m3"
+   ],
+   "digest_changed": false
+  },
+  "ollama_bv2_glm-5.2.jsonl": {
+   "cond": "bv2",
+   "model": "glm-5.2",
+   "part": null,
+   "n": 8,
+   "status": {
+    "ok": 8
+   },
+   "retry_files": 0,
+   "max_in": 28895,
+   "max_out": 1883,
+   "mean_in": 28588,
+   "mean_out": 1240,
+   "thinking_present": 8,
+   "ollama_digests": [
+    "2026-06-16T08:00:00-07:00|glm-5.2"
+   ],
+   "digest_changed": false
+  },
+  "ollama_bv2_minimax-m3.jsonl": {
+   "cond": "bv2",
+   "model": "minimax-m3",
+   "part": null,
+   "n": 8,
+   "status": {
+    "ok": 8
+   },
+   "retry_files": 0,
+   "max_in": 21986,
+   "max_out": 2754,
+   "mean_in": 21791,
+   "mean_out": 1586,
+   "thinking_present": 8,
+   "ollama_digests": [
+    "2026-06-01T00:00:00Z|minimax-m3"
+   ],
+   "digest_changed": false
+  },
+  "ollama_bv3_glm-5.2.jsonl": {
+   "cond": "bv3",
+   "model": "glm-5.2",
+   "part": null,
+   "n": 8,
+   "status": {
+    "ok": 8
+   },
+   "retry_files": 0,
+   "max_in": 28734,
+   "max_out": 2829,
+   "mean_in": 28573,
+   "mean_out": 1436,
+   "thinking_present": 8,
+   "ollama_digests": [
+    "2026-06-16T08:00:00-07:00|glm-5.2"
+   ],
+   "digest_changed": false
+  },
+  "ollama_bv3_minimax-m3.jsonl": {
+   "cond": "bv3",
+   "model": "minimax-m3",
+   "part": null,
+   "n": 8,
+   "status": {
+    "ok": 8
+   },
+   "retry_files": 0,
+   "max_in": 21898,
+   "max_out": 1669,
+   "mean_in": 21780,
+   "mean_out": 1144,
+   "thinking_present": 8,
+   "ollama_digests": [
+    "2026-06-01T00:00:00Z|minimax-m3"
+   ],
+   "digest_changed": false
+  },
+  "openai_bv1_gpt-4.1-mini.jsonl": {
+   "cond": "bv1",
+   "model": "gpt-4.1-mini",
+   "part": null,
+   "n": 8,
+   "status": {
+    "ok": 8
+   },
+   "retry_files": 0,
+   "max_in": 24470,
+   "max_out": 56,
+   "mean_in": 24280,
+   "mean_out": 28,
+   "thinking_present": 0,
+   "ollama_digests": [],
+   "digest_changed": false
+  },
+  "openai_bv1_gpt-5.4-mini.jsonl": {
+   "cond": "bv1",
+   "model": "gpt-5.4-mini",
+   "part": null,
+   "n": 8,
+   "status": {
+    "ok": 8
+   },
+   "retry_files": 0,
+   "max_in": 24469,
+   "max_out": 45,
+   "mean_in": 24279,
+   "mean_out": 24,
+   "thinking_present": 0,
+   "ollama_digests": [],
+   "digest_changed": false
+  },
+  "openai_bv1_gpt-5.4-nano.jsonl": {
+   "cond": "bv1",
+   "model": "gpt-5.4-nano",
+   "part": null,
+   "n": 8,
+   "status": {
+    "ok": 8
+   },
+   "retry_files": 0,
+   "max_in": 24469,
+   "max_out": 15,
+   "mean_in": 24279,
+   "mean_out": 15,
+   "thinking_present": 0,
+   "ollama_digests": [],
+   "digest_changed": false
+  },
+  "openai_bv1_gpt-5.5.jsonl": {
+   "cond": "bv1",
+   "model": "gpt-5.5",
+   "part": null,
+   "n": 8,
+   "status": {
+    "ok": 8
+   },
+   "retry_files": 0,
+   "max_in": 24469,
+   "max_out": 530,
+   "mean_in": 24279,
+   "mean_out": 456,
+   "thinking_present": 8,
+   "ollama_digests": [],
+   "digest_changed": false
+  },
+  "openai_bv2_gpt-4.1-mini.jsonl": {
+   "cond": "bv2",
+   "model": "gpt-4.1-mini",
+   "part": null,
+   "n": 8,
+   "status": {
+    "ok": 8
+   },
+   "retry_files": 0,
+   "max_in": 24470,
+   "max_out": 27,
+   "mean_in": 24228,
+   "mean_out": 24,
+   "thinking_present": 0,
+   "ollama_digests": [],
+   "digest_changed": false
+  },
+  "openai_bv2_gpt-5.4-mini.jsonl": {
+   "cond": "bv2",
+   "model": "gpt-5.4-mini",
+   "part": null,
+   "n": 8,
+   "status": {
+    "ok": 8
+   },
+   "retry_files": 0,
+   "max_in": 24469,
+   "max_out": 44,
+   "mean_in": 24226,
+   "mean_out": 29,
+   "thinking_present": 0,
+   "ollama_digests": [],
+   "digest_changed": false
+  },
+  "openai_bv2_gpt-5.4-nano.jsonl": {
+   "cond": "bv2",
+   "model": "gpt-5.4-nano",
+   "part": null,
+   "n": 8,
+   "status": {
+    "ok": 8
+   },
+   "retry_files": 0,
+   "max_in": 24469,
+   "max_out": 15,
+   "mean_in": 24226,
+   "mean_out": 15,
+   "thinking_present": 0,
+   "ollama_digests": [],
+   "digest_changed": false
+  },
+  "openai_bv2_gpt-5.5.jsonl": {
+   "cond": "bv2",
+   "model": "gpt-5.5",
+   "part": null,
+   "n": 8,
+   "status": {
+    "ok": 8
+   },
+   "retry_files": 0,
+   "max_in": 24469,
+   "max_out": 820,
+   "mean_in": 24226,
+   "mean_out": 468,
+   "thinking_present": 8,
+   "ollama_digests": [],
+   "digest_changed": false
+  },
+  "openai_bv3_gpt-4.1-mini.jsonl": {
+   "cond": "bv3",
+   "model": "gpt-4.1-mini",
+   "part": null,
+   "n": 8,
+   "status": {
+    "ok": 8
+   },
+   "retry_files": 0,
+   "max_in": 24338,
+   "max_out": 29,
+   "mean_in": 24218,
+   "mean_out": 24,
+   "thinking_present": 0,
+   "ollama_digests": [],
+   "digest_changed": false
+  },
+  "openai_bv3_gpt-5.4-mini.jsonl": {
+   "cond": "bv3",
+   "model": "gpt-5.4-mini",
+   "part": null,
+   "n": 8,
+   "status": {
+    "ok": 8
+   },
+   "retry_files": 0,
+   "max_in": 24337,
+   "max_out": 43,
+   "mean_in": 24216,
+   "mean_out": 26,
+   "thinking_present": 0,
+   "ollama_digests": [],
+   "digest_changed": false
+  },
+  "openai_bv3_gpt-5.4-nano.jsonl": {
+   "cond": "bv3",
+   "model": "gpt-5.4-nano",
+   "part": null,
+   "n": 8,
+   "status": {
+    "ok": 8
+   },
+   "retry_files": 0,
+   "max_in": 24337,
+   "max_out": 16,
+   "mean_in": 24216,
+   "mean_out": 15,
+   "thinking_present": 0,
+   "ollama_digests": [],
+   "digest_changed": false
+  },
+  "openai_bv3_gpt-5.5.jsonl": {
+   "cond": "bv3",
+   "model": "gpt-5.5",
+   "part": null,
+   "n": 8,
+   "status": {
+    "ok": 8
+   },
+   "retry_files": 0,
+   "max_in": 24337,
+   "max_out": 573,
+   "mean_in": 24216,
+   "mean_out": 474,
+   "thinking_present": 8,
+   "ollama_digests": [],
+   "digest_changed": false
+  }
+ },
+ "pending": [],
+ "model_field_failures": [],
+ "skipped": []
+}
