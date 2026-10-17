@@ -8,7 +8,7 @@ import statistics
 from functools import lru_cache
 from pathlib import Path
 
-from khat.paths import ROOT, LOCAL
+from khat.paths import ROOT, DATA, LOCAL
 PROC = LOCAL
 
 HUG = "hug-sale-history"
@@ -57,7 +57,7 @@ def hug_rows() -> list[dict]:
 
 @lru_cache(maxsize=None)
 def molit_rows() -> list[dict]:
-    return _load_jsonl(PROC / MOLIT / "rows.jsonl")
+    return _load_jsonl(DATA / "tables/molit_apt_trade_rows.jsonl")
 
 
 @lru_cache(maxsize=None)

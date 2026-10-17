@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use KHAT, please cite it as below."
 title: "KHAT: A Korean Benchmark for Long-Context and Retrieval-Augmented Question Answering over Housing Announcements and Public Tables"
 version: "1.0.0"
+doi: "10.5281/zenodo.23429293"
 type: dataset
 license: CC-BY-4.0
 repository-code: "https://github.com/comsa33/khat"

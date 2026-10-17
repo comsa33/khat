@@ -15,9 +15,10 @@ This repository holds the data, the scripts that build the bundles and run the e
 | `data/exclusions/` | items left out of evaluation |
 | `data/item_sets/` | item samples and subsets used by the runs |
 | `data/source_manifest.jsonl`, `data/bundle_sha256.csv` | source documents and the SHA-256 of every rebuilt bundle |
+| `data/tables/molit_apt_trade_rows.jsonl` | MOLIT apartment trade rows used by the bundles and gold predicates, without building number, lot and road address, registration date, buyer, seller and agent fields, and other fields the scripts do not read, obtained with `scripts/build/acquire_molit_rows.py` |
 | `results/predictions/` | model answers |
 | `results/verdicts/<judge>/` | per-item judge verdicts |
-| `results/human_labels/` | human labels of the reviews and judge validations |
+| `results/human_labels/` | human labels of the reviews, the expert review and the judge validations |
 | `results/{two_stage,same_day,exec}/` | runs of the two-stage, same-day re-run and program-execution settings |
 | `scripts/` | build, run, judge, scoring, analysis and table scripts |
 | `src/khat/` | shared paths |
@@ -33,7 +34,7 @@ Scripts are run from the repository root, for example `uv run python scripts/tab
 
 ## Rebuilding sources and bundles
 
-The source documents stay at their official portals. `scripts/build/` downloads them, extracts page text and table rows, and assembles the bundles. The reported runs used bundles in which MOLIT table rows carry their row identifiers; `scripts/build/build_bundles.py --with-row-ids` rebuilds those bundles, and the default build leaves the identifiers out. `data/bundle_sha256.csv` gives the hash of every bundle of the reported runs. These hashes are reproduced with Python 3.10 and a fixed hash seed:
+The source documents stay at their official portals. `scripts/build/` downloads them, extracts page text and the HUG table rows, and assembles the bundles with the MOLIT rows in `data/tables/`. The reported runs used bundles in which MOLIT table rows carry their row identifiers; `scripts/build/build_bundles.py --with-row-ids` rebuilds those bundles, and the default build leaves the identifiers out. `data/bundle_sha256.csv` gives the hash of every bundle of the reported runs. These hashes are reproduced with Python 3.10 and a fixed hash seed:
 
 ```bash
 PYTHONHASHSEED=1 uv run --python 3.10 --extra build python scripts/build/build_bundles.py --with-row-ids
@@ -47,6 +48,7 @@ Each command runs from the repository root as `uv run python <script> [arguments
 |---|---|
 | Dataset counts, Table 3, data card | `scripts/data/datasheet_counts.py`, `scripts/data/dataset_facts.py`, `scripts/data/scope_counts.py`, `scripts/data/verify_qa.py --qa data/construction/qa_realistic_candidates.jsonl`† |
 | Dev review | `scripts/data/dev_review.py` |
+| Expert review | `scripts/data/expert_review.py` |
 | Main scores (judge `claude-sonnet-5-5`) and retrieval recall | `scripts/score/score_test.py` |
 | Table 7 under the primary judge | `scripts/judges/kimi_cells.py results/verdicts/kimi-k2.6` |
 | Tables 7 and 8 and the generated SI tables | `scripts/tables/make_tables.py results/two_stage OUT_DIR --exec results/exec/main --same-day results/same_day`† |
@@ -75,9 +77,9 @@ Reported scores use the primary judge `kimi-k2.6`; verdicts of `claude-sonnet-5-
 
 **Composition.** 1,888 items in 11 task families (`dev` 1,541, `test_public` 347), of which 1,523 `dev` and 342 `test_public` items are evaluated after the review exclusions. The 109 items of the legal-reasoning family cite 2015 and 2018 statute versions and are kept in `data/auxiliary/`, with a check of each item against current law in `data/auxiliary/legal_errata.csv`. Each item carries the question, the gold answer, evidence locators (page, table, cell and row identifiers), public metadata (provider, region, housing type, bundle, context tier, near-duplicate cluster, split) and, for answers computed from table rows, a gold predicate. Errata files list every correction; exclusion lists name every item left out of evaluation.
 
-**Sources.** 41 announcements from 10 public housing providers in 9 regions, the HUG sale-history table, the MOLIT apartment trade table, and three housing statutes and rules. The source documents are not redistributed and remain under their original terms.
+**Sources.** 41 announcements from 10 public housing providers in 9 regions, the HUG sale-history table, the MOLIT apartment trade table, and three housing statutes and rules. Apart from the MOLIT trade rows in `data/tables/`, the source documents are not redistributed and remain under their original terms.
 
-**Annotation.** Four non-author native speakers of Korean, none of them domain experts, reviewed the items and model answers. They worked independently of each other and of the first author, were instructed not to use AI tools, and took part as volunteers. Each received gift vouchers as thanks. Annotator identities are replaced by letter codes.
+**Annotation.** Four non-author native speakers of Korean, none of them domain experts, reviewed the items and model answers. They worked independently of each other and of the first author, were instructed not to use AI tools, and took part as volunteers. Each received gift vouchers as thanks. Annotator identities are replaced by letter codes. A housing-subscription consultant with eight years of practice and no employment or authorship relation to the authors reviewed 110 `test_public` items and received a gift voucher as thanks. The consultant asked not to be named.
 
 **Model answers.** Files in `results/predictions/` are model outputs. Spans of 200 or more characters that overlap a bundle, and phone numbers absent from every bundle, are masked. They are not covered by the CC BY 4.0 license and remain subject to each model provider's terms of use.
 
@@ -85,10 +87,10 @@ Reported scores use the primary judge `kimi-k2.6`; verdicts of `claude-sonnet-5-
 
 ## License
 
-Code: MIT (`LICENSE`). Data, annotations and verdicts: CC BY 4.0. Model answers: see the data card.
+Code: MIT (`LICENSE`). Data, annotations and verdicts: CC BY 4.0. The MOLIT trade rows in `data/tables/` follow the terms of their source (Ministry of Land, Infrastructure and Transport, through the Public Data Portal data.go.kr, with no restriction on use). Model answers: see the data card.
 
 ## Citation
 
-See `CITATION.cff`.
+See `CITATION.cff`. Version 1.0.0: https://doi.org/10.5281/zenodo.23429293
 
 Earlier development release: KR-Housing-LongRAG-Bench (https://doi.org/10.5281/zenodo.20559127)
